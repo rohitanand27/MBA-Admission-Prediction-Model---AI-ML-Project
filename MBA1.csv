@@ -1,0 +1,3095 @@
+application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,admission
+5244,Male,True,3.13,Business,,590.0,5.0,Investment Banking,Reject
+3511,Female,True,3.31,Humanities,,610.0,5.0,Technology,Reject
+2154,Male,False,3.17,Humanities,Black,710.0,4.0,Consulting,Reject
+2703,Female,False,3.08,Business,White,590.0,6.0,Other,Reject
+5867,Male,False,3.24,Humanities,Black,660.0,3.0,Other,Reject
+3282,Male,False,3.25,Humanities,Black,620.0,7.0,Health Care,Reject
+4256,Female,False,3.21,Humanities,White,630.0,6.0,Technology,Reject
+443,Female,False,3.25,STEM,White,620.0,4.0,Technology,Admit
+5477,Male,False,3.22,Humanities,White,660.0,5.0,Technology,Admit
+471,Male,False,3.37,Humanities,Hispanic,720.0,6.0,Nonprofit/Gov,Admit
+716,Male,True,2.93,Business,,570.0,5.0,Nonprofit/Gov,Reject
+1266,Male,False,3.27,Humanities,Asian,670.0,5.0,PE/VC,Reject
+5361,Male,True,3.13,STEM,,630.0,6.0,Consulting,Reject
+855,Male,True,3.32,Business,,700.0,5.0,Investment Banking,Admit
+238,Male,False,3.45,Humanities,White,710.0,4.0,PE/VC,Admit
+4102,Female,False,3.34,Humanities,Asian,720.0,6.0,PE/VC,Admit
+4505,Female,True,3.36,STEM,,710.0,4.0,Other,Admit
+4787,Female,False,3.38,STEM,White,750.0,4.0,Investment Banking,Admit
+3228,Female,True,3.44,Business,,700.0,4.0,Investment Banking,Reject
+2584,Male,False,3.63,Business,White,720.0,5.0,Technology,Admit
+3125,Male,False,3.32,STEM,Black,680.0,6.0,Health Care,Admit
+5238,Male,True,3.32,Business,,690.0,4.0,Investment Banking,Reject
+243,Male,True,3.15,Humanities,,590.0,5.0,Investment Management,Reject
+1091,Female,True,3.38,Business,,700.0,6.0,Financial Services,Reject
+4333,Male,True,3.11,Humanities,,600.0,3.0,PE/VC,Reject
+426,Female,True,3.0,Humanities,,630.0,5.0,Consulting,Admit
+113,Female,False,3.25,Humanities,Hispanic,640.0,5.0,Other,Reject
+5612,Male,False,3.29,Business,Hispanic,620.0,8.0,Technology,Reject
+2148,Male,True,3.4,STEM,,690.0,4.0,PE/VC,Admit
+2422,Female,False,3.39,STEM,Asian,680.0,5.0,Consulting,Admit
+365,Female,False,3.42,Humanities,White,700.0,6.0,Consulting,Admit
+93,Male,False,3.17,STEM,White,670.0,5.0,PE/VC,Reject
+5601,Male,True,3.44,Business,,650.0,5.0,Consulting,Reject
+914,Male,False,3.1,Humanities,Asian,590.0,4.0,PE/VC,Reject
+649,Male,False,3.37,Business,Asian,680.0,4.0,Technology,Admit
+5980,Female,False,3.11,Humanities,Black,650.0,5.0,Investment Management,Reject
+3226,Male,True,3.26,Business,,580.0,5.0,Energy,Reject
+961,Female,True,3.45,Humanities,,670.0,5.0,PE/VC,Admit
+803,Male,True,3.45,Business,,680.0,5.0,Financial Services,Admit
+533,Male,False,3.48,STEM,Black,690.0,5.0,Investment Banking,Admit
+3252,Female,False,3.27,Business,Hispanic,680.0,4.0,Nonprofit/Gov,Admit
+3604,Female,True,3.22,Humanities,,700.0,5.0,Consulting,Reject
+5688,Male,False,3.55,Business,Hispanic,660.0,4.0,Technology,Admit
+3208,Female,True,3.52,Humanities,,670.0,7.0,Consulting,Admit
+338,Female,True,3.29,Humanities,,690.0,4.0,Financial Services,Admit
+4962,Male,False,3.21,Humanities,Black,600.0,5.0,Consulting,Reject
+625,Male,True,3.33,Humanities,,710.0,7.0,Health Care,Admit
+5825,Male,False,3.36,STEM,White,610.0,5.0,PE/VC,Reject
+4917,Male,True,3.27,STEM,,640.0,7.0,Technology,Reject
+5379,Male,False,3.3,STEM,Black,590.0,6.0,Technology,Reject
+5851,Female,False,3.25,Business,White,670.0,4.0,Other,Admit
+3661,Male,False,3.34,STEM,Asian,690.0,4.0,Investment Banking,Admit
+4983,Female,False,3.24,STEM,Asian,690.0,6.0,Consulting,Admit
+6154,Male,True,3.17,Business,,610.0,6.0,Consulting,Reject
+2639,Female,False,3.0,Business,Asian,680.0,4.0,Health Care,Reject
+2566,Female,False,3.3,Humanities,White,660.0,4.0,Other,Admit
+3709,Male,True,3.3,Humanities,,640.0,6.0,Consulting,Reject
+1595,Male,False,3.25,Business,White,730.0,5.0,Consulting,Admit
+5387,Male,False,3.23,Humanities,Asian,680.0,5.0,Investment Management,Admit
+3751,Female,False,3.27,Business,Asian,700.0,7.0,Consulting,Reject
+700,Male,True,3.3,Humanities,,630.0,4.0,Investment Banking,Reject
+2773,Female,False,3.22,Business,White,690.0,6.0,Technology,Admit
+2722,Female,False,3.39,Humanities,White,680.0,5.0,Technology,Admit
+882,Male,True,3.41,Business,,710.0,7.0,PE/VC,Admit
+5986,Male,True,3.23,STEM,,630.0,5.0,Health Care,Reject
+459,Female,False,3.17,Business,Other,660.0,6.0,Technology,Admit
+2818,Male,False,3.32,STEM,Asian,720.0,4.0,Technology,Admit
+5068,Female,False,3.34,Humanities,Black,740.0,4.0,Consulting,Admit
+5799,Female,False,3.27,Humanities,Other,730.0,5.0,Other,Admit
+5400,Male,False,3.32,Business,Other,730.0,5.0,Investment Management,Admit
+1196,Male,False,3.59,Humanities,Black,710.0,6.0,Investment Banking,Admit
+4645,Female,False,3.3,Business,Asian,780.0,5.0,Other,Admit
+4152,Female,False,3.58,STEM,Asian,700.0,4.0,PE/VC,Admit
+3178,Female,True,3.36,Business,,640.0,6.0,Health Care,Reject
+1978,Male,False,3.15,STEM,White,590.0,6.0,Consulting,Reject
+5420,Male,False,3.42,Business,Black,690.0,4.0,Investment Banking,Admit
+3533,Female,False,3.28,Humanities,White,670.0,8.0,Consulting,Admit
+105,Female,False,3.3,Humanities,Hispanic,670.0,4.0,Nonprofit/Gov,Admit
+4784,Female,False,3.14,Humanities,Asian,630.0,4.0,Nonprofit/Gov,Reject
+143,Female,True,3.48,STEM,,780.0,5.0,PE/VC,Admit
+1415,Male,False,3.2,STEM,White,730.0,4.0,Consulting,Reject
+3423,Male,False,3.28,STEM,White,650.0,5.0,PE/VC,Reject
+1784,Female,True,3.33,Humanities,,660.0,4.0,PE/VC,Reject
+4257,Male,False,3.35,STEM,Hispanic,720.0,5.0,Consulting,Admit
+3394,Female,False,3.53,Humanities,Hispanic,780.0,6.0,Nonprofit/Gov,Admit
+4793,Female,False,3.44,Business,White,720.0,6.0,Consulting,Admit
+114,Female,False,3.2,Humanities,Asian,680.0,7.0,Consulting,Admit
+1701,Male,False,3.16,Humanities,Asian,580.0,4.0,Consulting,Reject
+6003,Male,False,3.35,Humanities,Asian,690.0,5.0,Other,Admit
+2710,Female,False,3.55,Business,Hispanic,660.0,6.0,Health Care,Reject
+2670,Female,False,3.09,Humanities,Black,600.0,5.0,Consulting,Reject
+1866,Male,False,3.26,STEM,Other,660.0,6.0,Consulting,Admit
+5098,Male,False,3.45,Humanities,Asian,650.0,5.0,PE/VC,Reject
+1401,Male,False,3.31,STEM,Black,680.0,6.0,PE/VC,Admit
+5782,Male,False,3.37,Humanities,Asian,710.0,4.0,Technology,Admit
+88,Male,False,3.48,Business,White,710.0,5.0,Consulting,Admit
+5539,Male,False,3.09,Humanities,Asian,590.0,2.0,Consulting,Reject
+5227,Male,True,3.27,Humanities,,660.0,5.0,Health Care,Admit
+2547,Male,False,3.09,Humanities,Asian,570.0,5.0,Consulting,Reject
+2104,Male,False,3.27,Business,Asian,670.0,6.0,CPG,Admit
+1182,Female,False,3.26,STEM,White,720.0,4.0,Financial Services,Admit
+251,Male,False,3.3,Humanities,Asian,660.0,4.0,Investment Banking,Reject
+652,Male,True,3.33,Business,,690.0,3.0,Consulting,Admit
+5674,Male,False,3.35,STEM,Asian,570.0,5.0,Consulting,Reject
+3285,Male,False,3.08,Humanities,Hispanic,660.0,5.0,Health Care,Reject
+4279,Male,False,3.24,STEM,White,680.0,5.0,Consulting,Admit
+4592,Female,False,3.29,Humanities,White,680.0,5.0,Financial Services,Admit
+1971,Male,False,3.25,Business,Asian,660.0,5.0,Financial Services,Reject
+4646,Female,True,3.19,Humanities,,660.0,6.0,PE/VC,Reject
+346,Male,True,3.58,STEM,,710.0,5.0,Investment Banking,Admit
+149,Male,False,3.32,Humanities,Asian,660.0,4.0,Investment Banking,Reject
+3753,Male,False,3.28,STEM,Asian,690.0,5.0,Other,Admit
+3163,Male,True,3.12,Humanities,,610.0,4.0,Retail,Reject
+1239,Male,False,3.29,Humanities,Other,770.0,5.0,Financial Services,Admit
+5875,Female,False,3.42,Business,Black,680.0,4.0,Consulting,Admit
+2302,Male,False,3.24,STEM,White,630.0,5.0,Investment Banking,Reject
+405,Female,False,3.36,Business,White,620.0,4.0,PE/VC,Admit
+1637,Male,False,3.5,STEM,Asian,760.0,3.0,Technology,Reject
+1983,Male,False,3.43,Humanities,White,730.0,5.0,Other,Admit
+521,Male,False,3.32,Business,Asian,610.0,5.0,Nonprofit/Gov,Reject
+3711,Male,False,3.41,Business,Asian,640.0,5.0,PE/VC,Reject
+322,Female,True,3.24,STEM,,610.0,5.0,Other,Admit
+3473,Female,False,3.0,Business,White,620.0,3.0,Consulting,Reject
+2260,Female,False,3.4,STEM,White,730.0,5.0,Nonprofit/Gov,Admit
+5605,Female,True,3.42,Humanities,,670.0,6.0,Nonprofit/Gov,Admit
+1357,Male,True,3.16,STEM,,660.0,6.0,Nonprofit/Gov,Reject
+1912,Male,True,3.65,STEM,,730.0,5.0,Consulting,Admit
+6011,Male,True,3.2,Humanities,,620.0,7.0,Consulting,Reject
+4516,Male,False,3.24,Business,Asian,730.0,6.0,Investment Management,Admit
+4232,Male,True,3.21,STEM,,570.0,5.0,Consulting,Reject
+3836,Female,False,3.45,STEM,White,750.0,5.0,Other,Admit
+768,Male,False,3.46,Humanities,White,770.0,6.0,PE/VC,Admit
+3570,Male,False,3.46,Business,Other,690.0,5.0,Consulting,Admit
+2717,Female,False,3.04,Business,Black,620.0,6.0,Nonprofit/Gov,Reject
+5923,Female,True,3.28,STEM,,640.0,5.0,PE/VC,Reject
+1377,Male,False,3.58,STEM,Black,660.0,5.0,Technology,Admit
+4048,Male,False,3.21,Humanities,White,620.0,6.0,Nonprofit/Gov,Reject
+5934,Male,False,3.35,STEM,White,630.0,4.0,PE/VC,Reject
+1396,Male,True,3.49,STEM,,670.0,5.0,Consulting,Admit
+3585,Female,True,3.35,STEM,,670.0,5.0,Real Estate,Reject
+4503,Female,True,3.32,STEM,,640.0,7.0,Other,Reject
+1614,Female,False,3.26,Humanities,White,640.0,4.0,Other,Reject
+259,Male,False,3.33,STEM,Black,670.0,3.0,Technology,Reject
+1,Female,False,3.3,Business,Asian,620.0,3.0,Financial Services,Admit
+4383,Male,False,3.55,STEM,Black,700.0,5.0,PE/VC,Admit
+5949,Male,True,3.36,Humanities,,650.0,6.0,Nonprofit/Gov,Reject
+682,Male,False,3.26,Business,White,740.0,6.0,Consulting,Admit
+2694,Male,False,3.37,STEM,Asian,680.0,5.0,Nonprofit/Gov,Admit
+799,Male,False,3.25,STEM,Hispanic,740.0,5.0,PE/VC,Admit
+58,Female,True,3.05,Business,,650.0,7.0,Health Care,Admit
+6114,Male,False,3.12,Business,White,660.0,3.0,Technology,Reject
+25,Female,False,3.47,STEM,White,710.0,5.0,Consulting,Admit
+212,Female,False,3.44,Business,White,750.0,5.0,Technology,Admit
+1197,Male,False,3.5,STEM,Black,730.0,5.0,Other,Admit
+942,Male,False,3.08,STEM,Asian,570.0,4.0,Nonprofit/Gov,Reject
+5274,Male,False,3.44,Business,White,750.0,3.0,PE/VC,Admit
+5554,Male,False,3.35,Humanities,White,690.0,4.0,Financial Services,Admit
+356,Male,False,3.37,STEM,White,690.0,5.0,Consulting,Admit
+4161,Male,True,3.28,STEM,,670.0,5.0,PE/VC,Admit
+5664,Male,False,3.32,STEM,White,680.0,6.0,Health Care,Admit
+5616,Female,True,3.54,Business,,670.0,7.0,PE/VC,Reject
+1640,Male,False,3.32,STEM,Black,680.0,5.0,Technology,Admit
+920,Male,False,3.46,Business,Asian,680.0,6.0,Nonprofit/Gov,Admit
+5351,Male,False,3.58,Humanities,Asian,670.0,5.0,Financial Services,Reject
+573,Male,True,3.29,Business,,670.0,4.0,Consulting,Reject
+502,Male,False,2.96,Humanities,Black,620.0,5.0,PE/VC,Reject
+2764,Male,False,3.26,Business,Asian,680.0,6.0,Technology,Admit
+2990,Male,True,3.22,Business,,650.0,5.0,Technology,Reject
+2536,Female,False,3.3,STEM,Hispanic,650.0,4.0,Financial Services,Reject
+494,Female,True,3.18,STEM,,620.0,4.0,Nonprofit/Gov,Admit
+1482,Male,False,3.37,Humanities,Other,700.0,4.0,Technology,Admit
+1309,Male,True,3.51,STEM,,710.0,5.0,Other,Reject
+4133,Female,False,3.41,Humanities,White,780.0,5.0,PE/VC,Admit
+4724,Female,False,3.55,Humanities,White,710.0,5.0,Other,Admit
+1920,Female,False,3.55,STEM,White,680.0,5.0,Consulting,Admit
+413,Female,False,3.18,Humanities,Asian,630.0,4.0,PE/VC,Admit
+756,Female,False,3.45,Business,Asian,700.0,5.0,Other,Admit
+292,Female,True,2.99,Humanities,,630.0,6.0,Nonprofit/Gov,Admit
+5556,Male,True,3.06,Business,,590.0,5.0,Consulting,Reject
+3882,Female,False,3.27,Humanities,Black,590.0,4.0,PE/VC,Reject
+1221,Male,False,3.24,STEM,White,640.0,5.0,Nonprofit/Gov,Reject
+1338,Male,False,3.37,Business,Asian,720.0,4.0,Technology,Admit
+5073,Female,False,3.23,Business,Black,650.0,4.0,PE/VC,Reject
+1397,Male,True,3.25,Business,,630.0,6.0,Technology,Reject
+4255,Female,False,3.23,Humanities,Asian,650.0,5.0,Other,Reject
+1142,Female,True,3.29,Humanities,,690.0,5.0,PE/VC,Admit
+5789,Female,False,3.25,Humanities,Black,680.0,5.0,Consulting,Admit
+2321,Female,False,3.19,Humanities,Other,650.0,6.0,Technology,Reject
+723,Male,True,3.29,Business,,590.0,5.0,Nonprofit/Gov,Reject
+469,Female,False,3.36,Humanities,Asian,670.0,4.0,Other,Admit
+674,Male,False,3.42,Business,Other,690.0,5.0,PE/VC,Admit
+5085,Male,False,3.48,Humanities,Other,750.0,4.0,Investment Banking,Admit
+2168,Female,True,3.15,Business,,640.0,6.0,Other,Reject
+915,Female,False,3.21,STEM,Black,690.0,5.0,Nonprofit/Gov,Admit
+1793,Male,False,3.29,Business,Black,700.0,5.0,Consulting,Admit
+4794,Male,False,3.43,STEM,White,680.0,5.0,Investment Banking,Admit
+3097,Male,True,3.55,Business,,680.0,4.0,Financial Services,Admit
+2873,Male,False,3.34,Humanities,White,660.0,5.0,Health Care,Reject
+2776,Male,True,3.39,Humanities,,730.0,5.0,Consulting,Admit
+540,Male,False,3.42,STEM,Asian,710.0,5.0,Other,Admit
+1552,Female,False,3.31,Humanities,White,660.0,5.0,Technology,Admit
+5596,Male,False,3.32,Humanities,Asian,690.0,5.0,Consulting,Admit
+1547,Male,False,3.45,STEM,White,680.0,6.0,Investment Banking,Admit
+4642,Male,False,3.41,Business,Asian,730.0,5.0,PE/VC,Admit
+2672,Male,False,3.31,STEM,Asian,670.0,4.0,Consulting,Admit
+2024,Male,False,3.26,STEM,White,700.0,6.0,Health Care,Admit
+4210,Male,True,3.26,Humanities,,630.0,4.0,Technology,Reject
+1501,Male,False,3.12,Business,Asian,590.0,4.0,Health Care,Reject
+948,Male,False,3.37,Humanities,Hispanic,640.0,7.0,CPG,Reject
+1951,Male,True,3.23,STEM,,570.0,6.0,Technology,Reject
+94,Female,False,3.23,Humanities,White,620.0,7.0,Nonprofit/Gov,Admit
+3407,Male,False,3.43,Humanities,Hispanic,760.0,7.0,Consulting,Reject
+604,Female,False,3.31,STEM,Black,720.0,7.0,Technology,Admit
+641,Female,True,3.14,Business,,590.0,5.0,PE/VC,Admit
+3962,Male,False,3.35,STEM,Hispanic,690.0,6.0,PE/VC,Admit
+1449,Female,False,3.29,Humanities,White,690.0,5.0,Technology,Admit
+3021,Male,False,3.34,STEM,White,710.0,5.0,PE/VC,Admit
+2414,Male,False,3.28,Humanities,White,690.0,5.0,Investment Banking,Admit
+4163,Male,False,3.27,Humanities,Asian,660.0,3.0,PE/VC,Reject
+5289,Male,False,3.44,Business,Black,760.0,5.0,Consulting,Admit
+5194,Male,True,3.24,Business,,740.0,4.0,Consulting,Admit
+689,Male,True,3.15,Business,,640.0,6.0,Consulting,Reject
+515,Male,False,3.17,Business,Other,610.0,4.0,Consulting,Reject
+522,Male,True,3.08,Business,,690.0,6.0,Technology,Reject
+2305,Male,True,2.89,STEM,,610.0,6.0,Financial Services,Reject
+654,Female,True,3.23,Business,,640.0,4.0,Consulting,Admit
+4373,Male,False,3.28,STEM,Asian,620.0,4.0,Consulting,Reject
+1039,Male,False,3.21,Humanities,Asian,710.0,5.0,Technology,Admit
+2812,Male,True,3.26,Business,,620.0,5.0,PE/VC,Reject
+1805,Male,False,2.99,Humanities,White,570.0,5.0,Financial Services,Reject
+6151,Female,False,3.46,Business,Asian,680.0,5.0,Investment Banking,Admit
+990,Female,False,3.2,Humanities,Other,660.0,6.0,PE/VC,Admit
+4228,Male,False,3.29,Business,Asian,610.0,4.0,Consulting,Reject
+3456,Male,True,3.34,STEM,,700.0,6.0,Nonprofit/Gov,Reject
+3144,Male,False,3.29,Humanities,Asian,700.0,5.0,PE/VC,Admit
+1935,Male,True,3.17,STEM,,590.0,6.0,Consulting,Reject
+1465,Female,True,2.96,STEM,,600.0,5.0,Financial Services,Reject
+4301,Male,False,3.21,Business,Asian,680.0,5.0,Consulting,Admit
+3362,Male,True,3.48,Business,,660.0,6.0,Technology,Admit
+2436,Male,False,3.43,Humanities,Hispanic,690.0,6.0,Investment Banking,Admit
+4507,Female,False,2.91,STEM,White,610.0,6.0,Technology,Reject
+1699,Male,False,3.26,STEM,White,690.0,5.0,Consulting,Admit
+529,Female,False,3.42,Humanities,Other,760.0,5.0,Other,Admit
+5804,Male,False,3.39,Humanities,Hispanic,720.0,5.0,PE/VC,Admit
+1068,Male,False,3.11,Humanities,Asian,590.0,4.0,Consulting,Reject
+5801,Male,False,3.28,Humanities,Asian,700.0,6.0,Consulting,Admit
+1690,Female,False,3.14,Humanities,Hispanic,610.0,6.0,Investment Management,Reject
+2027,Female,False,3.42,Business,Black,730.0,4.0,CPG,Admit
+414,Male,False,3.52,Business,Asian,730.0,6.0,PE/VC,Admit
+731,Male,False,3.22,Humanities,White,600.0,5.0,Technology,Reject
+1324,Female,False,3.26,STEM,Black,710.0,5.0,Technology,Admit
+6027,Female,False,3.47,Humanities,Black,780.0,5.0,Consulting,Admit
+2715,Male,False,3.21,Business,White,670.0,5.0,Other,Admit
+1290,Male,False,3.19,STEM,Hispanic,690.0,5.0,Consulting,Reject
+4017,Female,False,3.2,STEM,Black,620.0,6.0,Technology,Reject
+1697,Female,False,3.43,Humanities,Asian,690.0,5.0,Investment Management,Admit
+5774,Male,False,3.21,Business,Black,680.0,4.0,PE/VC,Admit
+4265,Male,False,3.39,Business,Black,720.0,4.0,Investment Banking,Admit
+1358,Male,True,3.45,Humanities,,720.0,5.0,PE/VC,Admit
+474,Female,False,3.34,STEM,Other,680.0,5.0,Technology,Admit
+3148,Male,True,3.37,STEM,,760.0,4.0,Other,Reject
+201,Male,False,3.61,Business,Hispanic,690.0,5.0,Technology,Admit
+4073,Female,False,3.35,Humanities,White,710.0,3.0,Nonprofit/Gov,Admit
+5841,Male,False,2.98,Humanities,Hispanic,590.0,6.0,Nonprofit/Gov,Reject
+4495,Male,False,3.54,Business,Hispanic,620.0,5.0,Investment Management,Reject
+2218,Female,False,3.31,Humanities,Asian,630.0,4.0,Technology,Reject
+2421,Male,False,3.39,Humanities,Black,700.0,5.0,Financial Services,Admit
+4629,Female,False,3.05,Humanities,White,610.0,4.0,Technology,Reject
+1970,Male,False,3.4,Humanities,White,730.0,4.0,Consulting,Admit
+945,Male,False,3.33,Humanities,Hispanic,690.0,5.0,Technology,Admit
+5717,Male,False,3.2,Business,White,680.0,4.0,Financial Services,Reject
+43,Male,False,3.38,Humanities,Asian,720.0,5.0,Consulting,Admit
+3580,Male,False,3.47,STEM,White,750.0,4.0,PE/VC,Admit
+1156,Female,False,3.19,STEM,White,680.0,4.0,Nonprofit/Gov,Reject
+5467,Male,False,3.27,Humanities,Asian,690.0,5.0,Media/Entertainment,Admit
+1353,Female,False,3.26,Humanities,Other,670.0,4.0,Nonprofit/Gov,Reject
+5936,Female,False,3.4,STEM,Asian,690.0,5.0,PE/VC,Admit
+4038,Male,False,3.19,Humanities,White,680.0,6.0,Other,Reject
+3927,Female,False,3.42,Humanities,Other,730.0,4.0,Health Care,Admit
+2121,Female,False,3.14,STEM,Black,650.0,5.0,Technology,Reject
+2290,Male,False,3.36,Humanities,White,720.0,6.0,PE/VC,Admit
+5629,Male,False,3.39,Humanities,Asian,680.0,6.0,Health Care,Admit
+5358,Male,True,3.52,STEM,,780.0,6.0,Technology,Admit
+155,Female,False,3.55,Humanities,Asian,680.0,6.0,PE/VC,Admit
+2542,Male,False,2.92,Business,Hispanic,600.0,7.0,CPG,Reject
+2186,Male,False,3.41,Humanities,Hispanic,730.0,5.0,Investment Banking,Admit
+2291,Female,False,3.28,Business,White,670.0,7.0,Technology,Admit
+2152,Female,False,3.18,Business,Asian,580.0,5.0,Investment Banking,Reject
+2117,Female,True,3.22,STEM,,720.0,7.0,Nonprofit/Gov,Admit
+1765,Male,False,2.92,Humanities,Black,610.0,6.0,Investment Banking,Reject
+1297,Female,False,3.23,STEM,White,710.0,4.0,Consulting,Admit
+2916,Male,False,3.41,STEM,Hispanic,670.0,3.0,PE/VC,Reject
+3612,Male,False,3.42,STEM,Black,700.0,5.0,Consulting,Admit
+5118,Male,True,3.23,Humanities,,570.0,6.0,Consulting,Reject
+5316,Male,True,3.26,Humanities,,660.0,3.0,Other,Reject
+4345,Male,False,3.54,Humanities,Other,690.0,6.0,Consulting,Admit
+1763,Female,False,3.17,STEM,White,600.0,6.0,Health Care,Reject
+4293,Female,False,3.39,STEM,Black,720.0,6.0,Consulting,Admit
+302,Male,False,3.36,Business,Asian,720.0,4.0,Technology,Admit
+1591,Male,True,3.12,Humanities,,610.0,5.0,Technology,Reject
+5050,Male,False,3.54,Humanities,Asian,710.0,6.0,Nonprofit/Gov,Admit
+5719,Male,True,2.91,Humanities,,610.0,6.0,Financial Services,Reject
+5401,Male,True,3.06,Humanities,,570.0,4.0,CPG,Reject
+1822,Female,False,3.21,Humanities,Asian,720.0,6.0,Investment Banking,Admit
+5142,Female,False,3.51,STEM,White,730.0,3.0,Financial Services,Admit
+4613,Female,True,3.54,STEM,,680.0,6.0,Consulting,Admit
+506,Male,True,3.11,STEM,,590.0,5.0,Consulting,Reject
+826,Male,True,3.2,STEM,,650.0,5.0,PE/VC,Reject
+36,Male,True,3.22,Humanities,,670.0,4.0,Other,Reject
+1924,Male,False,3.23,Business,Other,680.0,5.0,Nonprofit/Gov,Admit
+1816,Male,True,3.28,STEM,,640.0,6.0,Financial Services,Reject
+3886,Male,False,3.68,Humanities,Asian,740.0,5.0,Other,Admit
+421,Male,False,3.21,Humanities,Black,700.0,5.0,Nonprofit/Gov,Admit
+886,Male,False,3.33,Business,Asian,700.0,5.0,Consulting,Admit
+4112,Male,False,2.87,Humanities,White,580.0,6.0,Technology,Reject
+4030,Female,False,3.38,Humanities,Asian,700.0,4.0,Financial Services,Admit
+621,Male,False,3.25,Business,Other,640.0,5.0,Technology,Reject
+77,Male,False,3.18,Humanities,Black,640.0,4.0,PE/VC,Reject
+2543,Male,False,3.29,STEM,Black,700.0,6.0,PE/VC,Admit
+4320,Male,False,3.28,Humanities,Hispanic,690.0,5.0,PE/VC,Admit
+186,Male,True,3.4,Humanities,,690.0,6.0,Other,Admit
+4777,Male,False,3.26,STEM,White,590.0,5.0,Real Estate,Reject
+5131,Female,False,3.44,Humanities,Asian,730.0,7.0,Technology,Admit
+1191,Male,True,3.12,Humanities,,620.0,7.0,Consulting,Reject
+5294,Female,False,3.14,Humanities,Asian,600.0,4.0,PE/VC,Reject
+4947,Female,False,3.51,Business,Black,680.0,4.0,Consulting,Admit
+1360,Female,False,3.43,Humanities,Black,670.0,5.0,Consulting,Admit
+1507,Female,False,3.42,Humanities,White,770.0,6.0,Nonprofit/Gov,Admit
+5797,Male,False,3.32,STEM,Asian,700.0,5.0,Investment Banking,Admit
+3520,Female,False,3.54,Business,Asian,710.0,5.0,Nonprofit/Gov,Admit
+3987,Male,True,3.23,Business,,600.0,7.0,Nonprofit/Gov,Reject
+4252,Male,False,3.4,Humanities,Asian,680.0,5.0,Health Care,Admit
+4840,Male,False,3.4,STEM,Hispanic,720.0,4.0,Consulting,Admit
+3593,Male,False,3.37,Humanities,Asian,660.0,4.0,Other,Reject
+1984,Male,False,3.33,STEM,White,690.0,7.0,CPG,Admit
+4659,Female,False,3.33,Humanities,Asian,680.0,6.0,PE/VC,Admit
+3445,Female,False,2.87,STEM,White,610.0,6.0,Nonprofit/Gov,Reject
+342,Male,False,3.39,Business,White,730.0,6.0,Investment Banking,Admit
+1711,Male,False,3.43,Humanities,Asian,680.0,6.0,CPG,Admit
+5550,Female,False,3.57,Business,White,720.0,5.0,Investment Banking,Admit
+3198,Female,False,3.01,Humanities,Asian,580.0,6.0,Investment Banking,Reject
+3996,Male,False,3.38,Business,White,680.0,4.0,Technology,Admit
+2532,Male,False,3.13,Humanities,White,570.0,5.0,PE/VC,Reject
+5239,Female,True,3.34,STEM,,680.0,5.0,Other,Reject
+2146,Female,False,3.24,Business,Black,700.0,5.0,Health Care,Admit
+3611,Male,False,3.45,Humanities,Black,650.0,2.0,Technology,Reject
+3225,Male,False,3.42,Humanities,Asian,780.0,5.0,Nonprofit/Gov,Admit
+190,Male,True,3.15,Humanities,,650.0,6.0,Consulting,Reject
+425,Male,False,3.23,STEM,Black,680.0,5.0,Consulting,Admit
+3976,Male,False,3.43,Humanities,White,740.0,5.0,Investment Banking,Admit
+2520,Male,False,3.51,Humanities,Other,680.0,5.0,Consulting,Admit
+1681,Male,False,3.26,Business,Black,620.0,4.0,PE/VC,Reject
+4180,Female,True,3.23,Business,,670.0,5.0,Investment Banking,Admit
+6103,Female,True,3.29,STEM,,590.0,4.0,Financial Services,Reject
+3940,Female,True,3.27,STEM,,710.0,5.0,Investment Banking,Reject
+441,Female,False,3.46,STEM,White,680.0,7.0,PE/VC,Admit
+3258,Female,True,3.41,STEM,,680.0,4.0,PE/VC,Reject
+3823,Female,False,3.26,STEM,White,750.0,5.0,PE/VC,Admit
+144,Male,False,3.1,STEM,Asian,570.0,5.0,Nonprofit/Gov,Reject
+1972,Male,False,3.42,STEM,White,730.0,6.0,Consulting,Admit
+2666,Male,True,3.24,Business,,590.0,5.0,Nonprofit/Gov,Reject
+4021,Female,True,3.21,Humanities,,640.0,4.0,Technology,Reject
+4196,Female,False,3.39,Humanities,Asian,730.0,4.0,PE/VC,Admit
+4144,Male,False,3.34,Humanities,Asian,670.0,5.0,PE/VC,Admit
+3790,Female,False,3.29,Humanities,White,640.0,5.0,PE/VC,Reject
+1596,Male,False,3.43,STEM,White,660.0,6.0,Technology,Admit
+3378,Male,True,3.55,STEM,,740.0,5.0,PE/VC,Reject
+5335,Male,False,3.3,Business,Asian,600.0,6.0,Consulting,Reject
+1045,Female,True,3.21,Humanities,,690.0,5.0,PE/VC,Admit
+386,Female,False,3.31,STEM,White,620.0,5.0,Investment Banking,Admit
+3345,Female,False,3.59,Humanities,White,740.0,5.0,Other,Admit
+1891,Male,True,3.15,STEM,,590.0,6.0,Consulting,Reject
+1317,Male,False,3.17,Humanities,Hispanic,630.0,4.0,Nonprofit/Gov,Reject
+3438,Female,True,3.13,Humanities,,690.0,4.0,Nonprofit/Gov,Reject
+2678,Male,True,3.38,STEM,,720.0,4.0,Investment Banking,Admit
+4708,Male,False,3.33,Business,Black,740.0,6.0,PE/VC,Admit
+2381,Female,False,3.49,Business,Black,680.0,4.0,Technology,Admit
+5832,Female,False,3.29,STEM,White,660.0,6.0,Health Care,Admit
+54,Female,False,3.23,STEM,Asian,700.0,6.0,PE/VC,Admit
+617,Male,True,3.46,Humanities,,680.0,5.0,Technology,Reject
+614,Male,False,3.16,STEM,White,650.0,7.0,Consulting,Reject
+5916,Female,True,3.23,STEM,,670.0,3.0,PE/VC,Reject
+5452,Male,True,3.26,Humanities,,700.0,5.0,Health Care,Reject
+412,Female,False,3.29,Business,White,600.0,5.0,Consulting,Admit
+1587,Male,False,3.32,STEM,Asian,690.0,3.0,Consulting,Reject
+792,Female,False,3.21,Humanities,Hispanic,710.0,5.0,Other,Admit
+898,Male,False,3.52,STEM,Asian,760.0,5.0,PE/VC,Admit
+4850,Male,False,3.43,STEM,White,710.0,4.0,PE/VC,Admit
+4688,Male,False,3.11,Business,White,570.0,5.0,Consulting,Reject
+2493,Male,False,3.14,Humanities,White,640.0,4.0,Consulting,Reject
+2178,Female,False,3.16,Business,Asian,660.0,4.0,Investment Banking,Reject
+5941,Male,False,3.32,Humanities,Asian,750.0,4.0,Technology,Admit
+6028,Female,False,3.26,Humanities,Asian,710.0,4.0,Technology,Admit
+2299,Male,False,3.19,Humanities,White,640.0,5.0,Other,Reject
+2122,Male,True,3.24,STEM,,680.0,5.0,Other,Admit
+4419,Male,False,3.21,STEM,Asian,620.0,5.0,Other,Reject
+4935,Female,False,3.31,STEM,Hispanic,600.0,4.0,Consulting,Reject
+3278,Male,False,3.24,STEM,Asian,680.0,4.0,Financial Services,Admit
+1737,Female,False,3.61,Business,Asian,700.0,2.0,Other,Reject
+5325,Male,True,3.25,STEM,,670.0,4.0,Nonprofit/Gov,Reject
+168,Male,False,3.36,STEM,Black,700.0,5.0,PE/VC,Admit
+100,Female,False,3.38,Humanities,White,660.0,5.0,Consulting,Admit
+5506,Female,True,3.45,STEM,,610.0,4.0,Investment Banking,Reject
+5028,Female,True,3.43,STEM,,640.0,4.0,Financial Services,Reject
+2970,Female,False,3.21,Business,Hispanic,650.0,7.0,Consulting,Reject
+1831,Male,False,3.4,Humanities,Black,690.0,6.0,Investment Banking,Admit
+4988,Male,False,3.45,Humanities,Black,690.0,5.0,Financial Services,Admit
+3617,Male,False,3.4,Humanities,Asian,710.0,4.0,Technology,Admit
+2155,Male,False,3.11,STEM,Asian,610.0,5.0,Investment Banking,Reject
+4164,Male,False,3.42,Business,Asian,750.0,5.0,Financial Services,Admit
+4215,Female,False,3.04,Humanities,Asian,610.0,5.0,Nonprofit/Gov,Reject
+4424,Male,False,3.38,STEM,Asian,720.0,5.0,Technology,Admit
+3222,Female,False,3.37,Humanities,Asian,680.0,4.0,Health Care,Admit
+2059,Male,True,3.25,Humanities,,570.0,5.0,Financial Services,Reject
+4167,Male,False,3.24,Humanities,Black,610.0,4.0,Consulting,Reject
+5480,Male,True,2.99,STEM,,600.0,5.0,Consulting,Reject
+2912,Female,False,3.37,STEM,Hispanic,700.0,5.0,Consulting,Admit
+5814,Male,False,3.43,Humanities,White,660.0,5.0,Consulting,Reject
+4289,Male,False,3.62,Business,Asian,760.0,5.0,Consulting,Admit
+2403,Female,True,3.2,Business,,650.0,5.0,PE/VC,Reject
+391,Male,False,3.42,Business,Asian,720.0,3.0,Consulting,Reject
+5530,Female,True,3.56,STEM,,650.0,5.0,Nonprofit/Gov,Reject
+897,Male,False,3.29,Humanities,Hispanic,760.0,5.0,Technology,Admit
+2771,Male,False,3.47,Business,White,680.0,6.0,PE/VC,Admit
+4100,Female,True,3.46,Business,,700.0,4.0,Nonprofit/Gov,Admit
+203,Male,True,3.1,Humanities,,580.0,6.0,Consulting,Reject
+4001,Female,False,3.76,Business,Asian,780.0,3.0,Consulting,Reject
+496,Male,False,3.33,STEM,Hispanic,640.0,5.0,PE/VC,Reject
+2107,Female,False,3.37,Humanities,Black,670.0,4.0,Technology,Admit
+6094,Male,False,3.03,Humanities,White,620.0,4.0,Consulting,Reject
+1340,Female,False,3.38,Humanities,Asian,670.0,6.0,Investment Banking,Admit
+3575,Male,False,3.22,Business,White,680.0,7.0,Consulting,Reject
+1907,Female,True,3.2,Humanities,,650.0,6.0,PE/VC,Reject
+1261,Male,False,3.24,Humanities,Black,720.0,7.0,Consulting,Reject
+601,Female,True,3.24,STEM,,660.0,5.0,Investment Management,Admit
+2494,Female,True,3.43,STEM,,660.0,7.0,Nonprofit/Gov,Reject
+5575,Female,False,3.01,Business,Hispanic,590.0,6.0,PE/VC,Reject
+4612,Male,False,3.35,Humanities,Hispanic,700.0,5.0,Nonprofit/Gov,Admit
+3287,Female,False,3.12,STEM,White,570.0,3.0,Nonprofit/Gov,Reject
+5677,Male,False,3.48,Humanities,White,740.0,6.0,Health Care,Admit
+4744,Female,False,3.36,Business,Hispanic,700.0,6.0,Nonprofit/Gov,Admit
+5913,Male,True,3.26,STEM,,660.0,6.0,Financial Services,Reject
+2954,Female,False,2.94,Business,White,620.0,5.0,Technology,Reject
+3712,Male,False,3.16,STEM,White,680.0,4.0,Financial Services,Reject
+5075,Male,False,3.25,STEM,Asian,640.0,4.0,Nonprofit/Gov,Reject
+5174,Female,True,3.27,STEM,,670.0,6.0,Financial Services,Admit
+2048,Male,False,3.2,STEM,Black,710.0,5.0,Real Estate,Reject
+2800,Male,True,2.97,STEM,,570.0,6.0,Consulting,Reject
+2525,Male,True,3.25,Humanities,,570.0,5.0,Investment Banking,Reject
+3964,Male,True,3.5,STEM,,720.0,5.0,Technology,Admit
+2511,Male,True,3.13,STEM,,570.0,5.0,Consulting,Reject
+2075,Male,False,3.44,Humanities,Asian,670.0,6.0,Consulting,Admit
+2109,Female,False,3.24,STEM,Asian,670.0,5.0,Other,Admit
+2246,Male,False,3.42,Humanities,Asian,660.0,6.0,Real Estate,Admit
+3521,Male,False,3.15,Humanities,Asian,600.0,2.0,Investment Banking,Reject
+5806,Male,True,3.35,STEM,,620.0,5.0,Financial Services,Reject
+2628,Male,False,3.07,STEM,Asian,570.0,6.0,Real Estate,Reject
+2431,Female,False,3.28,Humanities,Other,710.0,4.0,PE/VC,Admit
+4199,Female,True,3.38,STEM,,650.0,4.0,Consulting,Reject
+4081,Male,False,3.15,Humanities,Black,620.0,5.0,Health Care,Reject
+1218,Male,True,3.34,Humanities,,660.0,5.0,Health Care,Admit
+3890,Male,True,3.32,Business,,750.0,5.0,Health Care,Admit
+1792,Male,True,3.24,STEM,,670.0,8.0,Investment Management,Admit
+369,Male,False,3.22,Business,Asian,580.0,5.0,Investment Banking,Reject
+5705,Female,False,3.17,Humanities,White,660.0,6.0,Investment Management,Reject
+254,Female,False,3.61,Humanities,Black,740.0,6.0,Health Care,Admit
+3986,Male,False,3.34,Business,White,670.0,6.0,Media/Entertainment,Admit
+802,Male,False,3.36,STEM,White,640.0,3.0,Consulting,Reject
+2150,Female,True,3.06,Business,,660.0,4.0,Investment Banking,Reject
+4354,Male,False,3.26,Business,White,690.0,5.0,CPG,Admit
+872,Male,False,3.44,Humanities,Asian,720.0,5.0,Consulting,Admit
+5417,Female,False,3.36,STEM,Black,680.0,6.0,PE/VC,Admit
+4142,Female,False,3.0,Business,White,580.0,5.0,Consulting,Reject
+2466,Male,True,3.02,Humanities,,610.0,5.0,Nonprofit/Gov,Reject
+5803,Male,False,3.54,Humanities,Black,740.0,5.0,PE/VC,Admit
+4092,Male,False,3.5,Business,Asian,740.0,4.0,Investment Management,Admit
+1165,Male,False,3.32,Humanities,White,720.0,5.0,PE/VC,Admit
+5997,Female,False,3.23,Business,Black,710.0,5.0,Nonprofit/Gov,Admit
+3095,Female,False,3.32,Business,White,690.0,6.0,Investment Banking,Admit
+1460,Male,False,3.39,STEM,Other,670.0,4.0,Technology,Reject
+64,Male,False,3.36,STEM,Black,650.0,5.0,Technology,Reject
+2888,Female,False,3.42,Business,Hispanic,680.0,6.0,Nonprofit/Gov,Admit
+5107,Female,True,2.94,Humanities,,590.0,5.0,Investment Banking,Reject
+1122,Female,True,3.35,Business,,700.0,6.0,Technology,Admit
+3411,Male,False,3.38,Humanities,White,720.0,5.0,Investment Banking,Admit
+5003,Female,False,3.35,STEM,Black,710.0,3.0,Consulting,Admit
+1403,Male,False,3.32,Business,White,650.0,6.0,Consulting,Reject
+2748,Male,False,3.43,Humanities,White,680.0,4.0,Consulting,Admit
+4837,Male,False,3.39,Business,White,700.0,5.0,Consulting,Admit
+266,Male,False,3.31,Humanities,White,620.0,5.0,Nonprofit/Gov,Reject
+2846,Male,False,2.97,Business,White,610.0,5.0,PE/VC,Reject
+4844,Male,False,3.33,Humanities,Asian,720.0,5.0,Other,Admit
+4375,Female,False,3.34,STEM,Black,710.0,3.0,Investment Banking,Reject
+163,Male,False,3.41,Humanities,Black,710.0,4.0,PE/VC,Admit
+2179,Female,False,2.98,STEM,Black,650.0,6.0,Consulting,Reject
+4905,Male,False,3.15,Business,Hispanic,630.0,4.0,Investment Banking,Reject
+565,Female,False,3.42,STEM,Black,690.0,7.0,PE/VC,Reject
+3099,Male,False,3.23,Humanities,White,690.0,5.0,PE/VC,Admit
+120,Female,True,2.99,Humanities,,570.0,6.0,Real Estate,Admit
+2621,Female,False,3.17,STEM,Other,630.0,6.0,Investment Banking,Reject
+525,Male,True,3.33,Business,,720.0,4.0,Other,Reject
+5573,Male,False,3.76,Humanities,Black,780.0,5.0,Other,Admit
+1286,Male,False,3.08,STEM,Asian,640.0,5.0,Consulting,Reject
+1015,Female,True,3.38,Business,,650.0,4.0,Financial Services,Reject
+2981,Male,False,3.3,STEM,White,720.0,6.0,CPG,Admit
+3012,Female,False,3.12,Humanities,Asian,670.0,5.0,Consulting,Reject
+3391,Female,True,3.15,STEM,,660.0,4.0,Other,Reject
+844,Male,True,3.3,STEM,,660.0,3.0,Nonprofit/Gov,Admit
+964,Female,True,2.96,STEM,,580.0,5.0,PE/VC,Reject
+6113,Male,False,3.14,STEM,Black,640.0,6.0,Health Care,Reject
+4812,Female,False,3.33,Business,White,680.0,5.0,Nonprofit/Gov,Admit
+3813,Male,True,3.37,Humanities,,640.0,5.0,Financial Services,Reject
+2651,Female,False,3.32,Business,White,580.0,5.0,Technology,Reject
+3354,Female,False,3.06,Humanities,White,590.0,5.0,Health Care,Reject
+5531,Male,False,3.23,STEM,White,660.0,5.0,Financial Services,Reject
+3015,Female,False,3.37,STEM,White,710.0,4.0,PE/VC,Admit
+2268,Female,False,3.16,STEM,Asian,710.0,6.0,Nonprofit/Gov,Reject
+3184,Male,False,3.21,Humanities,Asian,690.0,5.0,Technology,Admit
+4500,Male,False,2.93,STEM,White,610.0,6.0,Technology,Reject
+1400,Female,True,3.37,Business,,740.0,4.0,Consulting,Reject
+1558,Female,True,3.35,Business,,650.0,4.0,Nonprofit/Gov,Reject
+3207,Female,True,3.41,Humanities,,710.0,3.0,PE/VC,Reject
+1347,Male,True,3.31,Humanities,,690.0,4.0,PE/VC,Admit
+3991,Female,False,3.08,STEM,White,570.0,7.0,Health Care,Reject
+5202,Male,True,3.3,Humanities,,700.0,6.0,Consulting,Reject
+5606,Male,False,3.39,Business,White,700.0,6.0,Nonprofit/Gov,Admit
+3540,Male,False,3.5,Humanities,White,720.0,4.0,Technology,Admit
+854,Female,True,3.23,Humanities,,690.0,5.0,Health Care,Admit
+583,Male,False,3.33,STEM,White,680.0,4.0,Investment Banking,Admit
+3267,Male,False,3.48,Humanities,White,750.0,5.0,Consulting,Admit
+2461,Male,False,3.49,Humanities,White,660.0,5.0,PE/VC,Admit
+5425,Female,False,3.3,Business,Asian,680.0,4.0,PE/VC,Admit
+271,Female,True,3.34,Business,,620.0,4.0,Consulting,Admit
+3586,Male,True,3.42,STEM,,680.0,7.0,Consulting,Reject
+1623,Female,True,3.39,STEM,,660.0,3.0,PE/VC,Reject
+4393,Male,False,3.25,Business,White,690.0,7.0,Investment Banking,Admit
+1376,Male,True,3.12,Business,,630.0,5.0,Investment Banking,Reject
+3215,Female,False,3.56,Business,Asian,720.0,4.0,PE/VC,Admit
+1508,Male,False,3.33,Business,Asian,760.0,6.0,PE/VC,Admit
+2784,Female,False,3.15,STEM,White,600.0,5.0,Investment Banking,Reject
+5398,Male,True,3.33,Humanities,,670.0,5.0,PE/VC,Reject
+907,Male,True,3.19,Humanities,,680.0,7.0,Consulting,Reject
+2040,Male,False,3.01,Humanities,White,660.0,4.0,PE/VC,Reject
+5172,Female,False,3.24,STEM,Asian,660.0,4.0,Technology,Reject
+2585,Male,True,3.25,STEM,,680.0,4.0,Consulting,Reject
+5543,Male,False,3.11,Humanities,White,590.0,5.0,Health Care,Reject
+5424,Female,False,3.14,Business,Black,660.0,4.0,Other,Reject
+4883,Female,False,3.25,Humanities,Asian,730.0,5.0,Financial Services,Admit
+1017,Female,False,3.45,Humanities,Asian,710.0,7.0,CPG,Admit
+324,Female,True,3.14,Humanities,,580.0,5.0,Nonprofit/Gov,Admit
+98,Male,True,3.36,STEM,,690.0,5.0,CPG,Reject
+4806,Male,True,3.09,STEM,,590.0,5.0,PE/VC,Reject
+4867,Male,True,3.2,Business,,650.0,4.0,Investment Banking,Reject
+628,Male,False,3.18,Business,Hispanic,570.0,5.0,Health Care,Reject
+1033,Male,False,3.32,STEM,Black,700.0,5.0,Technology,Admit
+3183,Male,True,3.47,STEM,,650.0,5.0,Consulting,Reject
+50,Male,False,3.38,STEM,Hispanic,680.0,5.0,Consulting,Admit
+3233,Male,True,3.27,STEM,,640.0,6.0,Other,Reject
+40,Female,False,3.45,Humanities,Asian,640.0,3.0,PE/VC,Admit
+4367,Male,False,3.55,Business,Asian,700.0,6.0,Nonprofit/Gov,Admit
+3269,Female,False,2.89,Humanities,Black,580.0,6.0,Financial Services,Reject
+1521,Male,True,3.02,Humanities,,710.0,4.0,Consulting,Reject
+1292,Female,False,3.65,Business,White,660.0,5.0,Investment Banking,Admit
+5845,Female,False,3.34,STEM,White,710.0,4.0,Consulting,Admit
+1458,Male,True,3.31,STEM,,680.0,4.0,Consulting,Admit
+84,Female,False,3.35,Humanities,White,710.0,6.0,Consulting,Admit
+200,Male,False,3.5,STEM,Hispanic,700.0,6.0,Investment Management,Admit
+4954,Male,False,3.31,STEM,Asian,670.0,6.0,Nonprofit/Gov,Reject
+1991,Male,False,3.36,Business,Black,680.0,5.0,Consulting,Admit
+3872,Male,False,3.35,STEM,White,650.0,6.0,Health Care,Reject
+727,Male,False,3.39,STEM,White,730.0,5.0,Financial Services,Admit
+4831,Female,False,3.13,STEM,Asian,570.0,4.0,CPG,Reject
+4584,Male,False,3.29,STEM,White,660.0,3.0,Consulting,Admit
+202,Male,False,3.11,STEM,Black,650.0,5.0,Financial Services,Reject
+1797,Male,True,3.3,Humanities,,650.0,4.0,Investment Banking,Reject
+2711,Female,True,3.09,Business,,570.0,4.0,Consulting,Reject
+1827,Male,True,3.21,Humanities,,730.0,3.0,Consulting,Admit
+2852,Female,False,3.24,Humanities,Asian,690.0,5.0,Financial Services,Admit
+5878,Male,False,3.15,Humanities,Hispanic,610.0,6.0,Other,Reject
+5822,Male,False,3.47,Business,White,650.0,6.0,Financial Services,Reject
+5191,Female,False,3.14,Humanities,Asian,620.0,6.0,Investment Banking,Reject
+2770,Male,False,3.04,STEM,Black,580.0,5.0,Consulting,Reject
+3017,Male,False,3.6,Humanities,Black,680.0,4.0,Consulting,Admit
+1412,Female,False,3.2,Business,Other,710.0,5.0,PE/VC,Reject
+5255,Male,True,3.4,Business,,670.0,5.0,Other,Reject
+2516,Female,False,3.45,Humanities,White,720.0,5.0,PE/VC,Admit
+644,Male,False,3.14,STEM,White,720.0,6.0,Technology,Reject
+4879,Male,False,3.34,Humanities,White,710.0,5.0,Other,Admit
+2336,Female,False,3.46,STEM,Hispanic,680.0,3.0,CPG,Reject
+1016,Male,False,3.07,STEM,Other,600.0,4.0,PE/VC,Reject
+5709,Male,False,3.32,Humanities,White,750.0,6.0,Consulting,Admit
+546,Male,False,3.3,Humanities,Hispanic,780.0,5.0,Consulting,Admit
+1864,Female,True,3.24,Humanities,,710.0,4.0,Technology,Admit
+6149,Male,False,3.3,Business,White,710.0,5.0,Investment Management,Admit
+6184,Female,False,3.06,Humanities,Black,660.0,5.0,Nonprofit/Gov,Reject
+2914,Male,True,3.36,STEM,,730.0,5.0,Consulting,Admit
+360,Male,False,3.06,Humanities,Asian,600.0,5.0,PE/VC,Reject
+4978,Male,True,3.28,Business,,610.0,5.0,PE/VC,Reject
+3392,Male,True,3.18,Humanities,,630.0,6.0,Consulting,Reject
+3028,Female,False,3.32,Business,Asian,620.0,5.0,Nonprofit/Gov,Reject
+2157,Male,False,3.42,Humanities,Black,720.0,5.0,PE/VC,Admit
+5812,Male,False,3.26,Humanities,Black,710.0,6.0,Nonprofit/Gov,Admit
+4528,Female,False,3.17,Business,Hispanic,570.0,5.0,Technology,Reject
+686,Female,False,3.58,Business,Other,780.0,5.0,Technology,Admit
+1761,Male,True,3.38,Humanities,,710.0,5.0,Technology,Admit
+3862,Male,False,3.26,STEM,White,680.0,4.0,Health Care,Admit
+3935,Female,False,3.37,Business,White,710.0,7.0,Investment Management,Admit
+5025,Female,False,2.98,Humanities,White,590.0,8.0,Nonprofit/Gov,Reject
+4254,Female,False,3.47,STEM,White,700.0,4.0,Technology,Admit
+969,Male,False,3.56,Humanities,Asian,700.0,6.0,Technology,Admit
+4070,Male,False,3.38,Business,Hispanic,680.0,6.0,PE/VC,Admit
+5338,Male,True,3.01,Business,,670.0,3.0,Health Care,Reject
+3686,Female,True,3.28,Business,,730.0,6.0,Nonprofit/Gov,Reject
+1169,Male,False,3.13,Humanities,Black,620.0,5.0,Consulting,Reject
+2105,Female,False,3.24,Humanities,Black,670.0,6.0,Technology,Reject
+3766,Male,False,3.23,STEM,White,640.0,5.0,Consulting,Reject
+5436,Female,True,3.39,Humanities,,700.0,6.0,Technology,Reject
+3998,Male,False,3.24,STEM,White,680.0,7.0,Technology,Admit
+2965,Female,False,3.16,Humanities,Black,630.0,5.0,Consulting,Reject
+397,Male,False,3.38,Humanities,White,680.0,4.0,Financial Services,Admit
+3756,Female,True,3.12,Business,,590.0,5.0,Financial Services,Reject
+334,Male,True,3.06,STEM,,630.0,5.0,Financial Services,Reject
+2487,Male,False,3.05,STEM,White,610.0,6.0,Other,Reject
+5468,Male,False,2.96,Humanities,Hispanic,570.0,6.0,Consulting,Reject
+2217,Male,False,3.25,STEM,White,600.0,5.0,Investment Banking,Reject
+2786,Male,False,3.21,STEM,Asian,690.0,6.0,PE/VC,Admit
+6053,Male,True,3.21,Humanities,,620.0,4.0,Investment Banking,Reject
+4568,Male,False,3.21,Humanities,Black,670.0,3.0,Other,Reject
+5926,Female,False,3.36,Humanities,Asian,670.0,7.0,Nonprofit/Gov,Reject
+541,Female,True,3.16,Humanities,,690.0,4.0,Consulting,Admit
+1035,Male,False,3.44,Humanities,Other,710.0,7.0,Other,Admit
+2405,Male,True,3.29,Business,,660.0,4.0,Nonprofit/Gov,Reject
+2498,Female,False,3.51,Humanities,Asian,680.0,2.0,Technology,Reject
+5620,Male,False,3.32,Humanities,Asian,640.0,5.0,Investment Banking,Reject
+5762,Male,False,3.52,Humanities,Asian,670.0,5.0,Nonprofit/Gov,Reject
+5058,Male,True,3.44,Humanities,,660.0,4.0,PE/VC,Reject
+975,Female,True,3.5,Humanities,,750.0,5.0,Financial Services,Admit
+6033,Male,True,3.26,STEM,,660.0,5.0,Consulting,Admit
+1936,Male,True,3.17,Business,,570.0,5.0,Real Estate,Reject
+2083,Female,False,3.06,Humanities,White,710.0,5.0,Investment Management,Reject
+3160,Male,False,3.45,Humanities,Black,660.0,4.0,Technology,Reject
+2643,Male,False,3.41,Business,Asian,660.0,4.0,Technology,Reject
+4483,Male,False,3.3,Business,Black,630.0,4.0,Consulting,Reject
+1651,Male,True,3.5,Humanities,,730.0,5.0,Consulting,Admit
+1274,Female,True,3.08,Business,,680.0,4.0,Technology,Reject
+528,Female,False,3.03,STEM,White,600.0,5.0,Financial Services,Admit
+3068,Female,False,3.5,Humanities,Asian,750.0,3.0,Retail,Admit
+913,Male,True,3.38,STEM,,680.0,5.0,Technology,Reject
+561,Male,False,3.31,STEM,Asian,680.0,6.0,Consulting,Admit
+1029,Male,False,3.51,Humanities,White,710.0,6.0,Investment Banking,Admit
+2640,Female,False,3.08,Humanities,Asian,610.0,7.0,Nonprofit/Gov,Reject
+707,Male,False,3.35,STEM,Asian,720.0,4.0,Consulting,Admit
+2399,Female,False,3.21,Humanities,Hispanic,660.0,4.0,Other,Reject
+5497,Female,False,3.4,Humanities,White,700.0,6.0,Health Care,Admit
+5284,Female,False,3.28,STEM,Hispanic,600.0,5.0,Investment Banking,Reject
+3694,Male,False,3.46,STEM,Asian,750.0,6.0,Consulting,Admit
+1179,Male,False,3.28,Business,White,690.0,6.0,Technology,Admit
+2883,Female,False,3.1,Humanities,White,660.0,6.0,PE/VC,Reject
+766,Male,False,3.08,STEM,Black,570.0,4.0,Nonprofit/Gov,Reject
+5064,Female,False,3.13,Humanities,Asian,650.0,5.0,PE/VC,Reject
+221,Male,False,3.09,Humanities,Asian,690.0,5.0,Other,Reject
+2346,Male,True,2.72,STEM,,570.0,6.0,Investment Banking,Reject
+4287,Female,False,3.13,STEM,White,690.0,4.0,PE/VC,Reject
+2235,Male,False,3.13,Humanities,White,580.0,6.0,Financial Services,Reject
+16,Female,True,3.05,Humanities,,710.0,4.0,Consulting,Admit
+5853,Male,False,3.27,STEM,White,700.0,5.0,Consulting,Admit
+1220,Female,False,3.25,Business,White,630.0,3.0,Financial Services,Reject
+2747,Female,False,3.11,Humanities,Hispanic,660.0,4.0,Other,Reject
+1226,Female,False,3.35,STEM,White,680.0,4.0,Investment Banking,Admit
+3957,Male,False,3.42,STEM,White,700.0,5.0,Nonprofit/Gov,Admit
+5365,Female,True,3.41,Business,,660.0,6.0,Consulting,Admit
+5313,Male,False,3.37,Humanities,Asian,700.0,6.0,PE/VC,Admit
+874,Male,True,3.21,Business,,640.0,3.0,Financial Services,Reject
+483,Female,True,3.28,Business,,600.0,6.0,Consulting,Admit
+734,Male,False,3.3,Humanities,Asian,700.0,6.0,Nonprofit/Gov,Admit
+579,Male,False,3.46,Business,Hispanic,660.0,6.0,Technology,Admit
+2636,Male,False,3.43,Humanities,Other,710.0,5.0,Technology,Admit
+108,Male,False,3.2,STEM,White,590.0,5.0,Consulting,Reject
+222,Male,False,3.64,STEM,Black,680.0,4.0,PE/VC,Admit
+5764,Female,True,3.46,Business,,730.0,5.0,PE/VC,Admit
+1796,Female,False,3.13,Business,White,620.0,4.0,Consulting,Reject
+5855,Male,True,3.32,Humanities,,720.0,6.0,PE/VC,Admit
+5383,Male,True,3.1,Humanities,,700.0,6.0,PE/VC,Reject
+2564,Male,False,3.36,Business,Asian,630.0,4.0,Consulting,Reject
+4097,Male,False,3.14,Humanities,Asian,680.0,7.0,Consulting,Reject
+1193,Male,False,3.34,STEM,White,620.0,6.0,Investment Banking,Reject
+4128,Female,False,3.25,STEM,Black,630.0,6.0,PE/VC,Reject
+3999,Female,True,3.18,STEM,,650.0,3.0,Real Estate,Reject
+5827,Male,False,3.32,STEM,White,690.0,5.0,PE/VC,Admit
+241,Female,False,3.15,Business,White,620.0,6.0,Technology,Admit
+4726,Male,True,3.02,Business,,620.0,5.0,Technology,Reject
+5724,Female,False,3.24,STEM,White,670.0,6.0,PE/VC,Admit
+3825,Female,True,3.28,Business,,610.0,5.0,Other,Reject
+4206,Female,False,3.25,STEM,White,700.0,5.0,CPG,Admit
+3062,Male,True,3.08,STEM,,600.0,4.0,Media/Entertainment,Reject
+109,Male,True,3.3,STEM,,590.0,5.0,Other,Reject
+2804,Male,False,3.07,STEM,Hispanic,650.0,5.0,Other,Reject
+558,Female,True,3.04,Business,,620.0,6.0,Nonprofit/Gov,Admit
+4292,Female,True,3.26,STEM,,700.0,5.0,Consulting,Admit
+3234,Male,True,2.86,Business,,570.0,5.0,Consulting,Reject
+1756,Female,False,3.22,Business,White,670.0,6.0,Nonprofit/Gov,Reject
+2012,Male,True,3.25,Humanities,,620.0,6.0,Consulting,Reject
+4585,Male,False,3.36,Humanities,White,640.0,6.0,PE/VC,Reject
+4268,Female,True,3.57,STEM,,670.0,5.0,Investment Banking,Admit
+6124,Female,False,3.25,Humanities,Black,630.0,4.0,Nonprofit/Gov,Reject
+4511,Male,False,3.24,Humanities,White,710.0,6.0,Nonprofit/Gov,Admit
+4696,Male,False,3.28,Business,Black,720.0,5.0,Consulting,Admit
+5434,Male,False,3.32,Humanities,Asian,720.0,5.0,Financial Services,Admit
+449,Male,False,3.33,Business,White,660.0,5.0,Investment Banking,Reject
+1285,Male,False,3.2,Humanities,Black,670.0,5.0,Other,Reject
+1489,Male,True,3.22,Humanities,,680.0,6.0,Technology,Admit
+5214,Male,False,3.21,Business,White,750.0,4.0,Consulting,Admit
+4524,Female,False,3.08,Humanities,Black,620.0,4.0,PE/VC,Reject
+2961,Male,False,3.28,Humanities,White,720.0,3.0,Consulting,Admit
+5408,Female,False,3.41,STEM,White,760.0,6.0,Consulting,Admit
+5570,Male,False,3.17,Humanities,White,720.0,3.0,Consulting,Reject
+4734,Male,False,3.73,Humanities,Black,780.0,5.0,Nonprofit/Gov,Admit
+5676,Male,False,3.26,Humanities,Asian,640.0,6.0,Other,Reject
+1106,Female,False,3.13,Business,Asian,600.0,6.0,PE/VC,Reject
+530,Female,False,3.27,Humanities,Other,650.0,6.0,Investment Banking,Admit
+23,Female,True,3.42,Business,,640.0,6.0,Consulting,Admit
+2317,Female,False,3.3,STEM,Asian,610.0,7.0,Nonprofit/Gov,Reject
+1295,Male,True,3.33,STEM,,730.0,5.0,Investment Management,Admit
+3546,Male,True,3.35,Humanities,,660.0,2.0,Real Estate,Admit
+2089,Female,False,3.18,STEM,White,660.0,4.0,Nonprofit/Gov,Reject
+2806,Male,False,3.21,Business,Asian,620.0,5.0,Financial Services,Reject
+5557,Female,True,3.42,Humanities,,690.0,4.0,Other,Admit
+4037,Female,False,3.43,STEM,White,700.0,8.0,Nonprofit/Gov,Reject
+4820,Male,False,3.27,STEM,Asian,650.0,6.0,Investment Banking,Reject
+2705,Male,False,3.21,Humanities,White,690.0,4.0,PE/VC,Admit
+3205,Male,False,3.42,Humanities,Hispanic,570.0,6.0,PE/VC,Reject
+5048,Female,False,3.21,STEM,Black,650.0,5.0,Investment Banking,Reject
+1708,Female,False,3.22,STEM,Other,680.0,4.0,Investment Banking,Admit
+2279,Male,True,3.58,STEM,,700.0,5.0,Consulting,Admit
+2095,Female,False,3.3,STEM,Other,730.0,4.0,Investment Banking,Admit
+2077,Male,True,3.25,Business,,670.0,4.0,PE/VC,Reject
+3071,Male,False,3.38,Humanities,White,670.0,6.0,Consulting,Admit
+2932,Male,False,3.59,STEM,Asian,730.0,4.0,Investment Banking,Admit
+3221,Female,False,3.0,Humanities,Black,610.0,7.0,Investment Banking,Reject
+1741,Female,True,3.38,STEM,,670.0,5.0,Other,Admit
+3002,Female,False,3.29,Humanities,Asian,710.0,5.0,PE/VC,Admit
+1995,Male,False,3.51,Humanities,Hispanic,720.0,6.0,Investment Management,Admit
+2449,Male,False,3.17,Business,White,630.0,5.0,Nonprofit/Gov,Reject
+4506,Male,True,3.44,Humanities,,750.0,5.0,Other,Reject
+4602,Male,False,3.21,Business,Black,680.0,6.0,Consulting,Admit
+5109,Female,True,3.18,Humanities,,600.0,4.0,Consulting,Reject
+5220,Female,False,3.24,Business,Black,690.0,5.0,Technology,Admit
+4785,Male,False,3.36,Humanities,Black,710.0,4.0,Technology,Admit
+3729,Female,True,3.24,Business,,580.0,6.0,Health Care,Reject
+301,Male,False,3.37,Business,Hispanic,690.0,5.0,Nonprofit/Gov,Admit
+5012,Male,False,3.45,Business,Asian,590.0,6.0,Nonprofit/Gov,Reject
+542,Male,False,3.43,STEM,White,700.0,4.0,PE/VC,Admit
+1908,Male,True,3.29,STEM,,640.0,6.0,PE/VC,Reject
+1009,Male,False,3.41,Humanities,Asian,690.0,6.0,PE/VC,Admit
+4042,Female,False,3.2,Business,White,700.0,6.0,Technology,Reject
+1671,Male,True,3.22,Humanities,,620.0,5.0,PE/VC,Reject
+5948,Female,False,3.3,STEM,Asian,590.0,4.0,PE/VC,Reject
+658,Female,False,3.17,Business,Other,570.0,6.0,Other,Admit
+520,Female,False,3.18,Business,Black,600.0,5.0,Health Care,Reject
+4094,Male,True,3.4,Humanities,,730.0,4.0,Other,Admit
+2758,Male,False,3.35,Humanities,Black,630.0,5.0,Financial Services,Reject
+5378,Female,False,3.36,Business,Other,700.0,5.0,PE/VC,Admit
+6153,Female,False,3.31,Business,Black,690.0,3.0,Other,Admit
+4999,Female,True,3.14,STEM,,590.0,5.0,Nonprofit/Gov,Reject
+4656,Male,False,3.25,Humanities,White,680.0,4.0,Consulting,Admit
+2713,Female,False,3.38,STEM,Black,610.0,8.0,Consulting,Reject
+3309,Female,False,3.43,Business,White,730.0,4.0,Nonprofit/Gov,Admit
+3946,Male,True,3.0,STEM,,610.0,5.0,Investment Banking,Reject
+3518,Male,False,3.23,Humanities,Hispanic,670.0,6.0,PE/VC,Reject
+1447,Female,False,3.42,Humanities,Asian,720.0,6.0,Health Care,Admit
+1472,Male,False,3.4,Business,White,750.0,6.0,PE/VC,Admit
+770,Male,False,3.3,Humanities,Black,640.0,6.0,Nonprofit/Gov,Reject
+3034,Male,False,3.27,Humanities,White,720.0,4.0,Nonprofit/Gov,Admit
+2159,Male,False,3.33,Humanities,White,680.0,7.0,Consulting,Reject
+1088,Male,False,3.34,Humanities,Asian,720.0,6.0,Health Care,Admit
+3737,Male,True,3.56,Humanities,,730.0,4.0,PE/VC,Reject
+4165,Male,False,3.01,Humanities,Hispanic,590.0,6.0,PE/VC,Reject
+4547,Female,False,3.13,STEM,Black,570.0,5.0,Financial Services,Reject
+4913,Female,False,3.49,Humanities,Asian,720.0,4.0,Consulting,Admit
+2341,Female,False,3.24,Business,White,620.0,6.0,Investment Banking,Reject
+451,Male,False,3.3,Humanities,Black,610.0,5.0,Consulting,Reject
+4810,Female,False,3.26,Humanities,Other,720.0,3.0,PE/VC,Reject
+5484,Female,False,3.5,Humanities,White,750.0,5.0,Technology,Admit
+130,Female,False,3.27,Business,White,660.0,6.0,Other,Admit
+227,Male,False,3.4,Business,Asian,630.0,4.0,Consulting,Reject
+3820,Male,False,3.39,STEM,White,720.0,4.0,PE/VC,Admit
+4350,Female,False,3.25,STEM,White,670.0,5.0,Technology,Admit
+4961,Female,True,3.04,Business,,640.0,6.0,PE/VC,Reject
+5189,Male,True,3.1,Humanities,,620.0,5.0,Consulting,Reject
+2887,Male,True,3.12,STEM,,580.0,5.0,Nonprofit/Gov,Reject
+2603,Female,False,3.22,STEM,White,610.0,5.0,Investment Banking,Reject
+1860,Male,False,3.31,Business,Hispanic,670.0,4.0,Nonprofit/Gov,Reject
+1863,Male,False,3.28,Humanities,Hispanic,710.0,5.0,Investment Banking,Admit
+3000,Male,False,3.55,Business,Asian,760.0,6.0,Consulting,Admit
+3081,Male,True,3.27,STEM,,710.0,5.0,Other,Reject
+4915,Male,True,3.21,Humanities,,700.0,3.0,Financial Services,Admit
+6064,Female,False,3.17,Humanities,Hispanic,610.0,4.0,Technology,Reject
+3272,Female,True,3.36,Business,,720.0,5.0,Nonprofit/Gov,Reject
+3127,Male,False,3.44,Humanities,White,660.0,5.0,Consulting,Reject
+3749,Male,False,3.28,Business,Asian,750.0,3.0,Media/Entertainment,Admit
+2000,Female,False,3.06,Business,Black,620.0,5.0,Investment Banking,Reject
+3037,Male,True,3.23,Humanities,,680.0,6.0,Consulting,Admit
+5320,Male,False,3.02,Humanities,White,650.0,5.0,Investment Banking,Reject
+3130,Female,True,3.11,Business,,600.0,5.0,Consulting,Reject
+5447,Male,False,3.28,STEM,Black,710.0,5.0,PE/VC,Admit
+1525,Male,False,3.4,Humanities,Hispanic,620.0,5.0,Consulting,Reject
+1366,Male,True,3.29,STEM,,610.0,4.0,Investment Banking,Reject
+5263,Male,False,3.12,Business,Other,610.0,4.0,Consulting,Reject
+1346,Male,True,3.47,STEM,,720.0,7.0,Investment Banking,Admit
+1498,Male,False,3.3,Humanities,Hispanic,600.0,5.0,PE/VC,Reject
+593,Male,False,3.44,Business,White,660.0,6.0,Consulting,Admit
+812,Male,True,3.39,Humanities,,600.0,6.0,Health Care,Reject
+257,Female,False,3.47,STEM,Black,730.0,4.0,Technology,Admit
+2865,Female,False,3.35,Business,Black,700.0,6.0,Consulting,Admit
+3230,Female,False,3.12,Humanities,Asian,620.0,4.0,Consulting,Reject
+387,Female,False,3.03,Humanities,Asian,590.0,5.0,Consulting,Admit
+754,Male,True,3.24,Humanities,,670.0,5.0,Other,Admit
+642,Male,True,3.34,Business,,660.0,5.0,Consulting,Admit
+5169,Male,True,3.29,STEM,,660.0,6.0,Technology,Reject
+1674,Male,True,3.11,Business,,570.0,5.0,Health Care,Reject
+4857,Male,False,3.29,Humanities,White,670.0,5.0,Consulting,Reject
+2790,Male,False,3.53,Humanities,Hispanic,740.0,5.0,Consulting,Admit
+2899,Male,True,3.41,Humanities,,750.0,4.0,Other,Admit
+81,Male,False,2.93,Humanities,Hispanic,620.0,4.0,Technology,Reject
+3177,Female,False,3.51,Business,Hispanic,680.0,6.0,Real Estate,Admit
+5283,Male,False,3.21,Humanities,White,620.0,3.0,Consulting,Reject
+2169,Male,True,2.87,STEM,,610.0,4.0,Nonprofit/Gov,Reject
+5930,Male,False,3.48,Humanities,Asian,760.0,8.0,Financial Services,Admit
+5354,Male,False,3.24,Humanities,Asian,660.0,3.0,Consulting,Reject
+4190,Female,False,3.4,STEM,Asian,710.0,6.0,Consulting,Admit
+3666,Male,False,3.32,Humanities,Asian,680.0,6.0,PE/VC,Admit
+4833,Female,True,3.61,Humanities,,680.0,4.0,Consulting,Admit
+5167,Female,False,3.25,STEM,Black,720.0,6.0,Consulting,Admit
+3588,Male,False,3.65,Humanities,Hispanic,730.0,6.0,Nonprofit/Gov,Admit
+1750,Male,False,3.17,Humanities,Hispanic,690.0,5.0,PE/VC,Reject
+1463,Female,False,3.45,Humanities,Asian,690.0,5.0,CPG,Admit
+1901,Female,False,3.25,STEM,White,660.0,5.0,Technology,Reject
+395,Male,True,3.32,STEM,,580.0,5.0,Real Estate,Reject
+377,Female,True,3.18,Business,,690.0,3.0,Financial Services,Admit
+3552,Male,True,3.52,Business,,750.0,6.0,Consulting,Admit
+3400,Male,False,3.13,Humanities,Asian,690.0,3.0,PE/VC,Reject
+5219,Male,False,3.19,Humanities,Black,650.0,5.0,PE/VC,Reject
+2416,Female,False,3.43,Humanities,Asian,680.0,5.0,Financial Services,Admit
+2528,Male,True,3.19,STEM,,670.0,4.0,Investment Banking,Reject
+4437,Female,False,3.37,Humanities,Asian,620.0,6.0,Investment Management,Reject
+594,Female,True,3.19,STEM,,700.0,5.0,Consulting,Admit
+4231,Male,False,3.16,Business,White,690.0,4.0,Health Care,Reject
+5702,Male,False,3.27,Humanities,Black,660.0,7.0,Nonprofit/Gov,Reject
+615,Female,False,3.22,Humanities,Black,660.0,5.0,Technology,Admit
+234,Male,True,3.33,STEM,,720.0,5.0,Nonprofit/Gov,Admit
+857,Male,False,3.58,Business,Hispanic,730.0,6.0,CPG,Admit
+3577,Female,False,3.3,Humanities,Hispanic,660.0,4.0,Financial Services,Admit
+4340,Female,False,3.39,STEM,Other,730.0,3.0,Technology,Admit
+3306,Male,False,3.43,Humanities,White,710.0,5.0,Consulting,Admit
+4434,Female,True,3.41,Humanities,,700.0,5.0,PE/VC,Admit
+663,Female,True,3.23,STEM,,650.0,4.0,Financial Services,Admit
+5561,Female,False,3.37,Business,White,670.0,7.0,Consulting,Admit
+3387,Male,True,2.97,STEM,,570.0,5.0,Investment Banking,Reject
+473,Male,False,3.48,Business,Black,690.0,5.0,Investment Banking,Admit
+127,Male,True,3.4,Humanities,,730.0,5.0,Nonprofit/Gov,Reject
+4440,Male,False,3.15,STEM,Asian,620.0,5.0,Consulting,Reject
+5588,Male,False,3.38,STEM,Other,610.0,7.0,Health Care,Reject
+432,Male,False,3.56,STEM,White,710.0,6.0,Technology,Admit
+3798,Female,False,3.36,Business,Asian,710.0,5.0,Financial Services,Admit
+3112,Male,False,3.22,STEM,Hispanic,710.0,4.0,Technology,Admit
+5991,Male,True,3.13,STEM,,640.0,5.0,Investment Banking,Reject
+4039,Female,True,3.2,Business,,620.0,5.0,Consulting,Reject
+2548,Male,True,3.23,Humanities,,640.0,6.0,Technology,Reject
+939,Male,False,3.21,Humanities,White,690.0,3.0,Real Estate,Admit
+4436,Male,False,3.51,Humanities,Black,690.0,4.0,Financial Services,Admit
+3535,Female,False,3.04,Business,White,570.0,5.0,Consulting,Reject
+2725,Female,False,3.42,Business,Asian,670.0,3.0,Technology,Admit
+4476,Male,False,3.27,Humanities,White,700.0,3.0,Health Care,Admit
+2354,Female,False,3.26,Humanities,Asian,670.0,6.0,Other,Admit
+1555,Female,False,3.21,Business,White,730.0,5.0,Nonprofit/Gov,Admit
+2988,Female,False,3.4,Business,Other,720.0,4.0,Financial Services,Admit
+3100,Male,False,3.08,Humanities,Asian,590.0,4.0,Consulting,Reject
+3246,Male,False,3.42,Business,White,630.0,4.0,Consulting,Reject
+5079,Male,False,3.15,Humanities,Asian,680.0,5.0,PE/VC,Reject
+1040,Male,False,3.46,STEM,White,630.0,7.0,Investment Banking,Reject
+1893,Female,False,3.37,Humanities,Black,680.0,7.0,Financial Services,Admit
+4746,Male,False,3.42,STEM,Other,680.0,5.0,Consulting,Admit
+2879,Female,False,3.35,Humanities,Asian,680.0,4.0,Investment Management,Admit
+2049,Female,True,3.01,Business,,680.0,5.0,Investment Banking,Reject
+265,Male,True,3.05,Humanities,,600.0,5.0,Technology,Reject
+2708,Male,False,3.38,Business,White,690.0,4.0,Nonprofit/Gov,Admit
+6095,Male,False,3.17,Humanities,Asian,600.0,5.0,PE/VC,Reject
+806,Male,True,3.09,Humanities,,640.0,5.0,Nonprofit/Gov,Reject
+5627,Male,False,3.42,Business,Other,710.0,5.0,PE/VC,Admit
+5188,Male,True,3.32,Humanities,,740.0,7.0,Consulting,Reject
+4990,Female,True,3.44,STEM,,650.0,4.0,Health Care,Reject
+3426,Female,False,3.37,Humanities,Asian,700.0,4.0,Health Care,Admit
+3615,Female,False,3.19,STEM,Black,610.0,4.0,Investment Banking,Reject
+4227,Male,True,3.35,Business,,660.0,5.0,Technology,Admit
+626,Female,True,3.07,STEM,,640.0,6.0,Real Estate,Admit
+3232,Female,False,3.35,Humanities,White,700.0,6.0,Investment Banking,Admit
+4804,Male,False,2.95,Business,Black,610.0,4.0,Financial Services,Reject
+4730,Male,False,3.29,Business,White,710.0,4.0,Nonprofit/Gov,Admit
+2980,Male,False,3.15,STEM,Asian,650.0,4.0,Investment Management,Reject
+2205,Male,False,3.46,Humanities,White,690.0,5.0,Nonprofit/Gov,Admit
+962,Male,False,3.51,Humanities,White,750.0,6.0,Real Estate,Admit
+715,Male,False,3.4,Humanities,Asian,700.0,4.0,Retail,Admit
+2182,Male,False,3.32,Humanities,White,670.0,6.0,Consulting,Reject
+4239,Male,True,3.3,STEM,,730.0,7.0,Nonprofit/Gov,Reject
+2311,Male,False,3.33,Business,Hispanic,700.0,6.0,Consulting,Admit
+5134,Male,False,3.62,Humanities,Asian,700.0,6.0,Technology,Admit
+3664,Male,True,3.28,Business,,660.0,6.0,Financial Services,Admit
+3404,Female,False,3.44,Humanities,White,750.0,5.0,PE/VC,Admit
+4445,Male,False,3.33,Business,White,670.0,3.0,Consulting,Reject
+463,Male,True,3.46,Business,,640.0,5.0,Real Estate,Reject
+5960,Male,True,3.31,Humanities,,660.0,5.0,Investment Management,Admit
+3432,Male,False,3.35,Humanities,Asian,660.0,5.0,Nonprofit/Gov,Reject
+2228,Male,False,3.45,Humanities,White,670.0,4.0,Investment Banking,Admit
+1732,Male,False,3.13,STEM,White,640.0,7.0,Health Care,Reject
+1382,Female,False,3.32,Humanities,Other,670.0,5.0,Consulting,Admit
+2175,Female,False,3.3,Humanities,Hispanic,700.0,5.0,Consulting,Admit
+2615,Male,False,3.23,Humanities,White,590.0,4.0,Financial Services,Reject
+4481,Male,False,3.6,Business,Black,750.0,6.0,Technology,Admit
+4909,Male,False,3.35,Business,White,580.0,3.0,PE/VC,Reject
+4737,Female,False,3.36,Humanities,Other,710.0,5.0,CPG,Admit
+919,Female,False,3.19,Business,Asian,680.0,5.0,Consulting,Reject
+3122,Male,False,3.38,Business,Hispanic,730.0,6.0,Investment Management,Admit
+2458,Male,False,3.07,Business,White,590.0,3.0,Other,Reject
+1881,Male,False,3.29,Humanities,Hispanic,700.0,6.0,Consulting,Admit
+5756,Male,True,3.17,Humanities,,650.0,5.0,Consulting,Reject
+3583,Male,False,3.41,STEM,Black,680.0,5.0,Technology,Admit
+5115,Male,True,3.54,STEM,,670.0,5.0,Technology,Admit
+666,Female,True,3.11,STEM,,650.0,4.0,Technology,Admit
+5323,Male,False,3.31,Humanities,Asian,700.0,5.0,Technology,Admit
+5105,Male,False,3.22,Humanities,Black,610.0,4.0,Investment Banking,Reject
+4627,Female,False,3.23,STEM,Asian,640.0,5.0,Energy,Reject
+984,Male,False,3.43,Humanities,Black,680.0,5.0,Technology,Admit
+277,Male,False,3.52,Humanities,White,770.0,3.0,Investment Banking,Reject
+518,Female,True,3.23,Humanities,,630.0,6.0,Consulting,Admit
+2162,Male,False,3.48,Business,Hispanic,660.0,4.0,Real Estate,Admit
+1904,Male,True,3.31,STEM,,650.0,6.0,Investment Management,Reject
+5915,Male,False,3.2,Business,Black,670.0,4.0,Nonprofit/Gov,Reject
+1408,Male,True,3.23,Business,,620.0,6.0,Consulting,Reject
+3509,Male,True,3.18,STEM,,680.0,3.0,PE/VC,Reject
+4321,Female,True,3.04,Humanities,,610.0,5.0,Investment Banking,Reject
+1328,Male,True,2.89,Humanities,,570.0,6.0,PE/VC,Reject
+5054,Male,True,3.31,Humanities,,660.0,4.0,CPG,Reject
+122,Female,True,3.29,Business,,710.0,4.0,Consulting,Admit
+2538,Male,False,3.25,Humanities,Asian,660.0,4.0,Financial Services,Reject
+3020,Male,False,3.31,Business,Asian,720.0,6.0,Nonprofit/Gov,Admit
+5002,Female,False,3.36,Business,Hispanic,650.0,4.0,Nonprofit/Gov,Reject
+1945,Female,False,3.5,Humanities,White,690.0,6.0,PE/VC,Admit
+4274,Male,False,3.27,STEM,Other,640.0,5.0,Nonprofit/Gov,Reject
+571,Male,False,3.37,STEM,Black,690.0,4.0,Investment Banking,Admit
+5464,Male,True,3.41,STEM,,650.0,5.0,Consulting,Reject
+4026,Male,False,2.94,STEM,Black,590.0,4.0,Consulting,Reject
+1259,Male,False,3.12,Humanities,Black,610.0,5.0,Investment Banking,Reject
+1845,Female,False,3.28,STEM,Asian,690.0,4.0,Health Care,Admit
+5231,Male,True,3.48,Humanities,,760.0,5.0,Consulting,Admit
+4486,Male,True,3.36,Humanities,,710.0,2.0,Other,Admit
+3523,Male,False,3.28,Business,Black,670.0,5.0,Consulting,Reject
+5356,Female,False,3.22,Humanities,Black,660.0,7.0,Financial Services,Admit
+3350,Female,False,3.22,STEM,White,590.0,5.0,Energy,Reject
+1138,Female,False,3.24,Business,Asian,580.0,6.0,PE/VC,Reject
+2590,Male,False,3.5,Humanities,White,740.0,6.0,Financial Services,Admit
+1300,Male,False,3.55,Humanities,Asian,670.0,3.0,Investment Management,Admit
+162,Female,False,3.2,STEM,White,610.0,4.0,Consulting,Admit
+4049,Male,False,3.45,STEM,White,660.0,7.0,Nonprofit/Gov,Admit
+3847,Male,False,3.25,Humanities,Hispanic,690.0,5.0,PE/VC,Admit
+2283,Male,False,3.67,STEM,Black,720.0,5.0,Consulting,Admit
+4814,Female,True,3.38,Business,,610.0,6.0,Technology,Reject
+5519,Male,True,3.27,STEM,,660.0,3.0,Investment Banking,Admit
+4214,Male,False,3.27,Business,Asian,610.0,5.0,Technology,Reject
+4385,Female,False,3.22,STEM,Other,620.0,5.0,Real Estate,Reject
+4327,Male,False,3.11,Humanities,Other,650.0,4.0,Consulting,Reject
+4690,Female,False,3.34,STEM,Asian,690.0,6.0,PE/VC,Admit
+6054,Female,False,2.89,Business,Black,630.0,4.0,Financial Services,Reject
+2185,Male,False,3.26,Humanities,Hispanic,680.0,5.0,Consulting,Admit
+1617,Male,False,3.13,Humanities,White,570.0,4.0,Real Estate,Reject
+5993,Female,False,3.44,STEM,White,720.0,5.0,Nonprofit/Gov,Admit
+1919,Male,False,3.17,Business,Black,630.0,5.0,Consulting,Reject
+4307,Female,False,3.4,Business,White,700.0,5.0,Nonprofit/Gov,Admit
+3828,Male,False,3.3,Business,White,600.0,4.0,Investment Banking,Reject
+6079,Female,False,3.39,Humanities,Hispanic,640.0,5.0,Other,Reject
+3973,Male,False,3.39,Business,White,690.0,5.0,Consulting,Admit
+5970,Female,True,3.14,Humanities,,620.0,4.0,Financial Services,Reject
+3693,Female,True,3.17,STEM,,700.0,5.0,PE/VC,Reject
+718,Male,False,3.27,STEM,Hispanic,700.0,6.0,Consulting,Admit
+4717,Female,True,3.29,STEM,,610.0,4.0,PE/VC,Reject
+3929,Male,False,3.19,Business,Asian,580.0,5.0,Nonprofit/Gov,Reject
+3572,Male,False,3.34,Humanities,Asian,650.0,5.0,Consulting,Reject
+392,Female,False,3.34,Business,White,680.0,4.0,Financial Services,Admit
+1488,Male,False,3.12,Business,White,610.0,5.0,Investment Management,Reject
+3690,Male,False,3.32,Business,Asian,600.0,5.0,Consulting,Reject
+1902,Female,False,3.4,Humanities,Hispanic,660.0,5.0,Consulting,Admit
+3083,Female,True,3.27,Business,,700.0,6.0,Investment Banking,Admit
+2325,Male,False,3.3,STEM,Hispanic,730.0,4.0,PE/VC,Admit
+2085,Male,False,3.28,STEM,Asian,680.0,7.0,Nonprofit/Gov,Admit
+5149,Female,True,3.41,Business,,710.0,6.0,Other,Reject
+2983,Female,False,3.23,Business,Asian,670.0,5.0,Financial Services,Admit
+5168,Female,True,3.19,STEM,,630.0,5.0,PE/VC,Reject
+3480,Female,False,3.05,Business,Black,610.0,3.0,Consulting,Reject
+3532,Male,True,3.09,Business,,620.0,5.0,Financial Services,Reject
+1812,Male,True,3.28,Humanities,,650.0,5.0,Consulting,Reject
+1362,Male,False,3.4,Humanities,Other,710.0,4.0,Health Care,Admit
+1707,Female,False,3.27,Humanities,Asian,700.0,5.0,Technology,Admit
+171,Female,False,3.36,Humanities,Asian,710.0,4.0,CPG,Admit
+5053,Female,False,3.37,Business,Asian,640.0,4.0,Media/Entertainment,Reject
+4753,Male,True,3.23,STEM,,680.0,5.0,Investment Banking,Admit
+2289,Female,True,3.37,STEM,,660.0,5.0,Investment Management,Admit
+1764,Male,True,3.5,STEM,,710.0,6.0,Financial Services,Admit
+5252,Female,False,3.13,Humanities,White,590.0,4.0,Nonprofit/Gov,Reject
+4587,Male,False,3.26,Humanities,Black,630.0,6.0,PE/VC,Reject
+2060,Male,True,3.15,Humanities,,620.0,5.0,Nonprofit/Gov,Reject
+1004,Male,True,3.42,Business,,720.0,5.0,PE/VC,Reject
+2300,Female,False,3.21,STEM,Hispanic,680.0,5.0,Nonprofit/Gov,Admit
+4945,Male,False,3.37,Business,White,660.0,6.0,PE/VC,Admit
+3564,Male,False,3.32,Business,Black,630.0,5.0,Consulting,Reject
+5022,Male,True,3.29,STEM,,670.0,4.0,Consulting,Admit
+3742,Male,False,3.36,Humanities,White,730.0,5.0,PE/VC,Admit
+3740,Male,False,3.25,Humanities,White,620.0,5.0,PE/VC,Reject
+2221,Female,False,3.46,Business,Black,780.0,6.0,Nonprofit/Gov,Admit
+624,Male,False,2.95,STEM,Black,570.0,6.0,Consulting,Reject
+1847,Female,True,3.08,Humanities,,570.0,5.0,Consulting,Reject
+3906,Male,True,3.23,STEM,,650.0,7.0,Investment Management,Reject
+1565,Male,False,3.51,STEM,White,710.0,5.0,Investment Management,Admit
+1944,Female,False,3.32,STEM,White,720.0,2.0,Media/Entertainment,Admit
+600,Male,True,3.06,STEM,,650.0,5.0,Nonprofit/Gov,Reject
+3775,Female,False,3.21,STEM,White,630.0,3.0,Consulting,Reject
+1402,Female,False,3.02,Humanities,Black,610.0,4.0,Consulting,Reject
+330,Male,False,3.38,Business,Asian,570.0,4.0,Other,Reject
+1006,Male,False,3.18,STEM,White,710.0,4.0,Consulting,Reject
+1721,Female,True,3.42,STEM,,710.0,5.0,Nonprofit/Gov,Reject
+3172,Male,False,3.37,Humanities,White,660.0,5.0,Financial Services,Admit
+1818,Male,False,3.41,Humanities,Asian,680.0,5.0,Consulting,Admit
+5549,Male,True,3.36,Humanities,,740.0,3.0,Financial Services,Reject
+103,Male,False,3.65,Humanities,Black,700.0,6.0,Health Care,Admit
+3181,Female,False,3.39,Business,Black,660.0,6.0,Consulting,Admit
+2642,Female,False,3.35,STEM,Asian,700.0,4.0,Consulting,Admit
+4926,Male,False,3.56,Humanities,Hispanic,670.0,6.0,Consulting,Admit
+514,Male,False,3.18,STEM,Asian,620.0,4.0,Consulting,Reject
+1833,Male,False,2.91,Humanities,Black,610.0,5.0,PE/VC,Reject
+3621,Male,True,3.18,Business,,620.0,4.0,Technology,Reject
+1281,Male,False,3.11,STEM,Hispanic,660.0,4.0,Investment Banking,Reject
+5376,Male,True,3.38,STEM,,690.0,7.0,Consulting,Reject
+5473,Male,True,3.22,Humanities,,680.0,5.0,Financial Services,Admit
+5458,Male,False,3.48,Humanities,Black,730.0,5.0,Health Care,Admit
+5232,Male,False,3.55,Business,White,710.0,4.0,PE/VC,Admit
+4534,Male,False,3.12,Business,Black,660.0,7.0,Consulting,Reject
+5577,Male,False,3.48,Business,Black,780.0,4.0,Consulting,Admit
+5148,Male,True,3.35,Humanities,,660.0,7.0,Financial Services,Reject
+6067,Female,True,3.09,Humanities,,620.0,7.0,Investment Banking,Reject
+2832,Male,False,3.09,Humanities,Black,680.0,5.0,Investment Banking,Reject
+795,Male,False,3.33,STEM,Asian,690.0,4.0,Financial Services,Admit
+4987,Male,False,3.55,STEM,White,720.0,5.0,PE/VC,Admit
+5566,Male,False,3.19,Business,Asian,630.0,3.0,Other,Reject
+3649,Female,False,3.54,Business,White,780.0,5.0,Health Care,Admit
+4955,Male,False,3.33,Humanities,Asian,700.0,5.0,Consulting,Admit
+5088,Male,False,3.33,Humanities,Other,680.0,6.0,Consulting,Admit
+968,Male,False,3.33,STEM,Asian,730.0,6.0,PE/VC,Admit
+3793,Male,False,3.42,Humanities,White,580.0,6.0,PE/VC,Reject
+2271,Male,False,3.49,Humanities,Asian,680.0,5.0,Technology,Admit
+4391,Male,True,3.34,Humanities,,670.0,4.0,Investment Banking,Admit
+4826,Male,False,3.59,STEM,White,780.0,4.0,Consulting,Admit
+677,Female,False,3.03,Humanities,Black,570.0,7.0,Consulting,Reject
+5236,Female,False,3.26,Humanities,Asian,680.0,6.0,Technology,Admit
+4776,Male,False,3.25,Business,Other,720.0,4.0,Consulting,Admit
+1581,Male,True,3.05,STEM,,570.0,6.0,Technology,Reject
+4370,Female,False,3.55,Business,Asian,700.0,6.0,PE/VC,Admit
+1348,Female,True,3.2,Humanities,,720.0,6.0,Nonprofit/Gov,Reject
+5925,Female,False,3.46,Humanities,Hispanic,670.0,5.0,Consulting,Admit
+3930,Female,True,3.09,STEM,,630.0,4.0,PE/VC,Reject
+2896,Male,False,3.22,Humanities,Hispanic,740.0,5.0,Other,Admit
+638,Male,True,3.36,STEM,,690.0,3.0,Consulting,Reject
+341,Female,False,3.1,Business,Other,620.0,6.0,Real Estate,Admit
+2907,Female,False,3.3,Business,Asian,710.0,6.0,Investment Banking,Admit
+1134,Male,False,3.19,Humanities,White,640.0,4.0,Investment Banking,Reject
+4588,Male,True,3.21,Humanities,,620.0,4.0,Consulting,Reject
+2612,Female,False,3.22,Business,Black,660.0,4.0,Investment Banking,Admit
+560,Male,True,3.17,STEM,,590.0,7.0,Financial Services,Reject
+5626,Male,True,3.18,Business,,680.0,5.0,Investment Management,Reject
+6119,Male,False,3.43,STEM,White,700.0,5.0,Financial Services,Admit
+5675,Female,False,3.35,Business,Black,660.0,6.0,Technology,Admit
+2176,Male,False,3.55,STEM,White,720.0,4.0,Investment Banking,Admit
+1175,Female,True,3.31,STEM,,680.0,6.0,Consulting,Admit
+4872,Male,False,3.28,Business,White,710.0,5.0,Investment Banking,Admit
+3654,Female,True,3.07,Humanities,,580.0,6.0,Consulting,Reject
+1570,Male,False,3.15,STEM,White,620.0,5.0,PE/VC,Reject
+4768,Female,True,3.55,Business,,700.0,4.0,Consulting,Admit
+3089,Female,False,3.47,STEM,Asian,670.0,6.0,PE/VC,Reject
+1650,Male,False,3.44,Humanities,Other,720.0,4.0,Consulting,Admit
+944,Female,True,3.39,STEM,,690.0,6.0,Technology,Admit
+1048,Male,True,3.4,STEM,,580.0,5.0,Consulting,Reject
+3066,Male,False,3.32,Humanities,White,650.0,4.0,Financial Services,Reject
+2875,Male,False,3.52,Humanities,Black,690.0,5.0,Financial Services,Admit
+2373,Male,False,3.28,Humanities,Asian,670.0,5.0,PE/VC,Reject
+816,Male,False,3.39,Business,Hispanic,680.0,4.0,PE/VC,Admit
+4352,Male,False,3.32,STEM,White,610.0,5.0,Other,Reject
+2360,Male,True,3.4,STEM,,770.0,3.0,PE/VC,Admit
+6130,Female,False,3.13,Humanities,White,640.0,5.0,Health Care,Reject
+4979,Female,False,2.98,Business,Hispanic,610.0,5.0,CPG,Reject
+1359,Female,False,3.4,Humanities,White,690.0,7.0,Investment Banking,Reject
+1755,Male,True,3.23,Humanities,,630.0,5.0,PE/VC,Reject
+195,Female,True,3.48,Humanities,,670.0,5.0,Financial Services,Admit
+3860,Male,False,3.29,Business,White,630.0,5.0,Financial Services,Reject
+3578,Male,False,3.4,Business,Hispanic,670.0,4.0,PE/VC,Admit
+3657,Female,False,3.34,Business,Asian,710.0,5.0,Other,Admit
+3106,Male,False,3.54,Business,White,760.0,5.0,Financial Services,Admit
+5668,Male,False,3.61,Humanities,Asian,780.0,5.0,Consulting,Admit
+4158,Female,False,3.14,Business,White,600.0,5.0,Other,Reject
+4866,Female,False,3.64,Business,Black,720.0,5.0,Nonprofit/Gov,Admit
+4549,Male,True,3.11,Business,,650.0,7.0,Nonprofit/Gov,Reject
+765,Male,False,3.35,Humanities,Black,720.0,7.0,Consulting,Admit
+3379,Male,False,3.44,Business,Hispanic,720.0,8.0,Technology,Reject
+5815,Male,True,3.27,Humanities,,660.0,5.0,Consulting,Reject
+2120,Male,True,3.3,Humanities,,680.0,5.0,CPG,Admit
+2641,Female,True,3.32,Business,,730.0,5.0,PE/VC,Reject
+3450,Male,False,3.45,Business,White,770.0,7.0,Consulting,Admit
+5766,Male,False,3.15,Humanities,Black,630.0,5.0,Media/Entertainment,Reject
+422,Male,False,3.29,Humanities,Asian,640.0,6.0,Investment Banking,Reject
+4288,Male,False,3.29,Business,Other,670.0,5.0,Nonprofit/Gov,Admit
+4248,Male,False,3.42,STEM,Hispanic,690.0,4.0,Health Care,Admit
+636,Male,True,3.29,Humanities,,690.0,4.0,PE/VC,Reject
+4181,Male,False,3.08,Humanities,White,610.0,4.0,Financial Services,Reject
+3046,Male,False,3.46,STEM,Black,680.0,4.0,Consulting,Admit
+1283,Male,True,3.15,Humanities,,600.0,5.0,Investment Banking,Reject
+3834,Male,False,3.4,STEM,White,700.0,5.0,Other,Admit
+1597,Male,False,3.12,STEM,Asian,630.0,6.0,Technology,Reject
+33,Male,False,3.33,Humanities,Black,700.0,6.0,Investment Banking,Admit
+5156,Female,False,3.08,Business,Asian,620.0,4.0,Investment Banking,Reject
+1806,Male,True,3.21,Humanities,,700.0,4.0,Investment Banking,Reject
+5752,Female,False,3.05,Humanities,Asian,590.0,4.0,Consulting,Reject
+5280,Male,False,3.24,Business,Asian,710.0,5.0,Nonprofit/Gov,Admit
+267,Male,False,3.28,STEM,White,600.0,5.0,Consulting,Reject
+5711,Female,False,3.22,Business,White,650.0,6.0,PE/VC,Reject
+5715,Male,False,3.3,Humanities,White,610.0,6.0,Consulting,Reject
+3365,Male,True,3.38,Humanities,,640.0,4.0,Financial Services,Reject
+1476,Female,False,3.2,Business,White,580.0,6.0,Consulting,Reject
+3319,Male,True,3.16,Business,,700.0,6.0,Financial Services,Reject
+2801,Male,False,3.16,Humanities,White,630.0,5.0,Technology,Reject
+1014,Male,False,3.44,STEM,White,690.0,5.0,PE/VC,Admit
+586,Female,False,3.01,Business,Asian,570.0,5.0,Consulting,Reject
+3452,Female,False,3.07,Business,White,680.0,6.0,Consulting,Reject
+3430,Female,False,3.03,Humanities,White,620.0,6.0,Nonprofit/Gov,Reject
+5291,Male,True,3.28,Business,,570.0,5.0,Technology,Reject
+1002,Male,False,3.21,Business,Asian,610.0,5.0,Nonprofit/Gov,Reject
+947,Male,False,3.29,Business,Asian,690.0,5.0,Health Care,Admit
+3784,Male,True,3.28,Humanities,,680.0,6.0,Consulting,Admit
+3878,Male,False,3.07,Humanities,Black,590.0,5.0,Consulting,Reject
+5565,Male,True,3.07,Humanities,,610.0,5.0,Consulting,Reject
+5644,Male,False,3.48,Business,White,690.0,4.0,Nonprofit/Gov,Admit
+4985,Female,False,3.26,STEM,Asian,610.0,6.0,PE/VC,Reject
+2333,Male,True,3.37,STEM,,730.0,5.0,Technology,Reject
+5010,Male,True,3.07,STEM,,590.0,3.0,Investment Banking,Reject
+2787,Male,False,3.12,STEM,Hispanic,590.0,7.0,Other,Reject
+196,Female,False,3.14,Business,White,600.0,3.0,Nonprofit/Gov,Admit
+6168,Male,True,3.24,Business,,570.0,4.0,Consulting,Reject
+2378,Male,False,3.33,Business,White,690.0,5.0,Investment Banking,Admit
+3902,Female,False,3.48,Business,White,770.0,6.0,Consulting,Admit
+311,Male,False,3.49,Business,Other,700.0,5.0,Investment Management,Admit
+4941,Male,False,3.14,Humanities,Black,580.0,8.0,PE/VC,Reject
+4977,Male,False,3.42,STEM,Asian,710.0,4.0,Technology,Admit
+3321,Male,False,3.25,STEM,White,690.0,6.0,Consulting,Admit
+559,Male,False,3.31,Humanities,White,580.0,6.0,Investment Banking,Reject
+833,Male,False,3.49,Business,White,750.0,5.0,Investment Banking,Admit
+1101,Female,False,3.29,Humanities,Asian,730.0,5.0,Nonprofit/Gov,Admit
+5482,Female,False,3.15,Business,Asian,580.0,5.0,Investment Management,Reject
+1736,Male,False,2.83,Humanities,Black,570.0,5.0,Nonprofit/Gov,Reject
+1315,Female,False,3.33,STEM,Hispanic,680.0,5.0,PE/VC,Admit
+1638,Male,False,3.34,Business,White,680.0,5.0,PE/VC,Admit
+2876,Male,True,3.22,Business,,650.0,5.0,PE/VC,Reject
+5485,Male,False,3.12,Humanities,Black,640.0,5.0,Nonprofit/Gov,Reject
+2292,Male,True,3.47,STEM,,670.0,5.0,Nonprofit/Gov,Reject
+5302,Male,False,3.38,STEM,Black,730.0,4.0,PE/VC,Admit
+3608,Male,False,3.17,Humanities,White,640.0,3.0,Media/Entertainment,Reject
+704,Female,False,3.28,Humanities,Other,650.0,6.0,PE/VC,Admit
+1608,Female,False,3.33,Humanities,White,690.0,3.0,Consulting,Admit
+4880,Female,True,3.12,Humanities,,610.0,4.0,Consulting,Reject
+2507,Female,False,3.5,Business,Hispanic,740.0,5.0,Other,Admit
+956,Female,False,3.24,Business,Black,670.0,5.0,Consulting,Reject
+4809,Male,False,3.29,Humanities,White,670.0,4.0,PE/VC,Admit
+5773,Female,False,3.02,Business,Asian,640.0,6.0,Investment Management,Reject
+2991,Male,True,3.18,STEM,,680.0,6.0,Other,Reject
+746,Male,False,2.98,Business,White,570.0,5.0,PE/VC,Reject
+4121,Male,False,3.27,STEM,Asian,680.0,4.0,Consulting,Admit
+287,Female,True,3.33,STEM,,640.0,7.0,Consulting,Admit
+3958,Male,False,3.41,Business,Asian,720.0,3.0,Investment Management,Admit
+5698,Male,False,3.27,Humanities,White,770.0,5.0,Investment Management,Admit
+722,Male,False,3.26,STEM,Asian,710.0,6.0,Investment Management,Admit
+5018,Female,True,3.14,Business,,650.0,4.0,Investment Management,Reject
+401,Male,False,3.15,Humanities,Black,610.0,6.0,Consulting,Reject
+3691,Male,False,3.36,Business,Other,700.0,5.0,Technology,Admit
+1104,Male,True,3.35,Humanities,,720.0,5.0,Real Estate,Reject
+4950,Male,False,3.26,Humanities,White,660.0,5.0,PE/VC,Admit
+1047,Female,True,3.03,STEM,,600.0,4.0,Financial Services,Reject
+370,Female,False,3.16,Humanities,White,620.0,5.0,Technology,Admit
+822,Male,False,3.38,Humanities,White,700.0,6.0,CPG,Admit
+2462,Male,False,3.44,Humanities,Other,700.0,7.0,Investment Banking,Reject
+5792,Male,True,3.66,Humanities,,680.0,5.0,Technology,Admit
+5881,Male,True,3.12,STEM,,600.0,5.0,Consulting,Reject
+994,Male,True,2.92,Humanities,,570.0,4.0,Consulting,Reject
+5999,Male,False,3.48,Business,Hispanic,730.0,6.0,Consulting,Admit
+2005,Female,False,3.27,Business,White,660.0,4.0,Health Care,Admit
+1870,Female,True,3.24,Humanities,,650.0,5.0,Other,Reject
+1688,Male,False,3.36,Humanities,Asian,670.0,5.0,Other,Reject
+5790,Male,False,3.05,Humanities,Black,590.0,5.0,Technology,Reject
+4763,Male,True,2.96,Humanities,,600.0,6.0,Investment Banking,Reject
+5835,Male,True,3.36,Humanities,,690.0,6.0,PE/VC,Admit
+3113,Female,False,3.42,Humanities,White,690.0,5.0,Consulting,Admit
+5337,Female,False,3.27,STEM,Black,660.0,7.0,PE/VC,Admit
+679,Female,True,3.26,STEM,,700.0,3.0,Other,Admit
+2219,Male,False,3.35,Humanities,White,740.0,5.0,Nonprofit/Gov,Admit
+3981,Female,False,3.39,Humanities,Hispanic,710.0,6.0,Consulting,Admit
+749,Male,False,3.37,Humanities,White,700.0,4.0,Consulting,Admit
+6112,Male,False,3.05,Humanities,White,610.0,5.0,Investment Banking,Reject
+807,Female,False,3.26,Business,White,710.0,5.0,Investment Banking,Admit
+5770,Male,False,3.49,Humanities,Black,690.0,4.0,Real Estate,Admit
+2924,Female,False,3.31,Business,Hispanic,690.0,3.0,Nonprofit/Gov,Reject
+6019,Male,True,3.47,Business,,770.0,6.0,Financial Services,Admit
+153,Female,True,3.32,Humanities,,650.0,5.0,Real Estate,Admit
+4115,Female,False,3.28,STEM,Hispanic,700.0,7.0,PE/VC,Reject
+3310,Male,False,3.41,Humanities,White,760.0,4.0,Financial Services,Admit
+1576,Male,False,3.2,STEM,Asian,700.0,7.0,Financial Services,Reject
+3171,Male,False,3.5,Business,White,670.0,5.0,Consulting,Reject
+3248,Male,False,3.35,STEM,White,650.0,7.0,Investment Banking,Reject
+740,Female,False,3.28,Humanities,Hispanic,670.0,6.0,Investment Banking,Reject
+576,Female,True,3.17,Humanities,,630.0,6.0,Investment Management,Admit
+1683,Male,False,3.33,STEM,White,710.0,4.0,Financial Services,Admit
+5124,Male,False,3.49,Humanities,Other,710.0,5.0,Financial Services,Admit
+578,Male,False,3.23,Business,Asian,570.0,4.0,Technology,Reject
+6176,Female,False,3.38,Humanities,Hispanic,680.0,3.0,Technology,Admit
+910,Female,False,3.13,Humanities,Asian,640.0,7.0,Investment Banking,Reject
+3858,Male,False,3.27,Humanities,Hispanic,680.0,5.0,Consulting,Admit
+3088,Male,False,3.26,Humanities,White,710.0,6.0,Technology,Admit
+1673,Male,False,3.23,STEM,Hispanic,650.0,3.0,Consulting,Reject
+1063,Female,True,3.26,Humanities,,750.0,7.0,Investment Management,Admit
+5295,Male,False,3.38,Business,Hispanic,680.0,6.0,Consulting,Admit
+5883,Male,False,3.66,Humanities,Asian,710.0,7.0,Other,Reject
+725,Male,False,3.18,STEM,White,680.0,4.0,PE/VC,Reject
+2486,Male,True,3.53,Humanities,,660.0,5.0,Investment Banking,Reject
+3503,Male,False,3.13,Business,White,630.0,5.0,PE/VC,Reject
+2735,Male,False,3.26,Business,White,680.0,4.0,PE/VC,Admit
+225,Female,False,3.24,STEM,Asian,670.0,4.0,Consulting,Admit
+5329,Female,False,3.02,Business,Asian,630.0,6.0,PE/VC,Reject
+3220,Male,False,3.27,Humanities,Hispanic,690.0,5.0,Technology,Admit
+3410,Female,True,3.49,Business,,680.0,3.0,PE/VC,Admit
+1947,Male,False,3.21,Business,Black,620.0,6.0,Investment Banking,Reject
+1811,Male,False,3.25,Humanities,Black,680.0,5.0,Other,Admit
+2242,Male,False,3.39,Business,Hispanic,750.0,4.0,Energy,Admit
+444,Female,False,3.44,Humanities,Hispanic,740.0,5.0,Technology,Admit
+5001,Male,True,3.35,STEM,,760.0,5.0,PE/VC,Admit
+2862,Male,False,3.29,Humanities,Hispanic,610.0,5.0,Investment Banking,Reject
+3549,Male,False,3.21,STEM,Other,700.0,5.0,Consulting,Admit
+5854,Male,False,3.34,Humanities,Black,700.0,5.0,Financial Services,Admit
+3944,Male,True,3.34,STEM,,710.0,5.0,Nonprofit/Gov,Reject
+3639,Male,False,2.98,STEM,Black,580.0,5.0,Investment Banking,Reject
+3956,Male,False,3.29,STEM,Hispanic,640.0,6.0,PE/VC,Reject
+1262,Female,False,3.09,Humanities,Asian,660.0,5.0,Financial Services,Reject
+2128,Male,False,3.35,Humanities,Black,720.0,5.0,Consulting,Admit
+5743,Male,False,3.42,Humanities,Hispanic,690.0,5.0,Energy,Admit
+358,Female,True,3.03,Humanities,,660.0,5.0,Consulting,Admit
+5466,Female,True,3.28,Humanities,,680.0,5.0,Consulting,Admit
+2039,Female,False,3.35,STEM,Black,600.0,5.0,Nonprofit/Gov,Reject
+2684,Female,False,3.44,Humanities,Asian,690.0,6.0,Technology,Admit
+5725,Male,False,3.49,Business,Hispanic,680.0,6.0,Other,Admit
+2465,Female,False,2.98,Humanities,Asian,600.0,5.0,PE/VC,Reject
+1809,Female,False,3.27,Business,Black,640.0,5.0,Financial Services,Reject
+41,Female,True,3.12,Business,,610.0,4.0,PE/VC,Admit
+5429,Male,False,3.39,Business,Asian,610.0,5.0,Nonprofit/Gov,Reject
+379,Female,False,3.11,STEM,Other,610.0,6.0,PE/VC,Admit
+3206,Female,False,3.27,Business,White,760.0,6.0,Consulting,Admit
+3388,Male,False,3.26,Humanities,Asian,700.0,4.0,Consulting,Admit
+5553,Female,False,3.22,STEM,Black,630.0,3.0,Consulting,Reject
+4824,Female,False,3.3,Business,White,740.0,5.0,Consulting,Admit
+2868,Female,False,3.11,Humanities,Asian,600.0,5.0,Investment Banking,Reject
+1381,Male,False,3.53,Business,White,690.0,5.0,Nonprofit/Gov,Admit
+4755,Male,True,3.24,Business,,590.0,5.0,CPG,Reject
+2746,Male,False,3.53,Business,Black,690.0,5.0,Consulting,Admit
+3487,Male,True,3.29,Business,,670.0,4.0,CPG,Admit
+863,Male,False,3.0,STEM,White,590.0,6.0,Nonprofit/Gov,Reject
+1735,Female,False,3.2,STEM,White,650.0,4.0,Other,Reject
+851,Male,False,3.28,STEM,White,710.0,5.0,Technology,Admit
+1892,Male,False,3.5,Humanities,Black,700.0,5.0,Other,Admit
+5598,Male,True,3.19,Business,,670.0,6.0,PE/VC,Reject
+1041,Male,False,3.17,Humanities,White,670.0,5.0,Real Estate,Reject
+829,Male,False,3.58,STEM,Black,740.0,4.0,Health Care,Admit
+753,Male,True,3.63,Business,,700.0,6.0,Technology,Admit
+2533,Male,False,3.36,Humanities,Hispanic,740.0,6.0,Consulting,Admit
+837,Male,False,3.44,Business,Hispanic,740.0,6.0,Consulting,Admit
+4860,Male,True,3.2,Business,,610.0,6.0,Nonprofit/Gov,Reject
+2730,Female,False,3.36,Business,Black,680.0,4.0,Nonprofit/Gov,Admit
+6126,Male,False,3.35,STEM,Hispanic,740.0,6.0,Consulting,Admit
+5253,Female,False,3.38,Business,Asian,710.0,5.0,Financial Services,Admit
+5471,Male,False,3.25,STEM,Other,610.0,4.0,Consulting,Reject
+3405,Female,False,3.43,Humanities,White,780.0,5.0,Consulting,Admit
+4973,Female,False,3.18,STEM,Hispanic,610.0,3.0,PE/VC,Reject
+298,Male,False,3.14,Business,Black,660.0,5.0,Financial Services,Reject
+303,Male,False,3.2,Humanities,Hispanic,650.0,6.0,Technology,Reject
+2376,Male,False,3.3,Humanities,Hispanic,630.0,6.0,PE/VC,Reject
+3695,Male,False,3.24,STEM,Asian,700.0,5.0,Investment Management,Admit
+24,Male,False,3.4,Business,White,680.0,6.0,PE/VC,Admit
+3244,Male,False,3.21,Humanities,Asian,690.0,4.0,Technology,Admit
+3008,Male,False,3.39,Humanities,Asian,720.0,4.0,Technology,Admit
+4179,Male,False,3.31,Humanities,Asian,620.0,4.0,Investment Management,Reject
+1718,Female,False,3.36,Business,White,680.0,5.0,Consulting,Admit
+447,Female,False,3.03,Business,Black,590.0,4.0,Consulting,Reject
+1187,Female,False,3.74,Humanities,White,760.0,4.0,Nonprofit/Gov,Admit
+3736,Male,False,3.18,STEM,Hispanic,620.0,5.0,Technology,Reject
+2310,Male,True,3.15,Business,,620.0,5.0,Consulting,Reject
+5581,Male,False,3.45,Business,White,680.0,6.0,Media/Entertainment,Admit
+4394,Male,True,3.29,STEM,,710.0,4.0,Consulting,Reject
+5735,Female,False,3.32,STEM,Asian,670.0,4.0,Technology,Admit
+6059,Male,False,3.4,Business,Black,680.0,6.0,PE/VC,Admit
+1096,Male,False,3.31,STEM,Other,680.0,3.0,PE/VC,Admit
+5299,Male,False,3.27,STEM,Other,640.0,6.0,Technology,Reject
+5963,Male,True,3.28,Humanities,,640.0,5.0,Technology,Reject
+3042,Female,True,3.11,Humanities,,610.0,3.0,Nonprofit/Gov,Reject
+2714,Male,True,3.17,Business,,660.0,5.0,Consulting,Reject
+4720,Male,True,3.03,Humanities,,600.0,6.0,Consulting,Reject
+1900,Male,False,3.39,Humanities,White,660.0,6.0,Health Care,Admit
+548,Female,False,3.5,Humanities,White,680.0,6.0,Consulting,Admit
+4278,Female,False,3.27,STEM,Asian,700.0,6.0,CPG,Admit
+2492,Female,False,3.19,Business,Asian,590.0,2.0,Nonprofit/Gov,Reject
+17,Female,False,3.32,Business,Asian,710.0,5.0,PE/VC,Admit
+5265,Female,False,3.18,Business,White,670.0,5.0,Other,Reject
+859,Female,False,3.45,STEM,Hispanic,710.0,4.0,Health Care,Admit
+1316,Male,False,3.22,STEM,Other,730.0,4.0,Consulting,Admit
+5701,Male,False,3.43,Business,Asian,760.0,5.0,Investment Banking,Admit
+242,Female,False,3.11,STEM,Asian,620.0,4.0,Financial Services,Admit
+3558,Female,False,3.19,Humanities,Other,570.0,6.0,Technology,Reject
+344,Female,False,3.18,STEM,White,590.0,6.0,Nonprofit/Gov,Admit
+294,Female,False,3.35,Business,Asian,670.0,5.0,Technology,Admit
+2975,Male,False,3.26,STEM,White,650.0,7.0,PE/VC,Reject
+4751,Male,False,3.17,STEM,Asian,570.0,5.0,Consulting,Reject
+4655,Male,False,3.34,Business,Asian,700.0,7.0,Consulting,Admit
+2580,Male,False,3.14,STEM,Asian,660.0,6.0,Technology,Reject
+3348,Female,True,3.43,Business,,620.0,4.0,Consulting,Reject
+5819,Male,True,3.32,STEM,,670.0,7.0,Investment Banking,Admit
+283,Male,False,3.58,Business,White,740.0,4.0,Investment Banking,Admit
+5984,Female,False,3.45,STEM,Black,740.0,5.0,Investment Banking,Admit
+2968,Male,False,3.08,Humanities,White,570.0,4.0,Investment Banking,Reject
+5740,Female,True,2.96,Business,,650.0,5.0,Consulting,Reject
+2570,Male,False,3.14,Business,Hispanic,700.0,4.0,Health Care,Reject
+3259,Male,False,3.32,Business,Other,640.0,6.0,Consulting,Reject
+5749,Male,False,3.24,Business,Other,640.0,7.0,CPG,Reject
+5811,Male,False,3.41,Humanities,White,640.0,6.0,Financial Services,Reject
+2390,Female,False,3.57,Humanities,Black,690.0,6.0,Consulting,Admit
+3469,Male,False,3.24,Business,Black,650.0,6.0,PE/VC,Reject
+5548,Male,False,3.34,Business,Hispanic,650.0,5.0,Health Care,Reject
+5310,Male,False,3.08,Business,White,590.0,5.0,Consulting,Reject
+2057,Male,True,3.43,Business,,700.0,5.0,Technology,Admit
+4355,Female,False,3.37,STEM,White,630.0,6.0,Consulting,Reject
+3307,Male,False,3.29,STEM,Asian,700.0,5.0,PE/VC,Admit
+3129,Female,False,3.11,Humanities,White,600.0,5.0,Investment Banking,Reject
+5816,Male,False,3.31,Humanities,Asian,710.0,6.0,Financial Services,Admit
+1448,Male,False,3.03,STEM,Asian,610.0,5.0,Technology,Reject
+531,Female,True,3.13,Business,,650.0,5.0,Technology,Admit
+2856,Male,False,3.45,STEM,Hispanic,750.0,4.0,Consulting,Admit
+295,Male,False,2.95,Humanities,Asian,570.0,4.0,Consulting,Reject
+2976,Male,False,3.21,STEM,White,680.0,5.0,Technology,Admit
+2962,Male,False,3.17,Humanities,Asian,630.0,5.0,Technology,Reject
+6182,Male,False,3.48,Humanities,Asian,710.0,5.0,Media/Entertainment,Admit
+777,Male,False,3.18,Business,Black,610.0,5.0,Other,Reject
+871,Female,True,3.37,Business,,640.0,7.0,Nonprofit/Gov,Reject
+3528,Male,False,3.19,STEM,Black,650.0,6.0,PE/VC,Reject
+1753,Male,True,3.0,STEM,,620.0,5.0,Nonprofit/Gov,Reject
+5319,Male,False,3.32,Business,Asian,700.0,4.0,Technology,Admit
+690,Male,False,3.3,Humanities,White,680.0,6.0,Health Care,Admit
+166,Female,False,3.17,STEM,White,600.0,4.0,Nonprofit/Gov,Admit
+52,Male,False,3.43,Business,Asian,650.0,4.0,Nonprofit/Gov,Reject
+4246,Male,True,3.41,Humanities,,700.0,4.0,PE/VC,Admit
+1143,Female,False,3.54,Humanities,Asian,710.0,4.0,Other,Admit
+2028,Male,False,3.28,STEM,White,680.0,6.0,Consulting,Admit
+1530,Female,True,3.19,Humanities,,680.0,4.0,Technology,Reject
+3637,Male,True,3.26,Humanities,,610.0,5.0,Technology,Reject
+179,Male,False,3.43,Business,Asian,680.0,3.0,Consulting,Reject
+1655,Male,False,3.38,Humanities,Asian,680.0,4.0,Technology,Admit
+6063,Male,True,3.29,STEM,,730.0,5.0,Technology,Reject
+4469,Male,False,3.14,Humanities,Black,620.0,5.0,Other,Reject
+384,Male,True,3.17,Business,,580.0,6.0,Consulting,Reject
+3767,Male,False,3.13,STEM,Hispanic,610.0,6.0,Nonprofit/Gov,Reject
+2824,Male,False,3.14,Business,Black,640.0,5.0,Consulting,Reject
+4944,Female,False,3.36,Business,Other,700.0,6.0,Consulting,Admit
+5212,Male,True,3.24,Business,,660.0,4.0,Real Estate,Reject
+2880,Male,False,3.26,Humanities,Asian,640.0,4.0,Technology,Reject
+498,Male,False,3.42,Business,White,720.0,3.0,PE/VC,Admit
+2689,Male,False,3.36,Humanities,Other,760.0,6.0,Consulting,Admit
+1982,Male,False,3.1,STEM,Black,690.0,3.0,PE/VC,Reject
+1789,Female,True,3.25,Humanities,,710.0,6.0,Other,Admit
+97,Male,False,3.08,Humanities,Asian,640.0,5.0,Technology,Reject
+3349,Male,False,3.46,Business,Other,710.0,5.0,Health Care,Admit
+1078,Female,True,3.45,Humanities,,690.0,3.0,PE/VC,Admit
+6190,Male,False,3.49,Business,White,640.0,5.0,Other,Reject
+5321,Female,False,3.17,STEM,Other,700.0,4.0,Health Care,Reject
+3298,Female,False,3.17,Business,Hispanic,610.0,7.0,Technology,Reject
+1118,Female,False,3.57,Business,White,680.0,4.0,PE/VC,Admit
+482,Female,True,3.21,STEM,,590.0,6.0,PE/VC,Admit
+4082,Female,False,3.43,Humanities,White,660.0,5.0,Health Care,Admit
+2055,Female,True,3.35,Business,,750.0,7.0,Real Estate,Admit
+1742,Female,True,3.47,STEM,,690.0,4.0,Technology,Admit
+1665,Male,False,3.19,Business,White,660.0,3.0,Technology,Reject
+1564,Female,False,3.38,Humanities,Hispanic,630.0,3.0,PE/VC,Reject
+1319,Male,False,3.47,STEM,White,700.0,6.0,Investment Banking,Admit
+4223,Female,False,3.6,Humanities,White,690.0,5.0,Technology,Admit
+512,Female,True,3.47,Business,,650.0,4.0,Investment Banking,Admit
+1618,Male,False,3.37,Humanities,Black,700.0,5.0,PE/VC,Admit
+1689,Male,True,3.0,Humanities,,580.0,5.0,Consulting,Reject
+3471,Male,False,3.27,Business,White,610.0,6.0,PE/VC,Reject
+2921,Female,False,3.36,Humanities,Hispanic,690.0,5.0,PE/VC,Admit
+1633,Male,False,2.82,Humanities,Black,570.0,6.0,Technology,Reject
+4639,Male,False,3.4,STEM,White,730.0,6.0,Consulting,Admit
+4638,Female,False,3.48,Business,Other,700.0,5.0,Consulting,Admit
+6102,Male,True,3.28,Business,,600.0,5.0,Consulting,Reject
+5910,Male,False,3.66,Business,White,770.0,5.0,Other,Admit
+3301,Male,False,3.07,Humanities,Asian,650.0,4.0,Consulting,Reject
+5614,Male,False,3.26,STEM,White,720.0,6.0,Nonprofit/Gov,Admit
+191,Female,False,3.32,Humanities,White,730.0,5.0,Nonprofit/Gov,Admit
+1090,Female,True,3.21,Humanities,,680.0,5.0,Nonprofit/Gov,Reject
+1181,Female,False,3.25,STEM,White,670.0,5.0,Investment Banking,Reject
+37,Male,False,3.5,STEM,Hispanic,720.0,5.0,Health Care,Admit
+5099,Female,True,2.91,STEM,,590.0,5.0,Investment Management,Reject
+1731,Male,False,3.54,Humanities,Asian,670.0,6.0,Financial Services,Reject
+5604,Female,False,3.28,Humanities,White,720.0,5.0,Technology,Admit
+4363,Female,True,3.15,STEM,,580.0,6.0,Consulting,Reject
+5249,Male,True,3.01,Business,,660.0,5.0,Consulting,Reject
+4868,Male,False,3.09,Humanities,Hispanic,580.0,4.0,Health Care,Reject
+3716,Male,False,3.47,Humanities,Black,680.0,4.0,Consulting,Admit
+2090,Male,False,3.26,STEM,Asian,600.0,7.0,Consulting,Reject
+3292,Female,False,3.45,STEM,Black,720.0,4.0,Consulting,Admit
+4282,Female,True,3.36,Business,,690.0,4.0,Nonprofit/Gov,Admit
+374,Female,True,3.21,STEM,,600.0,4.0,Consulting,Admit
+3522,Female,False,3.23,Business,Black,620.0,6.0,Consulting,Reject
+3305,Male,False,3.49,Business,Black,690.0,4.0,Health Care,Admit
+2810,Male,True,3.24,Humanities,,610.0,4.0,Investment Banking,Reject
+870,Female,False,3.29,Humanities,Hispanic,690.0,3.0,Nonprofit/Gov,Reject
+1323,Female,False,3.23,STEM,White,650.0,5.0,Investment Banking,Reject
+3196,Male,False,3.08,STEM,Asian,630.0,6.0,PE/VC,Reject
+4908,Male,False,3.19,Humanities,Asian,610.0,7.0,Technology,Reject
+3912,Female,False,3.24,Business,Other,570.0,4.0,Financial Services,Reject
+3871,Male,False,3.25,Humanities,Black,670.0,5.0,Technology,Reject
+4341,Male,False,3.19,STEM,Asian,580.0,5.0,PE/VC,Reject
+1450,Female,False,3.49,STEM,Black,680.0,4.0,Consulting,Admit
+5510,Female,False,3.31,STEM,Black,610.0,5.0,Consulting,Reject
+177,Female,False,3.25,Humanities,White,670.0,5.0,Consulting,Admit
+3547,Female,True,3.11,Humanities,,640.0,5.0,PE/VC,Reject
+4101,Male,False,3.32,Humanities,White,760.0,5.0,Consulting,Admit
+3401,Female,False,3.46,Business,Black,780.0,5.0,Investment Banking,Admit
+5277,Female,False,3.33,Business,White,660.0,5.0,Technology,Reject
+3960,Female,False,3.35,Humanities,Hispanic,630.0,5.0,PE/VC,Reject
+1257,Female,True,3.3,Humanities,,600.0,4.0,Health Care,Reject
+1087,Male,False,3.35,STEM,Asian,720.0,5.0,PE/VC,Admit
+3598,Male,True,3.35,Humanities,,730.0,6.0,Investment Management,Admit
+2097,Female,False,3.13,Humanities,White,620.0,5.0,PE/VC,Reject
+3124,Female,True,3.31,Humanities,,600.0,6.0,PE/VC,Reject
+2619,Male,False,3.49,Business,White,720.0,5.0,Consulting,Admit
+5407,Male,True,3.44,Business,,630.0,6.0,Consulting,Reject
+2467,Male,False,3.35,STEM,White,730.0,5.0,Consulting,Admit
+4607,Female,True,3.24,Humanities,,640.0,5.0,Consulting,Reject
+5119,Female,False,3.31,STEM,White,710.0,5.0,Investment Banking,Admit
+823,Male,True,3.26,Business,,680.0,7.0,Consulting,Admit
+523,Male,False,3.32,STEM,Hispanic,690.0,4.0,Financial Services,Admit
+4263,Male,False,3.15,Humanities,White,610.0,5.0,Consulting,Reject
+2101,Male,False,3.26,Humanities,Black,630.0,5.0,PE/VC,Reject
+1390,Male,False,3.06,Humanities,Hispanic,610.0,4.0,Nonprofit/Gov,Reject
+2327,Male,True,3.06,Business,,570.0,7.0,PE/VC,Reject
+3300,Male,True,3.43,STEM,,700.0,6.0,PE/VC,Admit
+1899,Female,False,3.11,STEM,Asian,580.0,6.0,Consulting,Reject
+3454,Male,False,3.35,Business,White,710.0,4.0,Consulting,Admit
+3464,Male,False,3.27,STEM,White,620.0,5.0,Consulting,Reject
+323,Female,False,3.36,Humanities,Black,650.0,6.0,Technology,Reject
+467,Male,False,3.35,Business,White,760.0,5.0,Health Care,Admit
+2957,Female,True,3.4,Business,,650.0,7.0,PE/VC,Reject
+3731,Male,False,3.43,STEM,Asian,660.0,5.0,Financial Services,Reject
+4965,Male,False,3.38,Humanities,White,660.0,5.0,Financial Services,Admit
+1580,Female,True,3.4,Humanities,,700.0,5.0,PE/VC,Admit
+3444,Female,False,3.31,Humanities,White,690.0,5.0,Consulting,Admit
+4834,Male,True,3.37,STEM,,670.0,7.0,Financial Services,Reject
+712,Female,False,3.51,Humanities,Other,690.0,4.0,Consulting,Admit
+3792,Male,True,3.4,STEM,,720.0,7.0,Consulting,Admit
+5495,Female,True,3.17,Business,,650.0,5.0,Real Estate,Reject
+4630,Female,False,3.32,Humanities,Black,620.0,4.0,PE/VC,Reject
+2438,Male,False,3.18,Business,Asian,620.0,7.0,Health Care,Reject
+1990,Male,False,3.23,STEM,Asian,680.0,5.0,PE/VC,Admit
+5731,Male,False,3.31,STEM,Asian,760.0,5.0,Technology,Admit
+3803,Male,False,3.48,Humanities,White,690.0,4.0,Investment Management,Admit
+2369,Female,False,3.32,Business,Hispanic,670.0,6.0,Investment Banking,Reject
+5955,Male,False,3.36,Humanities,Asian,700.0,6.0,Other,Admit
+2036,Male,False,3.26,Business,Black,660.0,5.0,Technology,Admit
+2253,Male,False,2.99,Business,White,570.0,6.0,PE/VC,Reject
+2655,Male,True,3.2,Business,,700.0,7.0,Technology,Reject
+3857,Female,True,3.54,Business,,620.0,4.0,Consulting,Reject
+5350,Male,False,3.41,STEM,Hispanic,710.0,6.0,Nonprofit/Gov,Admit
+3877,Male,False,3.48,Humanities,Asian,670.0,4.0,Consulting,Admit
+2398,Female,False,3.35,Humanities,Black,730.0,5.0,Investment Banking,Admit
+737,Male,False,3.18,Humanities,Black,660.0,4.0,Other,Reject
+3170,Male,False,3.39,Humanities,White,680.0,5.0,Nonprofit/Gov,Admit
+1385,Male,False,3.31,STEM,Black,720.0,6.0,Health Care,Admit
+6065,Male,False,3.6,STEM,Black,700.0,5.0,Health Care,Admit
+3818,Female,False,3.23,Business,White,670.0,5.0,Real Estate,Reject
+5391,Male,False,3.24,Humanities,Asian,570.0,5.0,Consulting,Reject
+5783,Female,True,3.09,Humanities,,600.0,8.0,Consulting,Reject
+1231,Male,False,3.18,Humanities,Black,610.0,5.0,Nonprofit/Gov,Reject
+6177,Female,True,3.29,Business,,640.0,5.0,Technology,Reject
+176,Male,False,2.97,STEM,Asian,610.0,6.0,Technology,Reject
+1534,Male,False,3.02,STEM,Asian,640.0,4.0,PE/VC,Reject
+4891,Male,False,3.39,Business,White,740.0,5.0,Nonprofit/Gov,Admit
+785,Male,False,3.43,STEM,Asian,730.0,6.0,Nonprofit/Gov,Admit
+2051,Male,False,3.32,Business,Hispanic,670.0,5.0,Real Estate,Admit
+5040,Male,False,3.32,Humanities,Hispanic,680.0,5.0,Consulting,Admit
+2190,Male,False,3.11,Humanities,Black,680.0,4.0,Nonprofit/Gov,Reject
+4555,Female,False,3.11,STEM,Asian,670.0,6.0,Real Estate,Reject
+3026,Male,False,3.34,STEM,Hispanic,660.0,5.0,Health Care,Reject
+6101,Male,False,3.38,STEM,Asian,700.0,7.0,Financial Services,Admit
+2143,Male,True,3.31,STEM,,650.0,5.0,Nonprofit/Gov,Reject
+5655,Male,True,3.32,STEM,,670.0,4.0,Consulting,Admit
+1302,Female,False,3.51,Humanities,Hispanic,740.0,5.0,Financial Services,Admit
+1828,Male,False,3.32,Humanities,Asian,710.0,6.0,PE/VC,Admit
+4099,Female,False,3.42,Humanities,Black,710.0,4.0,Consulting,Admit
+1178,Female,False,3.24,STEM,Asian,610.0,6.0,Retail,Reject
+3914,Male,True,3.23,Humanities,,630.0,6.0,Consulting,Reject
+2086,Female,False,2.86,STEM,White,570.0,5.0,Other,Reject
+318,Female,True,3.33,STEM,,680.0,4.0,Health Care,Admit
+1868,Female,False,3.47,STEM,White,710.0,8.0,Financial Services,Reject
+6106,Female,True,3.51,Humanities,,700.0,4.0,Nonprofit/Gov,Reject
+1293,Male,False,3.41,Humanities,Asian,770.0,5.0,Consulting,Admit
+5699,Female,True,3.05,Humanities,,570.0,6.0,Nonprofit/Gov,Reject
+2734,Female,False,3.1,Business,Black,630.0,4.0,Investment Banking,Reject
+5646,Male,True,3.33,Humanities,,600.0,6.0,Consulting,Reject
+5443,Female,False,3.48,STEM,Black,690.0,6.0,PE/VC,Admit
+1921,Female,False,3.31,STEM,White,690.0,6.0,Nonprofit/Gov,Admit
+3213,Female,True,3.19,Humanities,,590.0,5.0,Technology,Reject
+6037,Male,False,3.14,STEM,Black,670.0,5.0,Consulting,Reject
+4918,Female,False,3.19,Business,Black,620.0,6.0,Other,Reject
+1989,Female,False,3.43,Humanities,White,720.0,7.0,Consulting,Admit
+978,Male,False,3.33,Humanities,Asian,700.0,6.0,Consulting,Admit
+209,Male,False,3.35,Business,White,660.0,5.0,Consulting,Admit
+4767,Male,False,3.3,STEM,White,750.0,7.0,Technology,Reject
+3284,Male,True,3.35,Humanities,,600.0,5.0,Other,Reject
+4560,Female,False,3.24,Humanities,Asian,690.0,4.0,Investment Banking,Admit
+5632,Female,True,3.2,Humanities,,700.0,6.0,Other,Reject
+5056,Female,False,3.39,STEM,White,690.0,5.0,Technology,Admit
+5158,Female,False,3.25,Humanities,Asian,630.0,6.0,Consulting,Reject
+2979,Male,True,3.03,STEM,,630.0,6.0,Consulting,Reject
+5920,Male,False,3.25,Business,Asian,660.0,5.0,Investment Banking,Reject
+2280,Female,False,3.07,Humanities,Hispanic,590.0,5.0,Other,Reject
+2546,Male,False,3.46,Humanities,Asian,720.0,4.0,Nonprofit/Gov,Admit
+2704,Female,True,3.03,Humanities,,630.0,6.0,Other,Reject
+967,Male,False,3.44,STEM,Hispanic,720.0,5.0,Nonprofit/Gov,Admit
+5888,Male,False,3.32,STEM,Hispanic,590.0,4.0,Financial Services,Reject
+890,Male,True,3.27,Business,,640.0,3.0,Consulting,Reject
+1645,Female,False,3.37,STEM,White,660.0,6.0,Consulting,Reject
+879,Male,False,3.17,Business,White,630.0,6.0,Financial Services,Reject
+4447,Male,False,3.36,Humanities,Other,700.0,5.0,CPG,Admit
+226,Male,False,3.01,Humanities,Asian,610.0,4.0,PE/VC,Reject
+247,Male,True,3.04,STEM,,630.0,5.0,Other,Reject
+662,Male,False,3.07,Business,Asian,600.0,6.0,PE/VC,Reject
+4683,Female,True,3.17,STEM,,650.0,4.0,Technology,Reject
+5308,Male,False,3.34,STEM,Black,680.0,5.0,Investment Banking,Admit
+304,Female,False,3.15,Business,Black,620.0,6.0,Consulting,Reject
+1435,Female,False,3.44,Humanities,Hispanic,710.0,6.0,Consulting,Admit
+3440,Female,False,3.23,STEM,Hispanic,680.0,5.0,Investment Banking,Admit
+4699,Male,True,3.5,Business,,680.0,5.0,Other,Admit
+5006,Female,False,3.39,Business,Other,780.0,5.0,Other,Admit
+2174,Female,False,2.86,Business,Hispanic,610.0,3.0,Investment Banking,Reject
+68,Male,False,3.53,STEM,White,690.0,5.0,Technology,Admit
+3721,Female,False,3.48,Business,Hispanic,680.0,4.0,Consulting,Admit
+454,Male,False,3.21,Humanities,Asian,650.0,5.0,Nonprofit/Gov,Reject
+3764,Male,False,3.25,STEM,Asian,670.0,5.0,Nonprofit/Gov,Admit
+5143,Male,False,3.19,STEM,Black,700.0,5.0,Technology,Reject
+4664,Male,False,3.13,STEM,Black,670.0,6.0,Investment Management,Reject
+5663,Female,True,3.37,Business,,670.0,4.0,Nonprofit/Gov,Admit
+5055,Male,False,3.34,Humanities,Black,710.0,5.0,Investment Banking,Admit
+1934,Male,True,3.2,STEM,,570.0,5.0,Nonprofit/Gov,Reject
+73,Female,True,3.34,STEM,,680.0,5.0,PE/VC,Admit
+5921,Female,False,3.36,Humanities,Black,680.0,5.0,Health Care,Admit
+1855,Male,False,3.2,STEM,Asian,600.0,6.0,Financial Services,Reject
+404,Female,False,3.35,Business,White,620.0,6.0,Consulting,Admit
+5375,Male,False,3.51,STEM,Black,720.0,5.0,Other,Admit
+2697,Male,False,3.52,Humanities,Hispanic,740.0,5.0,Health Care,Admit
+1527,Male,True,3.23,STEM,,570.0,5.0,Investment Banking,Reject
+2243,Female,False,3.05,Humanities,White,570.0,4.0,Investment Banking,Reject
+5569,Female,False,3.15,Business,Other,610.0,4.0,Consulting,Reject
+827,Male,False,3.26,STEM,Black,630.0,6.0,Technology,Reject
+2231,Male,False,3.62,Humanities,White,720.0,6.0,Consulting,Admit
+2408,Male,True,3.21,Business,,650.0,5.0,Consulting,Reject
+1788,Male,True,3.24,Humanities,,640.0,4.0,Investment Banking,Reject
+5095,Female,False,3.38,Humanities,White,780.0,6.0,Consulting,Admit
+5494,Male,False,3.46,STEM,Black,690.0,6.0,Financial Services,Admit
+2014,Male,False,3.55,Humanities,Black,690.0,5.0,Health Care,Admit
+909,Female,False,3.22,Business,Black,710.0,6.0,Consulting,Admit
+858,Male,False,3.19,Humanities,Asian,670.0,5.0,Other,Reject
+3324,Male,False,3.53,Business,Hispanic,710.0,6.0,Consulting,Admit
+5746,Female,False,3.17,Business,Black,710.0,6.0,Technology,Reject
+2863,Male,False,3.36,Humanities,White,690.0,4.0,Nonprofit/Gov,Admit
+381,Female,False,3.26,STEM,White,650.0,6.0,Consulting,Admit
+3755,Male,False,3.07,Humanities,Asian,630.0,4.0,PE/VC,Reject
+3748,Male,False,3.43,Humanities,Other,600.0,5.0,Consulting,Reject
+5345,Male,False,3.37,STEM,White,650.0,6.0,Investment Management,Reject
+135,Female,False,3.28,Humanities,White,610.0,6.0,Consulting,Admit
+3146,Male,False,3.26,Business,White,700.0,6.0,Health Care,Admit
+4053,Male,True,3.36,STEM,,570.0,3.0,Technology,Reject
+4836,Male,True,3.03,Business,,620.0,6.0,Technology,Reject
+5882,Female,True,3.2,Humanities,,660.0,5.0,Consulting,Reject
+1279,Female,False,3.19,STEM,White,680.0,5.0,Nonprofit/Gov,Reject
+4046,Female,False,3.21,Business,Hispanic,700.0,5.0,Investment Banking,Admit
+4490,Male,False,3.22,Business,White,600.0,6.0,Financial Services,Reject
+6178,Male,False,3.35,Humanities,Hispanic,750.0,5.0,PE/VC,Admit
+4243,Male,False,3.14,STEM,White,620.0,5.0,Technology,Reject
+2587,Female,False,3.41,Humanities,Hispanic,640.0,5.0,Nonprofit/Gov,Reject
+4155,Female,True,3.38,Humanities,,700.0,6.0,PE/VC,Admit
+115,Female,False,3.23,STEM,Asian,610.0,5.0,Nonprofit/Gov,Admit
+1730,Male,False,3.35,Humanities,Black,590.0,6.0,Health Care,Reject
+657,Female,False,3.37,Humanities,Asian,670.0,4.0,Technology,Admit
+1696,Male,False,3.48,Humanities,Asian,680.0,5.0,Technology,Admit
+2741,Female,False,3.25,STEM,Black,670.0,5.0,Technology,Admit
+4473,Female,False,3.28,Humanities,White,600.0,5.0,Consulting,Reject
+536,Male,False,3.61,Business,Asian,690.0,5.0,Investment Banking,Admit
+3051,Female,False,3.3,Humanities,White,690.0,6.0,Other,Admit
+2326,Male,False,3.01,Humanities,Hispanic,620.0,6.0,Consulting,Reject
+4435,Male,False,3.31,Business,Hispanic,570.0,5.0,Nonprofit/Gov,Reject
+842,Male,False,3.24,Business,Asian,620.0,7.0,PE/VC,Reject
+5537,Male,False,3.44,Business,White,690.0,4.0,Investment Banking,Admit
+2663,Male,False,3.42,Business,Hispanic,630.0,5.0,PE/VC,Reject
+4970,Male,False,3.34,Humanities,Asian,690.0,6.0,Financial Services,Admit
+1413,Male,False,3.23,Business,Hispanic,660.0,5.0,Media/Entertainment,Reject
+3607,Female,False,2.92,Humanities,Hispanic,570.0,4.0,Consulting,Reject
+5996,Female,True,3.31,Business,,640.0,5.0,Nonprofit/Gov,Reject
+1543,Female,False,3.12,Business,Black,670.0,4.0,Financial Services,Reject
+3247,Female,False,3.2,Humanities,Asian,650.0,5.0,Other,Reject
+2805,Male,False,3.41,STEM,White,740.0,5.0,Consulting,Admit
+3420,Male,False,3.19,STEM,Asian,670.0,4.0,Consulting,Reject
+764,Male,True,3.29,Business,,680.0,5.0,Health Care,Reject
+3481,Male,True,3.04,Humanities,,650.0,7.0,Consulting,Reject
+4229,Male,False,3.27,Humanities,Black,720.0,4.0,Other,Admit
+362,Male,True,3.46,Humanities,,650.0,7.0,Health Care,Reject
+3852,Male,False,3.54,Humanities,Black,660.0,7.0,Technology,Reject
+5251,Female,False,3.38,Business,Hispanic,720.0,5.0,Financial Services,Admit
+1183,Male,True,2.91,STEM,,580.0,3.0,PE/VC,Reject
+2264,Female,True,3.3,Humanities,,700.0,5.0,Other,Reject
+2811,Male,False,3.27,Humanities,Black,660.0,5.0,Health Care,Reject
+5431,Female,False,3.24,Business,White,620.0,4.0,Nonprofit/Gov,Reject
+4548,Male,True,3.21,Humanities,,630.0,2.0,Nonprofit/Gov,Reject
+5287,Male,True,3.54,Humanities,,700.0,5.0,Consulting,Reject
+728,Male,False,3.24,Humanities,Hispanic,580.0,4.0,Investment Banking,Reject
+1086,Male,True,3.34,Business,,680.0,5.0,Consulting,Reject
+4519,Female,False,3.28,Business,Asian,690.0,5.0,Nonprofit/Gov,Admit
+3662,Female,False,3.45,Humanities,Black,720.0,5.0,Investment Banking,Admit
+5745,Female,True,3.09,STEM,,690.0,6.0,Consulting,Reject
+3653,Female,False,3.21,Business,Asian,650.0,6.0,Consulting,Reject
+1155,Male,False,3.44,Humanities,Black,680.0,6.0,Nonprofit/Gov,Admit
+2032,Male,False,3.5,Humanities,Hispanic,730.0,4.0,Financial Services,Admit
+3601,Female,False,3.51,Humanities,White,740.0,4.0,Consulting,Admit
+2583,Male,False,3.5,Humanities,Asian,690.0,6.0,PE/VC,Admit
+1330,Male,False,3.31,STEM,Asian,710.0,4.0,Technology,Admit
+781,Male,False,3.35,Business,Black,710.0,6.0,Health Care,Admit
+347,Female,False,3.35,STEM,White,700.0,5.0,Technology,Admit
+887,Female,False,3.3,Humanities,Asian,690.0,7.0,Consulting,Admit
+3669,Female,False,3.18,Humanities,Hispanic,620.0,7.0,Consulting,Reject
+4540,Male,True,3.35,Humanities,,660.0,6.0,Nonprofit/Gov,Admit
+5796,Male,False,3.25,Business,Black,670.0,7.0,Consulting,Admit
+3,Female,True,3.3,Business,,710.0,5.0,Technology,Admit
+2007,Male,True,3.25,Business,,730.0,6.0,Financial Services,Admit
+750,Male,True,3.29,Business,,730.0,5.0,Consulting,Reject
+938,Female,False,3.4,Humanities,Black,760.0,6.0,Consulting,Admit
+1748,Female,False,3.26,Business,Asian,630.0,5.0,Consulting,Reject
+5607,Female,False,3.01,STEM,Hispanic,580.0,6.0,Investment Banking,Reject
+3516,Female,False,3.36,Humanities,Black,710.0,5.0,Consulting,Admit
+672,Male,False,3.65,STEM,Hispanic,710.0,6.0,Financial Services,Admit
+1076,Male,True,3.6,Business,,780.0,5.0,Health Care,Admit
+4009,Male,True,3.07,Humanities,,680.0,6.0,Investment Banking,Reject
+5823,Male,False,3.4,Humanities,White,690.0,5.0,Technology,Admit
+685,Male,False,3.34,Business,White,680.0,5.0,Financial Services,Admit
+2545,Male,False,3.25,STEM,Asian,690.0,6.0,Nonprofit/Gov,Admit
+937,Male,True,3.24,Business,,570.0,4.0,Consulting,Reject
+620,Male,False,3.51,Business,Asian,700.0,4.0,Consulting,Admit
+2535,Male,False,3.44,Humanities,White,630.0,6.0,PE/VC,Reject
+1535,Female,False,3.21,STEM,Asian,660.0,6.0,Technology,Admit
+1560,Female,True,3.03,Humanities,,600.0,6.0,Other,Reject
+5798,Male,True,3.35,Humanities,,680.0,4.0,PE/VC,Reject
+2067,Male,False,3.27,STEM,Black,630.0,7.0,Investment Banking,Reject
+245,Male,False,3.17,Business,Asian,640.0,6.0,Other,Reject
+4906,Male,False,3.36,Humanities,Asian,640.0,5.0,Consulting,Reject
+776,Male,True,3.2,Humanities,,570.0,3.0,Consulting,Reject
+1969,Male,False,3.2,Humanities,Hispanic,570.0,5.0,Nonprofit/Gov,Reject
+4525,Female,False,3.51,Humanities,Asian,710.0,6.0,Consulting,Admit
+6020,Female,False,3.14,STEM,White,620.0,3.0,Investment Banking,Reject
+640,Male,False,3.48,STEM,Asian,780.0,6.0,Health Care,Admit
+1204,Female,False,3.26,Humanities,Black,760.0,6.0,Consulting,Admit
+1873,Female,False,3.42,Business,Asian,670.0,6.0,Technology,Admit
+4670,Male,False,3.5,STEM,Asian,690.0,3.0,Other,Admit
+2699,Male,False,3.36,STEM,White,700.0,5.0,Consulting,Admit
+845,Female,False,3.39,Business,Hispanic,670.0,6.0,PE/VC,Admit
+2524,Male,False,3.44,Humanities,White,670.0,6.0,Technology,Reject
+3327,Male,False,3.46,STEM,White,690.0,6.0,Consulting,Admit
+4411,Female,False,3.41,Business,Black,660.0,6.0,Investment Banking,Admit
+5784,Female,False,3.57,Humanities,Hispanic,710.0,6.0,Consulting,Admit
+3597,Female,False,3.4,Business,Asian,710.0,7.0,Investment Management,Reject
+26,Male,False,3.26,Humanities,Asian,690.0,5.0,Technology,Admit
+2202,Male,True,3.18,Humanities,,640.0,3.0,Consulting,Reject
+2650,Male,False,3.39,Humanities,Black,680.0,5.0,Investment Banking,Admit
+5665,Male,True,3.28,STEM,,660.0,3.0,PE/VC,Admit
+4513,Male,False,3.33,Humanities,White,660.0,7.0,Consulting,Reject
+3762,Male,True,3.24,STEM,,680.0,4.0,Investment Banking,Admit
+582,Male,False,3.34,STEM,Black,670.0,4.0,Nonprofit/Gov,Reject
+6156,Female,False,3.25,Humanities,Black,720.0,5.0,Retail,Admit
+2433,Male,True,3.07,Humanities,,690.0,5.0,Investment Banking,Reject
+5362,Male,False,3.34,Humanities,Black,670.0,5.0,Nonprofit/Gov,Reject
+1604,Male,True,3.01,STEM,,610.0,5.0,Technology,Reject
+1021,Female,True,3.25,Humanities,,670.0,3.0,Consulting,Admit
+3763,Male,False,3.46,Humanities,White,740.0,4.0,Investment Management,Admit
+437,Female,False,3.43,Humanities,White,770.0,5.0,Consulting,Admit
+3781,Male,False,3.58,Business,Asian,760.0,5.0,Consulting,Admit
+1849,Male,False,3.3,Business,White,630.0,6.0,Health Care,Reject
+4689,Female,False,3.4,Humanities,Black,750.0,6.0,PE/VC,Admit
+5518,Male,False,3.15,Humanities,Hispanic,680.0,5.0,PE/VC,Reject
+1136,Female,False,3.25,STEM,Black,600.0,5.0,PE/VC,Reject
+4364,Male,False,3.49,Business,White,750.0,5.0,Technology,Admit
+448,Male,False,3.3,Business,Black,680.0,4.0,Investment Banking,Admit
+2181,Male,False,3.23,STEM,White,710.0,5.0,Consulting,Admit
+1344,Male,False,3.37,Humanities,Asian,670.0,4.0,PE/VC,Reject
+4597,Male,True,3.51,Humanities,,720.0,4.0,Other,Admit
+4622,Male,True,3.43,STEM,,670.0,4.0,Technology,Admit
+4529,Male,True,3.39,Business,,590.0,5.0,Health Care,Reject
+1826,Male,False,3.16,STEM,Asian,620.0,4.0,PE/VC,Reject
+2163,Female,False,3.36,Humanities,Black,680.0,5.0,Consulting,Admit
+6034,Female,False,3.23,Business,White,710.0,5.0,Nonprofit/Gov,Admit
+5830,Male,True,3.4,Humanities,,680.0,5.0,Consulting,Admit
+1161,Female,False,3.53,Humanities,Asian,780.0,5.0,Consulting,Admit
+3805,Female,False,3.27,STEM,Hispanic,670.0,4.0,Real Estate,Admit
+3559,Male,False,3.46,Humanities,White,770.0,5.0,Health Care,Admit
+1055,Male,False,3.4,Humanities,White,730.0,5.0,Technology,Admit
+760,Male,False,3.16,Humanities,Asian,720.0,6.0,Technology,Reject
+2113,Male,False,3.03,STEM,White,570.0,4.0,Consulting,Reject
+2072,Male,False,3.26,Business,White,720.0,5.0,Technology,Admit
+4967,Female,False,3.18,STEM,White,670.0,5.0,Health Care,Reject
+2661,Male,True,3.55,Business,,750.0,5.0,Consulting,Admit
+3058,Male,False,3.32,Humanities,Asian,780.0,4.0,Technology,Admit
+2986,Male,True,3.11,STEM,,620.0,5.0,Consulting,Reject
+2472,Male,False,3.34,Business,Black,730.0,5.0,Health Care,Admit
+2561,Female,True,3.21,Business,,630.0,3.0,PE/VC,Reject
+329,Male,False,3.34,STEM,White,750.0,6.0,Other,Admit
+1553,Male,True,3.25,STEM,,670.0,8.0,Financial Services,Reject
+2210,Male,False,3.37,Humanities,White,710.0,4.0,CPG,Admit
+926,Female,False,3.36,Humanities,Asian,660.0,5.0,Investment Management,Admit
+1130,Male,False,3.4,Business,Black,710.0,5.0,Health Care,Admit
+4460,Female,True,3.35,Business,,640.0,7.0,Health Care,Reject
+4316,Male,False,3.4,Humanities,White,720.0,4.0,Nonprofit/Gov,Admit
+3325,Female,False,3.23,Humanities,Black,620.0,5.0,Real Estate,Reject
+5423,Male,False,3.07,STEM,White,570.0,6.0,Financial Services,Reject
+2595,Male,True,3.4,Business,,700.0,4.0,Other,Admit
+4024,Female,False,3.36,STEM,Asian,690.0,5.0,Other,Admit
+3383,Male,False,3.19,Humanities,Black,680.0,5.0,Health Care,Reject
+2301,Male,False,3.01,STEM,Asian,640.0,4.0,Media/Entertainment,Reject
+2144,Female,False,3.19,Humanities,Asian,620.0,6.0,Consulting,Reject
+5348,Male,True,3.09,STEM,,570.0,4.0,PE/VC,Reject
+1955,Male,False,3.17,Humanities,Black,570.0,5.0,Nonprofit/Gov,Reject
+3119,Male,False,3.21,Business,Black,620.0,4.0,Consulting,Reject
+4593,Male,False,3.37,Business,Asian,630.0,6.0,Investment Banking,Reject
+3734,Male,True,3.24,Humanities,,690.0,6.0,PE/VC,Reject
+4329,Female,False,3.26,STEM,Asian,680.0,6.0,Investment Banking,Admit
+1497,Male,False,3.53,Business,White,750.0,5.0,PE/VC,Admit
+5828,Male,False,3.38,STEM,Asian,620.0,5.0,Technology,Reject
+4791,Female,False,3.38,Business,White,720.0,5.0,Consulting,Admit
+1622,Female,False,3.29,STEM,White,650.0,5.0,PE/VC,Reject
+5207,Male,False,3.12,STEM,Black,660.0,6.0,Financial Services,Reject
+79,Male,False,3.17,Business,Hispanic,640.0,4.0,Other,Reject
+6006,Male,False,3.37,Humanities,Asian,690.0,6.0,Investment Banking,Admit
+3492,Female,True,3.25,Business,,680.0,4.0,Nonprofit/Gov,Reject
+4299,Female,False,3.37,Humanities,White,760.0,5.0,Health Care,Admit
+2345,Male,False,3.45,Humanities,White,690.0,5.0,Other,Admit
+935,Female,True,3.33,STEM,,750.0,5.0,Investment Banking,Admit
+534,Female,True,3.19,Business,,590.0,6.0,Investment Banking,Admit
+2929,Female,False,3.08,Business,Asian,570.0,5.0,PE/VC,Reject
+2744,Male,True,3.24,Business,,680.0,4.0,Nonprofit/Gov,Reject
+2866,Male,False,3.05,Business,White,690.0,7.0,Health Care,Reject
+3346,Male,False,2.98,Humanities,White,570.0,4.0,Consulting,Reject
+4653,Male,False,3.18,Humanities,Asian,660.0,6.0,Nonprofit/Gov,Reject
+5962,Female,True,3.25,STEM,,570.0,4.0,Financial Services,Reject
+1532,Female,False,3.22,Business,Hispanic,600.0,6.0,Consulting,Reject
+4406,Male,False,2.98,Business,White,570.0,4.0,Nonprofit/Gov,Reject
+3032,Male,False,3.35,STEM,White,780.0,5.0,PE/VC,Admit
+4149,Male,False,3.22,Business,White,710.0,5.0,Health Care,Admit
+4841,Male,True,3.16,Humanities,,650.0,6.0,Other,Reject
+702,Male,False,3.5,Business,Asian,690.0,6.0,Other,Admit
+779,Female,False,3.24,Business,Hispanic,660.0,4.0,Other,Reject
+3216,Female,False,3.46,Business,Black,690.0,5.0,Consulting,Admit
+235,Male,False,3.4,STEM,Black,680.0,4.0,Other,Admit
+5972,Female,False,3.62,Humanities,Other,710.0,5.0,Technology,Admit
+1928,Male,True,3.16,Business,,680.0,3.0,Consulting,Reject
+406,Female,False,3.06,Business,White,580.0,5.0,Investment Banking,Admit
+252,Male,False,3.26,Humanities,White,690.0,4.0,Nonprofit/Gov,Admit
+2606,Male,False,3.14,STEM,Black,590.0,6.0,Nonprofit/Gov,Reject
+6072,Male,False,3.35,Humanities,Hispanic,720.0,5.0,Technology,Admit
+941,Female,False,3.13,STEM,Asian,610.0,3.0,Consulting,Reject
+3157,Male,False,3.14,STEM,Black,630.0,5.0,Financial Services,Reject
+1037,Male,True,2.97,STEM,,570.0,4.0,Nonprofit/Gov,Reject
+613,Male,False,3.09,Business,White,640.0,5.0,PE/VC,Reject
+547,Male,False,3.0,Humanities,Other,570.0,4.0,Technology,Reject
+2272,Male,False,3.27,STEM,Black,630.0,6.0,Consulting,Reject
+1496,Male,False,3.25,Humanities,Black,630.0,6.0,Other,Reject
+4679,Female,True,3.19,STEM,,660.0,6.0,Nonprofit/Gov,Reject
+3864,Male,False,3.06,Business,Asian,690.0,5.0,Investment Management,Reject
+2172,Female,False,2.94,Business,White,590.0,6.0,Nonprofit/Gov,Reject
+787,Female,False,3.26,Humanities,White,740.0,4.0,Health Care,Admit
+2602,Male,False,3.51,STEM,White,710.0,6.0,PE/VC,Admit
+167,Female,False,3.43,Business,White,680.0,3.0,Consulting,Admit
+6096,Female,False,3.58,Humanities,White,750.0,5.0,Nonprofit/Gov,Admit
+2759,Male,False,3.15,Humanities,Hispanic,660.0,3.0,Investment Management,Reject
+3844,Male,False,3.17,Humanities,Other,620.0,5.0,Investment Banking,Reject
+3007,Male,False,3.3,Business,Hispanic,670.0,5.0,Technology,Reject
+1561,Male,False,3.48,Business,Black,680.0,5.0,PE/VC,Admit
+1117,Female,False,3.31,Humanities,Black,660.0,4.0,Other,Reject
+6115,Female,False,3.38,Business,Hispanic,690.0,7.0,Technology,Admit
+5209,Female,True,3.25,STEM,,700.0,5.0,PE/VC,Reject
+6042,Female,False,3.29,Humanities,White,680.0,4.0,Technology,Admit
+4578,Female,False,2.94,STEM,Asian,570.0,5.0,Nonprofit/Gov,Reject
+3120,Male,True,3.19,Humanities,,620.0,4.0,Consulting,Reject
+5933,Male,False,3.26,Humanities,Asian,740.0,6.0,Nonprofit/Gov,Admit
+4562,Female,True,3.34,Business,,730.0,5.0,Other,Admit
+3424,Female,False,3.24,Humanities,Black,670.0,6.0,Technology,Reject
+5876,Male,False,3.28,Business,White,620.0,3.0,Other,Reject
+5136,Female,False,3.06,STEM,White,610.0,5.0,Retail,Reject
+4802,Male,True,3.21,Business,,600.0,5.0,Consulting,Reject
+4400,Male,False,3.12,STEM,White,690.0,5.0,Technology,Reject
+6165,Male,False,3.42,STEM,Black,610.0,5.0,Technology,Reject
+1171,Male,False,3.28,Humanities,Black,680.0,5.0,Investment Banking,Admit
+2767,Female,False,3.33,Humanities,White,660.0,5.0,Consulting,Admit
+4175,Female,False,3.43,Business,Black,640.0,4.0,Investment Banking,Reject
+849,Male,False,3.23,Business,Hispanic,620.0,6.0,Nonprofit/Gov,Reject
+1248,Male,False,3.29,STEM,White,600.0,6.0,Other,Reject
+223,Male,False,3.71,STEM,White,720.0,6.0,Other,Admit
+5279,Male,False,3.49,STEM,Other,700.0,6.0,Nonprofit/Gov,Admit
+1926,Male,False,3.02,STEM,White,610.0,6.0,PE/VC,Reject
+2712,Female,False,3.29,STEM,Black,700.0,6.0,Consulting,Admit
+3001,Male,True,3.5,Business,,710.0,4.0,Technology,Admit
+1660,Female,False,3.28,Humanities,Hispanic,620.0,5.0,Consulting,Reject
+5224,Female,True,3.05,STEM,,630.0,6.0,Health Care,Reject
+4295,Female,True,3.17,STEM,,620.0,4.0,Other,Reject
+6138,Male,True,3.33,STEM,,690.0,5.0,Consulting,Admit
+325,Male,False,3.2,STEM,Asian,710.0,4.0,Other,Reject
+797,Male,False,3.18,Business,Hispanic,650.0,5.0,Financial Services,Reject
+1813,Male,False,3.22,Humanities,White,640.0,4.0,Other,Reject
+355,Male,False,3.28,STEM,Black,720.0,5.0,PE/VC,Admit
+4971,Male,False,3.24,Business,Hispanic,660.0,5.0,Energy,Reject
+714,Male,False,3.09,Business,Asian,680.0,7.0,Consulting,Reject
+2994,Female,False,3.06,Humanities,Hispanic,570.0,6.0,Technology,Reject
+5204,Female,False,3.53,Humanities,White,690.0,6.0,PE/VC,Admit
+2519,Female,False,3.23,STEM,Hispanic,660.0,4.0,Financial Services,Admit
+3036,Female,False,3.23,Business,Hispanic,710.0,7.0,Investment Banking,Admit
+4800,Female,False,3.42,Humanities,Asian,610.0,6.0,Financial Services,Reject
+5524,Male,False,3.27,Business,White,660.0,5.0,Consulting,Admit
+930,Male,False,3.08,Business,Asian,650.0,5.0,Consulting,Reject
+4298,Female,True,3.09,Humanities,,670.0,5.0,Investment Banking,Reject
+4389,Female,True,3.15,Humanities,,590.0,5.0,Consulting,Reject
+836,Male,True,3.18,Business,,570.0,4.0,Other,Reject
+3845,Female,True,3.35,Business,,650.0,5.0,PE/VC,Reject
+5395,Male,False,3.21,Humanities,Hispanic,570.0,6.0,Investment Banking,Reject
+2573,Male,False,3.23,Humanities,Hispanic,730.0,6.0,Real Estate,Admit
+3264,Male,False,3.45,STEM,White,700.0,7.0,Retail,Reject
+192,Male,False,3.47,Business,Asian,690.0,7.0,Investment Management,Reject
+3484,Male,False,3.39,STEM,White,710.0,4.0,Technology,Admit
+5679,Male,False,3.35,Humanities,Asian,710.0,1.0,Consulting,Admit
+6194,Male,False,3.23,STEM,Hispanic,650.0,4.0,Consulting,Reject
+3398,Male,False,3.59,Humanities,Black,760.0,4.0,PE/VC,Admit
+1441,Male,False,3.35,Humanities,Asian,680.0,4.0,PE/VC,Admit
+2579,Male,True,3.39,Humanities,,630.0,6.0,Health Care,Reject
+2112,Male,True,3.13,Humanities,,570.0,5.0,PE/VC,Reject
+3329,Female,False,3.09,Humanities,Black,640.0,4.0,Consulting,Reject
+1767,Female,True,3.04,Business,,570.0,6.0,Nonprofit/Gov,Reject
+394,Female,False,3.49,Humanities,White,690.0,5.0,Financial Services,Admit
+2682,Female,False,3.31,Humanities,Asian,660.0,5.0,Investment Banking,Admit
+5840,Male,False,3.25,STEM,Asian,610.0,5.0,Investment Management,Reject
+5177,Male,False,3.26,STEM,White,690.0,6.0,PE/VC,Admit
+4695,Female,False,2.96,STEM,Black,630.0,5.0,Nonprofit/Gov,Reject
+44,Female,False,2.93,Humanities,Other,590.0,4.0,Consulting,Admit
+4558,Male,False,3.34,STEM,Hispanic,720.0,3.0,Financial Services,Reject
+3851,Male,False,3.08,Humanities,Black,690.0,6.0,Nonprofit/Gov,Reject
+71,Male,True,3.34,STEM,,690.0,5.0,Nonprofit/Gov,Reject
+2050,Female,False,3.28,Business,Black,730.0,4.0,PE/VC,Admit
+5591,Male,False,3.41,Business,Asian,730.0,5.0,Consulting,Admit
+3815,Male,False,3.22,STEM,Black,720.0,5.0,Health Care,Admit
+4599,Male,False,3.33,STEM,Black,690.0,4.0,PE/VC,Admit
+2216,Female,False,3.2,Humanities,Hispanic,630.0,6.0,Consulting,Reject
+4028,Male,False,3.49,Humanities,Asian,750.0,6.0,Health Care,Admit
+60,Male,False,3.41,Humanities,White,740.0,4.0,Financial Services,Admit
+3421,Female,True,3.29,Humanities,,690.0,4.0,Technology,Reject
+517,Male,True,3.31,Business,,700.0,4.0,Health Care,Reject
+5490,Male,False,3.42,Humanities,Asian,710.0,5.0,Energy,Admit
+75,Female,True,3.35,Business,,640.0,5.0,PE/VC,Admit
+4430,Male,False,3.41,STEM,Asian,710.0,3.0,Consulting,Reject
+5821,Female,False,2.97,Business,Other,620.0,4.0,Investment Banking,Reject
+4344,Male,True,3.3,Business,,620.0,5.0,Real Estate,Reject
+5541,Male,False,3.31,Humanities,Other,600.0,5.0,Technology,Reject
+4159,Male,False,3.27,Humanities,Other,630.0,3.0,Financial Services,Reject
+3137,Male,False,3.22,Business,White,610.0,7.0,Consulting,Reject
+5374,Female,True,2.96,Humanities,,630.0,4.0,Nonprofit/Gov,Reject
+2145,Male,False,3.36,Humanities,White,680.0,6.0,Health Care,Admit
+4418,Male,False,3.38,STEM,Black,690.0,5.0,Consulting,Admit
+48,Male,False,3.33,STEM,Hispanic,720.0,7.0,Consulting,Admit
+1368,Female,False,3.36,Business,Asian,710.0,5.0,Consulting,Admit
+2361,Female,False,3.44,Business,White,780.0,6.0,Consulting,Admit
+1011,Male,False,3.02,Business,White,660.0,5.0,Consulting,Reject
+1632,Male,False,3.62,Business,Asian,760.0,5.0,Investment Banking,Admit
+4930,Female,False,3.27,Humanities,Black,660.0,5.0,Consulting,Admit
+5140,Male,False,3.31,Humanities,Black,700.0,6.0,Investment Banking,Admit
+1713,Male,False,3.13,Business,Asian,600.0,5.0,Investment Banking,Reject
+2839,Male,False,3.19,Humanities,Black,590.0,6.0,Consulting,Reject
+5498,Male,False,3.22,Humanities,White,700.0,5.0,Technology,Admit
+5147,Male,False,3.44,Humanities,Black,740.0,5.0,Technology,Admit
+592,Female,False,3.33,Humanities,White,700.0,4.0,Nonprofit/Gov,Admit
+1898,Female,False,3.39,Humanities,White,780.0,4.0,Other,Admit
+1759,Male,False,3.58,STEM,Black,750.0,4.0,Financial Services,Admit
+5418,Male,True,3.26,Humanities,,580.0,5.0,Nonprofit/Gov,Reject
+4829,Male,False,3.33,Humanities,Black,690.0,6.0,PE/VC,Admit
+4448,Male,True,3.24,Humanities,,700.0,6.0,Technology,Admit
+545,Male,False,3.25,Humanities,Hispanic,660.0,3.0,Nonprofit/Gov,Reject
+2648,Male,False,3.43,STEM,Hispanic,660.0,5.0,PE/VC,Admit
+2693,Male,False,3.29,Humanities,White,670.0,5.0,Consulting,Admit
+4614,Male,True,3.04,Business,,570.0,6.0,Real Estate,Reject
+3698,Male,False,3.31,STEM,White,650.0,7.0,Health Care,Reject
+126,Male,False,3.44,Business,White,740.0,6.0,PE/VC,Admit
+2227,Female,True,3.22,Business,,660.0,4.0,Nonprofit/Gov,Admit
+4621,Male,False,3.48,Business,White,740.0,4.0,Consulting,Admit
+5176,Female,False,3.24,Business,White,590.0,6.0,Other,Reject
+2064,Female,False,3.21,Business,Asian,660.0,5.0,Financial Services,Admit
+5144,Male,False,3.41,Humanities,Black,730.0,5.0,PE/VC,Admit
+5528,Male,True,3.3,Humanities,,700.0,4.0,Consulting,Admit
+6125,Female,True,3.31,STEM,,720.0,6.0,PE/VC,Reject
+4360,Male,False,3.24,Business,Asian,650.0,6.0,Consulting,Reject
+513,Female,False,3.13,STEM,Asian,620.0,6.0,Nonprofit/Gov,Reject
+12,Male,True,2.85,Humanities,,580.0,4.0,PE/VC,Reject
+3574,Male,False,3.34,STEM,Asian,710.0,4.0,Technology,Admit
+1085,Male,False,3.21,Humanities,White,610.0,5.0,Other,Reject
+4901,Male,False,3.31,Business,White,660.0,6.0,Technology,Admit
+3397,Male,False,3.27,STEM,Other,670.0,5.0,Financial Services,Admit
+757,Male,True,3.0,Humanities,,670.0,4.0,Nonprofit/Gov,Reject
+5027,Male,False,3.44,Humanities,Asian,690.0,5.0,Other,Admit
+4662,Female,False,3.02,Business,White,590.0,6.0,Technology,Reject
+5450,Female,False,3.18,Humanities,Asian,610.0,5.0,Technology,Reject
+3180,Female,True,3.27,STEM,,610.0,5.0,Retail,Reject
+3104,Female,False,3.16,Business,Asian,590.0,6.0,Nonprofit/Gov,Reject
+4337,Female,False,3.34,Business,Asian,670.0,4.0,PE/VC,Reject
+4456,Male,False,3.62,Business,Asian,730.0,5.0,Consulting,Admit
+923,Male,True,3.49,Business,,780.0,5.0,Nonprofit/Gov,Reject
+2589,Male,False,3.42,STEM,Asian,780.0,5.0,Investment Banking,Admit
+431,Male,False,3.33,STEM,White,640.0,4.0,Consulting,Reject
+3955,Female,False,3.43,STEM,Asian,660.0,4.0,Consulting,Admit
+2720,Male,False,3.39,STEM,Other,690.0,6.0,Consulting,Admit
+6192,Female,True,3.22,Business,,680.0,5.0,Health Care,Admit
+2111,Male,True,2.98,Business,,590.0,4.0,Technology,Reject
+5161,Female,True,3.35,Business,,630.0,5.0,Consulting,Reject
+1780,Male,False,3.23,Humanities,Asian,650.0,3.0,Health Care,Reject
+791,Female,False,3.19,STEM,Asian,580.0,5.0,PE/VC,Reject
+1715,Male,False,3.64,Business,White,780.0,6.0,Consulting,Admit
+188,Male,False,3.54,STEM,Hispanic,700.0,5.0,Other,Admit
+4269,Female,False,3.43,Humanities,White,640.0,4.0,Consulting,Reject
+5173,Female,False,3.57,STEM,Hispanic,690.0,4.0,PE/VC,Admit
+382,Male,False,3.21,Business,Asian,630.0,4.0,Consulting,Reject
+3443,Female,False,3.67,Humanities,Black,720.0,6.0,Consulting,Admit
+5600,Female,False,3.25,STEM,White,720.0,6.0,PE/VC,Admit
+2149,Male,False,3.15,Business,White,600.0,5.0,Financial Services,Reject
+2985,Male,False,3.25,Business,Black,650.0,6.0,Consulting,Reject
+4315,Male,False,3.45,Humanities,Hispanic,700.0,5.0,Consulting,Admit
+357,Female,True,3.31,Humanities,,630.0,6.0,Nonprofit/Gov,Admit
+3530,Female,False,3.38,Humanities,Asian,630.0,5.0,Financial Services,Reject
+2827,Female,True,3.34,Business,,720.0,5.0,Financial Services,Admit
+911,Female,False,3.56,STEM,White,680.0,4.0,Consulting,Admit
+15,Female,False,3.03,STEM,White,600.0,5.0,Technology,Admit
+3582,Male,False,3.28,Business,Asian,720.0,5.0,PE/VC,Admit
+3048,Female,False,3.21,Humanities,Asian,690.0,3.0,PE/VC,Admit
+2690,Female,False,3.37,STEM,Black,680.0,5.0,Consulting,Admit
+3409,Female,True,3.24,STEM,,740.0,5.0,Investment Management,Admit
+1502,Male,False,3.4,Humanities,Other,680.0,4.0,PE/VC,Admit
+436,Male,False,3.28,STEM,Asian,680.0,5.0,Other,Admit
+388,Female,True,3.08,STEM,,630.0,5.0,Health Care,Admit
+6093,Male,False,3.54,Humanities,White,700.0,6.0,Consulting,Admit
+1421,Male,False,3.51,Business,White,740.0,5.0,Investment Banking,Admit
+4989,Female,False,2.92,Humanities,White,570.0,6.0,PE/VC,Reject
+1609,Male,False,3.27,STEM,Hispanic,710.0,5.0,Consulting,Admit
+3025,Female,False,3.42,Humanities,Hispanic,730.0,6.0,Nonprofit/Gov,Admit
+4458,Male,False,3.37,STEM,Black,710.0,5.0,Energy,Admit
+5182,Female,False,3.52,Humanities,Hispanic,740.0,4.0,Technology,Admit
+1880,Female,False,3.21,Humanities,White,640.0,5.0,Real Estate,Reject
+4325,Female,True,3.3,Business,,680.0,6.0,Technology,Admit
+1216,Female,False,3.12,Humanities,White,570.0,6.0,Investment Banking,Reject
+3381,Female,True,3.21,Humanities,,650.0,4.0,Investment Banking,Reject
+5761,Male,False,3.38,STEM,White,770.0,4.0,Nonprofit/Gov,Admit
+2140,Male,True,3.03,Business,,630.0,5.0,PE/VC,Reject
+3875,Female,False,3.37,Humanities,Hispanic,690.0,6.0,Consulting,Admit
+4877,Female,False,3.07,Humanities,Asian,690.0,4.0,Consulting,Reject
+5689,Male,True,2.99,Business,,640.0,5.0,Consulting,Reject
+4185,Male,False,3.33,STEM,Black,690.0,4.0,PE/VC,Admit
+2011,Male,False,3.22,STEM,White,670.0,4.0,Other,Admit
+5777,Male,True,3.19,Humanities,,570.0,5.0,Consulting,Reject
+1224,Male,True,3.23,STEM,,620.0,5.0,Technology,Reject
+4643,Female,False,3.22,Humanities,White,610.0,4.0,Consulting,Reject
+5525,Male,False,3.13,STEM,Black,570.0,6.0,Investment Banking,Reject
+905,Female,False,3.23,Humanities,White,710.0,6.0,PE/VC,Admit
+2189,Female,False,3.31,STEM,Hispanic,670.0,5.0,Nonprofit/Gov,Reject
+1375,Female,False,3.58,Humanities,Asian,740.0,6.0,Consulting,Admit
+310,Male,False,3.4,STEM,White,630.0,5.0,Investment Banking,Reject
+5966,Female,False,3.31,Business,White,630.0,7.0,Other,Reject
+852,Male,False,3.36,STEM,Black,730.0,6.0,Nonprofit/Gov,Admit
+3073,Female,False,3.35,STEM,Black,720.0,5.0,Consulting,Admit
+973,Female,True,2.91,Business,,620.0,3.0,PE/VC,Reject
+3832,Female,True,3.3,STEM,,630.0,4.0,Investment Banking,Reject
+5650,Male,False,3.58,Business,Hispanic,690.0,4.0,Consulting,Admit
+4711,Male,False,3.27,Business,Asian,690.0,4.0,Nonprofit/Gov,Admit
+5693,Male,False,3.12,Humanities,Asian,700.0,5.0,Technology,Reject
+5964,Male,False,3.4,STEM,Black,690.0,5.0,Technology,Admit
+5669,Male,False,3.25,Business,Black,700.0,2.0,Nonprofit/Gov,Reject
+199,Female,False,3.6,Humanities,Other,670.0,5.0,Consulting,Admit
+5597,Male,False,3.22,Humanities,Asian,700.0,5.0,Consulting,Admit
+133,Male,True,3.36,Humanities,,670.0,2.0,PE/VC,Reject
+3876,Male,True,3.11,Humanities,,580.0,5.0,CPG,Reject
+1392,Female,True,3.39,Business,,680.0,6.0,Consulting,Reject
+5884,Female,False,3.24,STEM,White,680.0,5.0,Consulting,Admit
+2854,Male,True,3.38,STEM,,730.0,5.0,Consulting,Admit
+2974,Male,False,3.49,Humanities,Asian,680.0,6.0,Investment Banking,Admit
+1791,Male,False,3.23,Humanities,Asian,650.0,5.0,Consulting,Reject
+5180,Male,False,3.31,Humanities,Asian,610.0,5.0,CPG,Reject
+117,Female,False,3.46,STEM,White,660.0,5.0,Consulting,Admit
+2033,Female,False,3.32,Humanities,White,650.0,4.0,Other,Reject
+5081,Male,False,3.52,STEM,Asian,700.0,5.0,Investment Banking,Admit
+2080,Male,True,3.34,Humanities,,640.0,5.0,Consulting,Reject
+5928,Female,False,3.12,Humanities,Black,600.0,8.0,Consulting,Reject
+4713,Male,True,3.23,Humanities,,600.0,5.0,Technology,Reject
+1483,Female,True,3.25,Humanities,,600.0,4.0,Energy,Reject
+1579,Male,True,3.17,Business,,570.0,2.0,Nonprofit/Gov,Reject
+4885,Female,True,3.39,Humanities,,740.0,7.0,Other,Admit
+273,Female,False,3.23,Humanities,Other,670.0,6.0,Investment Banking,Admit
+3856,Female,False,3.05,STEM,White,660.0,6.0,Technology,Reject
+3789,Male,False,3.26,Humanities,Hispanic,730.0,4.0,Health Care,Admit
+1663,Female,False,3.35,Business,White,700.0,7.0,Consulting,Admit
+4422,Male,False,2.98,STEM,Hispanic,650.0,4.0,Consulting,Reject
+3883,Female,False,3.55,STEM,White,680.0,5.0,Financial Services,Admit
+4698,Male,False,3.43,STEM,White,780.0,5.0,Consulting,Admit
+5559,Male,False,3.38,Business,Black,710.0,6.0,Media/Entertainment,Admit
+2054,Female,False,3.41,Business,White,690.0,4.0,Consulting,Admit
+2798,Male,True,3.47,Humanities,,770.0,5.0,Technology,Admit
+30,Male,True,3.65,STEM,,700.0,5.0,Consulting,Admit
+4031,Male,False,3.29,Humanities,Asian,690.0,6.0,Technology,Admit
+5780,Male,False,3.48,Business,White,750.0,4.0,PE/VC,Admit
+2569,Male,False,2.87,Humanities,Hispanic,590.0,6.0,Consulting,Reject
+748,Male,True,3.31,Humanities,,670.0,4.0,CPG,Admit
+3084,Female,True,3.12,Humanities,,640.0,4.0,Investment Management,Reject
+1318,Female,False,3.28,STEM,Hispanic,680.0,5.0,Other,Admit
+5262,Female,False,3.48,STEM,Black,750.0,6.0,PE/VC,Admit
+5412,Female,True,3.43,STEM,,570.0,5.0,Consulting,Reject
+2380,Female,False,3.26,Business,White,730.0,4.0,Technology,Admit
+56,Female,False,3.44,STEM,Black,680.0,4.0,PE/VC,Admit
+5315,Female,False,3.41,Business,Asian,660.0,5.0,Consulting,Admit
+2653,Male,False,3.3,Business,Other,660.0,4.0,Investment Banking,Admit
+3616,Female,False,3.35,Business,Asian,690.0,6.0,Technology,Admit
+3794,Female,False,3.38,Humanities,Asian,690.0,4.0,Nonprofit/Gov,Admit
+5381,Female,False,3.37,Humanities,White,630.0,6.0,PE/VC,Reject
+3003,Male,False,3.1,Business,Asian,650.0,6.0,Real Estate,Reject
+904,Female,False,3.34,Humanities,Asian,660.0,6.0,Real Estate,Admit
+5499,Male,False,3.43,Humanities,Asian,660.0,6.0,Consulting,Admit
+1962,Female,False,3.23,Humanities,White,660.0,5.0,PE/VC,Reject
+4238,Female,False,3.34,STEM,White,670.0,6.0,PE/VC,Admit
+940,Male,False,3.36,STEM,Black,700.0,4.0,Technology,Admit
+353,Female,False,3.47,Humanities,White,760.0,4.0,Technology,Admit
+2625,Female,False,3.12,STEM,Hispanic,650.0,5.0,Technology,Reject
+4308,Male,False,3.23,Business,Black,670.0,6.0,Consulting,Admit
+3145,Male,False,3.48,STEM,Black,720.0,5.0,Financial Services,Admit
+3673,Male,False,3.46,Humanities,Hispanic,680.0,4.0,Consulting,Admit
+5311,Male,False,3.17,STEM,Black,670.0,6.0,Health Care,Reject
+2349,Female,False,3.36,Humanities,Black,670.0,4.0,Investment Management,Admit
+3837,Female,False,3.49,Business,Hispanic,680.0,6.0,Investment Banking,Admit
+5509,Male,True,3.29,STEM,,650.0,5.0,Technology,Reject
+3189,Male,False,3.21,Humanities,White,650.0,6.0,Health Care,Reject
+6092,Male,True,3.32,Business,,670.0,6.0,PE/VC,Reject
+2439,Female,False,3.28,Humanities,Asian,610.0,4.0,Consulting,Reject
+3236,Male,False,3.03,Humanities,White,660.0,6.0,Nonprofit/Gov,Reject
+4718,Male,False,3.33,Humanities,Asian,670.0,6.0,PE/VC,Admit
+6010,Male,False,3.17,STEM,Asian,610.0,4.0,Other,Reject
+42,Female,True,3.41,Business,,600.0,7.0,Nonprofit/Gov,Admit
+4617,Female,False,3.08,Humanities,White,600.0,4.0,Financial Services,Reject
+539,Male,False,3.03,STEM,White,570.0,4.0,PE/VC,Reject
+4957,Male,False,3.28,Humanities,Asian,660.0,5.0,Nonprofit/Gov,Reject
+1350,Male,True,3.36,STEM,,650.0,5.0,Technology,Reject
+3253,Male,False,3.27,Humanities,White,730.0,6.0,Investment Banking,Admit
+2244,Female,True,3.58,Business,,710.0,5.0,Other,Reject
+3571,Male,False,3.55,Humanities,Black,710.0,5.0,Consulting,Admit
+977,Female,True,3.31,Humanities,,720.0,5.0,PE/VC,Reject
+4687,Female,False,3.31,STEM,Other,640.0,5.0,Consulting,Reject
+1110,Male,False,3.33,STEM,Other,700.0,5.0,PE/VC,Admit
+5066,Male,False,3.13,STEM,White,580.0,4.0,Technology,Reject
+1852,Male,True,3.11,STEM,,600.0,6.0,Real Estate,Reject
+2379,Female,True,3.38,Humanities,,720.0,6.0,Nonprofit/Gov,Reject
+3568,Male,False,3.44,Business,White,740.0,5.0,Financial Services,Admit
+4284,Male,False,3.25,Business,White,660.0,6.0,Other,Reject
+5769,Female,False,3.34,STEM,White,620.0,4.0,Consulting,Reject
+5278,Female,False,3.27,Business,Black,700.0,4.0,Technology,Admit
+6043,Male,False,3.23,Business,White,620.0,6.0,Technology,Reject
+3567,Male,False,3.29,Business,White,710.0,4.0,Investment Management,Admit
+1973,Female,False,3.31,Humanities,White,760.0,6.0,Consulting,Admit
+1080,Female,False,3.06,Business,Hispanic,730.0,5.0,Nonprofit/Gov,Reject
+1133,Male,False,3.29,Humanities,Hispanic,660.0,4.0,Technology,Reject
+1276,Female,True,3.12,Humanities,,600.0,6.0,Consulting,Reject
+3087,Female,False,3.14,Business,Hispanic,710.0,4.0,Consulting,Reject
+1327,Female,False,3.51,STEM,Hispanic,630.0,6.0,Consulting,Reject
+5723,Male,True,3.34,Humanities,,730.0,7.0,Consulting,Admit
+1069,Male,False,3.32,STEM,Other,620.0,5.0,PE/VC,Reject
+3901,Female,False,3.22,Business,Asian,700.0,5.0,Nonprofit/Gov,Admit
+137,Male,False,3.32,Business,White,670.0,4.0,Financial Services,Reject
+5992,Female,False,3.36,STEM,Asian,650.0,5.0,PE/VC,Reject
+307,Female,False,3.25,Humanities,Asian,710.0,6.0,Technology,Admit
+4330,Male,True,3.18,Business,,590.0,5.0,Consulting,Reject
+5343,Male,True,3.43,Humanities,,710.0,4.0,Investment Management,Admit
+992,Male,False,3.47,Business,White,680.0,4.0,Consulting,Admit
+3064,Female,False,3.64,Business,Asian,760.0,5.0,Technology,Admit
+4466,Male,True,3.04,Humanities,,660.0,5.0,Consulting,Reject
+3780,Female,True,3.27,Business,,680.0,3.0,PE/VC,Admit
+1018,Male,True,3.26,Humanities,,690.0,5.0,Consulting,Admit
+953,Male,False,3.28,Humanities,Black,780.0,6.0,Consulting,Admit
+4732,Male,False,3.25,STEM,Asian,660.0,6.0,Nonprofit/Gov,Reject
+4471,Male,False,2.92,Humanities,Hispanic,620.0,3.0,Investment Management,Reject
+2596,Female,False,3.33,STEM,Asian,720.0,6.0,Other,Admit
+4131,Male,False,3.09,Humanities,Hispanic,570.0,5.0,PE/VC,Reject
+21,Male,False,3.46,Business,White,760.0,5.0,Investment Banking,Admit
+6097,Male,True,3.03,STEM,,650.0,5.0,Consulting,Reject
+1592,Male,True,3.46,Business,,680.0,4.0,Technology,Reject
+4332,Male,False,3.32,Business,Hispanic,640.0,6.0,Nonprofit/Gov,Reject
+2927,Male,False,3.38,Humanities,Asian,700.0,5.0,Investment Banking,Admit
+1824,Female,True,3.39,Humanities,,670.0,6.0,PE/VC,Reject
+214,Female,False,3.24,Business,White,660.0,6.0,Technology,Admit
+314,Female,False,3.25,Humanities,Asian,580.0,5.0,Consulting,Admit
+2286,Male,False,3.05,STEM,Black,660.0,4.0,Consulting,Reject
+5927,Male,False,3.47,STEM,Hispanic,670.0,4.0,Investment Banking,Reject
+4108,Female,False,3.29,STEM,Other,650.0,6.0,Financial Services,Reject
+2931,Male,True,3.29,STEM,,570.0,6.0,Consulting,Reject
+5903,Male,False,3.5,Business,Hispanic,670.0,7.0,Other,Reject
+2463,Male,False,3.12,Business,Hispanic,680.0,5.0,Investment Banking,Reject
+509,Male,False,3.2,STEM,Asian,650.0,6.0,PE/VC,Reject
+1985,Male,False,3.19,Humanities,Black,670.0,5.0,PE/VC,Reject
+1725,Female,False,3.41,Humanities,White,750.0,5.0,Consulting,Admit
+4040,Male,False,3.13,Business,Other,630.0,3.0,PE/VC,Reject
+5019,Male,False,3.34,Business,Asian,700.0,6.0,PE/VC,Admit
+3613,Female,False,3.29,Humanities,Asian,740.0,4.0,PE/VC,Admit
+4361,Female,False,3.55,Humanities,Black,690.0,7.0,Consulting,Admit
+1272,Female,True,3.27,Humanities,,690.0,6.0,Consulting,Admit
+3486,Female,False,3.51,Humanities,Hispanic,710.0,6.0,Health Care,Admit
+5552,Female,False,3.38,Business,Asian,640.0,6.0,Technology,Reject
+1538,Male,False,3.38,Humanities,Black,700.0,6.0,Investment Management,Admit
+4408,Male,True,3.44,STEM,,630.0,6.0,Nonprofit/Gov,Reject
+1007,Male,False,3.1,Humanities,Asian,570.0,5.0,Consulting,Reject
+1201,Male,False,3.56,Humanities,Black,650.0,5.0,Consulting,Reject
+1583,Male,False,3.13,STEM,Other,610.0,5.0,Consulting,Reject
+5843,Male,False,3.38,Humanities,Asian,700.0,4.0,PE/VC,Admit
+4712,Female,False,3.22,STEM,Black,720.0,6.0,Consulting,Admit
+3214,Male,False,3.24,Humanities,Black,630.0,5.0,Nonprofit/Gov,Reject
+2245,Female,False,3.32,Business,White,650.0,8.0,Consulting,Reject
+2495,Female,True,3.29,Humanities,,610.0,5.0,Consulting,Reject
+3044,Male,True,3.52,Business,,730.0,6.0,Technology,Admit
+5990,Male,True,3.09,Business,,650.0,3.0,PE/VC,Reject
+5645,Male,True,3.4,Humanities,,700.0,4.0,Nonprofit/Gov,Reject
+4899,Male,False,3.45,Business,Black,720.0,4.0,Other,Admit
+2484,Male,True,3.28,STEM,,640.0,3.0,Investment Banking,Reject
+2607,Male,True,3.2,Humanities,,650.0,7.0,Nonprofit/Gov,Reject
+4052,Female,False,3.36,Business,Black,680.0,4.0,Technology,Admit
+2332,Female,True,3.33,Business,,680.0,5.0,Real Estate,Reject
+2166,Female,True,3.36,Humanities,,720.0,6.0,Consulting,Admit
+5221,Female,False,3.31,Business,Hispanic,660.0,5.0,PE/VC,Admit
+5057,Male,False,3.07,Business,Asian,600.0,6.0,Financial Services,Reject
+1379,Male,False,3.28,Business,Asian,620.0,5.0,Nonprofit/Gov,Reject
+3497,Female,True,3.11,Humanities,,660.0,5.0,Technology,Reject
+3988,Male,True,3.37,STEM,,710.0,6.0,Investment Management,Reject
+1648,Male,False,3.18,Business,Asian,640.0,7.0,Other,Reject
+317,Male,False,3.32,Humanities,White,700.0,6.0,PE/VC,Admit
+175,Female,True,3.17,STEM,,630.0,6.0,Nonprofit/Gov,Admit
+1466,Female,False,3.11,Business,Asian,630.0,5.0,Technology,Reject
+2657,Male,False,3.49,Humanities,Hispanic,690.0,6.0,Financial Services,Admit
+5198,Male,False,3.4,Humanities,Black,720.0,5.0,Consulting,Admit
+6139,Male,True,3.18,Business,,640.0,4.0,Investment Banking,Reject
+1562,Male,False,2.97,STEM,White,600.0,5.0,Investment Management,Reject
+3581,Male,False,3.18,Humanities,Other,700.0,5.0,Consulting,Reject
+5455,Male,False,3.51,Humanities,Asian,690.0,4.0,Technology,Admit
+1556,Male,False,3.2,STEM,Asian,600.0,4.0,Investment Banking,Reject
+5223,Female,False,3.35,Business,White,670.0,5.0,Nonprofit/Gov,Admit
+5861,Female,False,3.34,Humanities,White,630.0,5.0,PE/VC,Reject
+141,Male,False,3.2,STEM,Asian,600.0,6.0,Consulting,Reject
+1074,Male,False,3.3,STEM,White,660.0,6.0,Financial Services,Admit
+4322,Female,True,3.26,Business,,630.0,4.0,PE/VC,Reject
+922,Female,True,3.45,Business,,710.0,4.0,Investment Management,Admit
+2256,Female,False,3.18,Humanities,White,620.0,5.0,Technology,Reject
+3668,Female,False,3.19,Humanities,Black,660.0,6.0,Other,Reject
+2355,Male,True,3.0,Humanities,,570.0,3.0,Investment Management,Reject
+4357,Male,False,3.48,Business,Black,690.0,6.0,PE/VC,Admit
+1610,Female,False,3.32,Humanities,Asian,600.0,4.0,Technology,Reject
+1322,Female,False,3.36,STEM,Black,640.0,5.0,Consulting,Reject
+5246,Male,True,3.18,Humanities,,600.0,7.0,Nonprofit/Gov,Reject
+5267,Male,True,3.05,Humanities,,620.0,4.0,Financial Services,Reject
+5318,Male,False,3.44,Humanities,Hispanic,730.0,3.0,Consulting,Admit
+878,Male,False,3.56,Business,Asian,780.0,5.0,Media/Entertainment,Admit
+5163,Female,False,3.49,Business,Black,640.0,5.0,Consulting,Reject
+5767,Female,False,3.36,Humanities,Hispanic,670.0,3.0,PE/VC,Reject
+3155,Female,False,3.06,Humanities,Asian,650.0,6.0,Consulting,Reject
+1771,Male,True,3.57,STEM,,770.0,6.0,CPG,Reject
+124,Male,False,3.25,Humanities,Asian,620.0,6.0,Technology,Reject
+660,Male,True,3.21,Humanities,,660.0,5.0,Financial Services,Admit
+5905,Female,True,3.3,Humanities,,640.0,6.0,Nonprofit/Gov,Reject
+6012,Male,False,3.06,STEM,White,600.0,5.0,Financial Services,Reject
+2506,Male,True,3.29,Humanities,,710.0,6.0,PE/VC,Admit
+3364,Male,True,3.36,Business,,770.0,4.0,PE/VC,Admit
+4211,Male,False,3.12,STEM,Black,630.0,6.0,Technology,Reject
+336,Female,False,3.21,Humanities,White,700.0,6.0,PE/VC,Admit
+800,Male,False,3.17,Humanities,Hispanic,570.0,5.0,Financial Services,Reject
+5017,Male,True,3.14,STEM,,730.0,5.0,Technology,Reject
+4603,Female,False,3.25,STEM,Black,650.0,6.0,Investment Management,Reject
+877,Male,False,3.26,Humanities,Asian,710.0,6.0,Consulting,Admit
+2297,Male,False,3.32,Business,Asian,660.0,7.0,Investment Banking,Admit
+4526,Male,True,3.36,Humanities,,730.0,5.0,Media/Entertainment,Reject
+5106,Female,False,3.27,Business,White,600.0,6.0,Consulting,Reject
+1937,Male,False,3.26,Business,Asian,690.0,4.0,Technology,Admit
+5558,Male,False,3.26,Humanities,Hispanic,640.0,4.0,Other,Reject
+272,Male,False,3.43,Humanities,Other,680.0,5.0,Other,Admit
+1820,Male,False,3.35,STEM,White,670.0,5.0,Financial Services,Admit
+554,Male,False,3.27,Business,White,740.0,5.0,Financial Services,Admit
+2654,Male,False,3.27,STEM,White,670.0,5.0,Investment Management,Admit
+1599,Male,True,3.22,Humanities,,580.0,5.0,Investment Management,Reject
+1275,Male,False,3.06,Humanities,White,630.0,4.0,Consulting,Reject
+5726,Male,False,3.29,STEM,Hispanic,690.0,5.0,Real Estate,Admit
+4936,Male,False,3.15,Humanities,White,580.0,5.0,Consulting,Reject
+3802,Male,False,3.07,STEM,White,650.0,7.0,Consulting,Reject
+5809,Male,False,3.51,STEM,Hispanic,740.0,6.0,Financial Services,Admit
+2897,Female,False,3.31,Business,Asian,600.0,4.0,Health Care,Reject
+3139,Male,False,3.24,STEM,Asian,730.0,5.0,Technology,Admit
+470,Female,False,3.22,Humanities,White,670.0,6.0,Technology,Admit
+5826,Female,False,3.49,Humanities,Other,780.0,4.0,PE/VC,Admit
+3594,Female,False,3.35,Humanities,White,700.0,5.0,PE/VC,Admit
+6085,Male,False,3.15,Humanities,White,590.0,8.0,Technology,Reject
+2389,Female,True,3.25,Humanities,,660.0,6.0,PE/VC,Reject
+286,Female,False,3.49,Business,Asian,780.0,6.0,PE/VC,Admit
+2281,Male,True,3.33,STEM,,690.0,5.0,Financial Services,Admit
+5877,Male,False,3.17,Humanities,Hispanic,670.0,4.0,Health Care,Reject
+4,Male,False,3.47,STEM,Black,690.0,6.0,Technology,Admit
+169,Female,True,3.15,STEM,,650.0,5.0,Investment Banking,Admit
+1861,Female,False,3.25,Humanities,White,610.0,5.0,PE/VC,Reject
+1500,Male,False,3.38,Business,White,720.0,5.0,Other,Admit
+14,Female,False,3.39,Business,Black,690.0,4.0,Nonprofit/Gov,Admit
+4887,Male,False,3.53,STEM,Hispanic,700.0,4.0,Health Care,Admit
+3463,Female,False,3.4,Humanities,Asian,690.0,5.0,Nonprofit/Gov,Admit
+564,Female,True,3.36,STEM,,690.0,5.0,Other,Admit
+4141,Female,False,3.26,STEM,Black,700.0,4.0,Consulting,Admit
+610,Female,False,3.69,STEM,Asian,780.0,6.0,Nonprofit/Gov,Admit
+6145,Female,True,3.21,Business,,610.0,6.0,Consulting,Reject
+4512,Female,False,3.39,STEM,Asian,750.0,6.0,Investment Banking,Admit
+1291,Male,False,3.27,STEM,Black,600.0,5.0,Technology,Reject
+6104,Female,False,3.37,Business,Asian,720.0,6.0,Investment Banking,Admit
+3795,Male,False,3.46,Humanities,Black,600.0,4.0,Technology,Reject
+3687,Male,False,3.17,Humanities,Black,610.0,8.0,Investment Banking,Reject
+6162,Female,False,3.13,Humanities,Black,650.0,4.0,Consulting,Reject
+1417,Male,False,3.27,Business,Black,660.0,3.0,Real Estate,Reject
+4174,Female,False,3.05,Humanities,Asian,570.0,4.0,Financial Services,Reject
+6056,Female,True,3.17,Humanities,,640.0,7.0,Technology,Reject
+1373,Female,False,3.13,Business,Black,610.0,5.0,Other,Reject
+4678,Male,True,3.25,Business,,710.0,5.0,Other,Reject
+5151,Male,False,3.43,STEM,Black,780.0,6.0,Financial Services,Admit
+6169,Female,False,3.21,STEM,White,680.0,5.0,Consulting,Admit
+2195,Female,False,3.21,Business,Asian,700.0,6.0,Consulting,Admit
+5399,Male,True,3.07,Humanities,,740.0,7.0,Other,Reject
+5940,Male,False,3.27,Humanities,Asian,670.0,5.0,Financial Services,Admit
+270,Female,True,3.34,Humanities,,670.0,5.0,Nonprofit/Gov,Admit
+5865,Male,False,3.39,Humanities,White,670.0,6.0,Financial Services,Reject
+4559,Female,True,3.7,Business,,740.0,5.0,PE/VC,Admit
+618,Male,False,3.2,Business,Black,670.0,5.0,Consulting,Reject
+581,Male,False,3.32,Business,White,720.0,4.0,Nonprofit/Gov,Admit
+154,Female,True,3.13,Business,,580.0,4.0,Consulting,Admit
+229,Male,True,3.39,Humanities,,650.0,6.0,Other,Reject
+3519,Female,False,3.42,Business,White,650.0,4.0,PE/VC,Reject
+335,Male,True,3.01,Business,,570.0,7.0,Real Estate,Reject
+1834,Male,False,3.57,Humanities,Hispanic,760.0,5.0,Consulting,Admit
+305,Male,False,3.53,STEM,Asian,660.0,5.0,Investment Banking,Admit
+372,Male,False,3.22,STEM,White,570.0,6.0,Other,Reject
+4922,Male,False,3.33,Business,Black,690.0,6.0,Consulting,Admit
+185,Male,True,3.04,Business,,660.0,6.0,Nonprofit/Gov,Reject
+4951,Female,True,3.35,Business,,710.0,5.0,Consulting,Reject
+2004,Female,False,3.29,Humanities,White,640.0,5.0,Consulting,Reject
+3879,Female,False,3.15,Business,White,610.0,5.0,Consulting,Reject
+1734,Male,False,3.21,Humanities,White,610.0,5.0,Other,Reject
+1585,Male,True,3.36,Humanities,,720.0,6.0,PE/VC,Admit
+1056,Male,False,3.36,STEM,Hispanic,570.0,5.0,Investment Management,Reject
+3396,Male,False,3.14,Humanities,White,570.0,7.0,PE/VC,Reject
+965,Female,False,3.16,Humanities,Asian,670.0,3.0,Financial Services,Reject
+959,Male,True,3.1,Business,,660.0,5.0,PE/VC,Reject
+4208,Male,False,3.32,Business,Asian,610.0,3.0,Nonprofit/Gov,Reject
+3458,Male,True,3.23,Business,,680.0,5.0,Consulting,Admit
+313,Male,False,3.3,Business,White,650.0,4.0,PE/VC,Reject
+3963,Female,False,3.66,Business,White,710.0,5.0,Consulting,Admit
+3974,Male,True,3.4,Humanities,,770.0,5.0,Technology,Admit
+3280,Male,True,3.27,STEM,,780.0,4.0,Consulting,Admit
+5285,Male,False,3.29,Humanities,Asian,670.0,7.0,Financial Services,Admit
+5697,Male,False,2.85,Business,Black,570.0,5.0,Technology,Reject
+1027,Female,False,3.42,Business,Hispanic,700.0,5.0,Nonprofit/Gov,Admit
+4937,Male,True,3.13,STEM,,640.0,7.0,Financial Services,Reject
+46,Male,False,3.32,STEM,Asian,730.0,4.0,Health Care,Admit
+1509,Male,False,3.68,Business,Asian,760.0,5.0,Health Care,Admit
+1785,Male,False,3.27,Humanities,Asian,710.0,5.0,Nonprofit/Gov,Admit
+2658,Male,False,3.29,Business,Asian,690.0,5.0,Health Care,Admit
+119,Male,False,3.33,Humanities,White,680.0,4.0,Financial Services,Admit
+2248,Male,False,3.33,STEM,Asian,680.0,5.0,Consulting,Admit
+810,Male,False,3.3,Humanities,White,680.0,5.0,PE/VC,Admit
+3462,Female,False,3.03,Humanities,Other,610.0,5.0,Investment Banking,Reject
+5016,Female,True,3.3,Humanities,,670.0,5.0,Technology,Admit
+1551,Female,True,3.3,STEM,,670.0,5.0,Consulting,Reject
+2200,Male,False,3.29,Humanities,Black,690.0,5.0,Consulting,Admit
+5096,Female,True,3.45,Humanities,,670.0,4.0,Nonprofit/Gov,Reject
+5029,Female,False,3.33,STEM,Asian,700.0,6.0,Investment Banking,Admit
+4080,Male,False,3.31,Humanities,Asian,700.0,6.0,Consulting,Admit
+929,Male,False,3.74,Humanities,Hispanic,700.0,5.0,PE/VC,Admit
+96,Male,False,3.32,Business,Black,670.0,4.0,Consulting,Admit
+246,Female,False,3.02,STEM,Asian,570.0,5.0,Other,Admit
+4202,Male,True,3.24,Business,,670.0,4.0,Consulting,Admit
+6031,Male,True,3.18,STEM,,590.0,5.0,PE/VC,Reject
+1598,Male,True,3.13,Business,,660.0,3.0,Consulting,Reject
+4467,Male,False,3.37,Humanities,Black,680.0,6.0,Investment Management,Admit
+3041,Male,False,3.16,STEM,Asian,640.0,4.0,PE/VC,Reject
+587,Female,False,3.02,STEM,Black,660.0,4.0,Consulting,Reject
+1659,Male,False,3.14,Humanities,White,650.0,3.0,Consulting,Reject
+66,Male,True,3.31,Business,,670.0,4.0,Nonprofit/Gov,Reject
+4291,Female,True,3.46,Humanities,,680.0,6.0,Investment Banking,Admit
+1364,Male,False,2.87,Humanities,Asian,600.0,7.0,Nonprofit/Gov,Reject
+1770,Male,True,3.28,Business,,690.0,6.0,Financial Services,Admit
+3490,Female,False,3.24,STEM,Hispanic,600.0,5.0,Consulting,Reject
+5706,Male,False,3.5,STEM,Black,760.0,5.0,Investment Banking,Admit
+1203,Male,False,3.13,STEM,White,620.0,5.0,Consulting,Reject
+2119,Female,True,3.41,Business,,730.0,5.0,PE/VC,Admit
+5932,Male,False,3.26,Humanities,Asian,670.0,3.0,CPG,Admit
+2477,Female,True,3.27,Business,,710.0,7.0,Consulting,Reject
+131,Male,False,3.34,Humanities,White,700.0,4.0,Consulting,Admit
+4313,Female,False,3.19,Business,White,660.0,4.0,PE/VC,Reject
+2386,Female,False,3.48,Humanities,Black,690.0,7.0,Consulting,Admit
+210,Female,False,3.23,Business,White,670.0,5.0,Nonprofit/Gov,Admit
+2362,Female,False,3.38,Humanities,Black,730.0,5.0,Investment Banking,Admit
+3442,Male,True,3.17,Business,,580.0,7.0,Technology,Reject
+719,Male,False,3.26,STEM,Asian,690.0,4.0,Technology,Admit
+5914,Male,False,3.16,Business,White,610.0,5.0,Nonprofit/Gov,Reject
+1013,Male,False,3.39,Business,Hispanic,690.0,4.0,Health Care,Admit
+3360,Male,False,3.32,Humanities,Asian,740.0,4.0,Consulting,Admit
+3347,Male,False,3.26,STEM,White,660.0,5.0,Investment Management,Reject
+1775,Male,False,3.11,Humanities,White,640.0,5.0,PE/VC,Reject
+6078,Male,False,3.33,STEM,Black,680.0,3.0,Consulting,Reject
+2772,Male,True,3.31,Business,,750.0,6.0,Consulting,Admit
+634,Male,False,3.45,STEM,Asian,650.0,4.0,Energy,Reject
+3508,Female,False,3.32,Humanities,Black,670.0,5.0,Nonprofit/Gov,Reject
+80,Female,False,3.1,STEM,Asian,680.0,4.0,Health Care,Admit
+4116,Male,False,3.42,Humanities,White,670.0,6.0,Investment Management,Reject
+497,Male,False,3.28,STEM,White,680.0,4.0,PE/VC,Admit
+5850,Male,True,3.37,Business,,730.0,6.0,Technology,Admit
+3563,Female,True,3.35,Humanities,,650.0,5.0,CPG,Reject
+158,Female,False,3.18,STEM,Asian,650.0,6.0,Nonprofit/Gov,Admit
+2222,Male,False,3.26,STEM,Asian,630.0,7.0,Other,Reject
+1099,Male,False,3.22,Business,Hispanic,620.0,4.0,Nonprofit/Gov,Reject
+4170,Male,True,3.12,Business,,630.0,5.0,PE/VC,Reject
+332,Male,True,3.33,Business,,670.0,5.0,Consulting,Admit
+2950,Male,False,3.21,Business,Black,740.0,6.0,Financial Services,Admit
+2989,Male,False,3.31,Humanities,Black,670.0,5.0,Other,Reject
+1719,Female,False,3.18,STEM,Hispanic,590.0,6.0,Other,Reject
+2768,Male,False,3.58,Humanities,Black,690.0,6.0,Other,Admit
+1859,Male,True,3.27,STEM,,670.0,6.0,PE/VC,Admit
+3937,Male,False,3.45,Business,Asian,690.0,5.0,Retail,Admit
+3589,Male,True,3.38,Humanities,,680.0,6.0,Investment Banking,Reject
+390,Male,False,3.47,Business,White,690.0,6.0,Other,Admit
+635,Male,False,3.51,Humanities,White,750.0,6.0,Technology,Admit
+5275,Female,False,3.35,Humanities,Hispanic,670.0,3.0,Nonprofit/Gov,Admit
+3437,Male,False,3.13,STEM,Asian,650.0,5.0,Nonprofit/Gov,Reject
+1384,Male,False,3.4,Business,Asian,680.0,4.0,Nonprofit/Gov,Admit
+5397,Female,False,3.38,Humanities,Asian,700.0,4.0,Financial Services,Admit
+1872,Male,False,3.08,Business,White,660.0,6.0,Financial Services,Reject
+5271,Female,False,3.57,Humanities,Black,710.0,4.0,Technology,Admit
+5713,Male,False,3.61,Business,Other,670.0,6.0,Investment Banking,Reject
+5004,Female,False,3.3,Humanities,Black,620.0,6.0,Investment Banking,Reject
+1345,Female,False,3.44,Humanities,Asian,730.0,5.0,Consulting,Admit
+3936,Female,False,3.1,Business,Hispanic,670.0,5.0,Technology,Reject
+2010,Male,False,3.28,Humanities,Asian,690.0,5.0,Financial Services,Admit
+2688,Female,True,3.31,STEM,,670.0,4.0,Consulting,Reject
+5961,Female,False,3.15,Humanities,Asian,660.0,5.0,Consulting,Reject
+3241,Male,False,3.42,Humanities,White,670.0,6.0,Media/Entertainment,Reject
+2774,Male,False,3.71,Business,Asian,780.0,4.0,Health Care,Admit
+1125,Male,False,3.29,STEM,White,710.0,5.0,Financial Services,Admit
+585,Male,True,3.35,STEM,,690.0,5.0,Other,Admit
+5511,Female,False,3.28,Business,Asian,670.0,4.0,Financial Services,Reject
+180,Male,True,3.17,Humanities,,670.0,4.0,Technology,Reject
+675,Male,False,3.43,Business,Black,740.0,4.0,Financial Services,Admit
+2803,Male,False,3.26,Humanities,White,670.0,4.0,Nonprofit/Gov,Admit
+6129,Female,True,3.24,Humanities,,600.0,4.0,Consulting,Reject
+1356,Male,True,3.4,STEM,,690.0,5.0,Investment Banking,Admit
+2393,Male,False,3.32,STEM,Hispanic,690.0,6.0,Nonprofit/Gov,Admit
+637,Male,False,3.4,STEM,Hispanic,700.0,5.0,Nonprofit/Gov,Admit
+211,Male,True,3.11,Business,,640.0,4.0,Nonprofit/Gov,Reject
+6045,Male,False,3.26,Business,Hispanic,660.0,5.0,Investment Banking,Reject
+3147,Male,False,3.18,Business,Black,700.0,4.0,Consulting,Reject
+291,Male,False,2.98,Business,Asian,630.0,7.0,Nonprofit/Gov,Reject
+4811,Male,False,3.16,Business,White,640.0,4.0,Technology,Reject
+2613,Male,True,3.32,Humanities,,680.0,4.0,Consulting,Reject
+2429,Female,True,3.37,STEM,,610.0,6.0,Technology,Reject
+1388,Female,False,3.41,STEM,Asian,750.0,5.0,Financial Services,Admit
+5839,Male,False,3.24,Business,Black,710.0,6.0,Nonprofit/Gov,Admit
+2622,Female,False,3.53,Humanities,Asian,740.0,5.0,Consulting,Admit
+1113,Male,False,3.05,Humanities,Asian,620.0,4.0,PE/VC,Reject
+1804,Female,False,3.12,Business,Other,620.0,5.0,PE/VC,Reject
+2187,Female,True,3.22,Humanities,,600.0,5.0,Consulting,Reject
+6069,Male,True,3.24,Humanities,,610.0,4.0,Consulting,Reject
+4557,Female,False,3.48,STEM,Black,760.0,5.0,Consulting,Admit
+189,Male,False,3.23,STEM,White,710.0,6.0,PE/VC,Admit
+5051,Female,False,3.28,Business,Hispanic,650.0,6.0,Consulting,Reject
+5813,Male,False,3.35,Business,White,680.0,6.0,Nonprofit/Gov,Admit
+743,Male,False,3.18,Business,White,730.0,4.0,Consulting,Reject
+3889,Male,False,3.31,Humanities,Other,650.0,6.0,Investment Banking,Reject
+5181,Female,True,3.5,STEM,,740.0,4.0,Nonprofit/Gov,Reject
+1517,Female,False,3.37,STEM,White,680.0,6.0,Health Care,Admit
+1727,Male,False,3.29,Humanities,Other,710.0,4.0,Consulting,Admit
+1170,Female,False,3.47,STEM,White,740.0,3.0,Technology,Admit
+1102,Male,False,3.25,Humanities,White,730.0,5.0,Consulting,Admit
+4319,Female,False,3.04,Humanities,White,590.0,5.0,Consulting,Reject
+1416,Male,False,3.4,Humanities,Other,640.0,4.0,Investment Banking,Reject
+1121,Female,False,3.2,Business,White,610.0,5.0,Nonprofit/Gov,Reject
+5201,Female,False,3.19,Humanities,Hispanic,590.0,5.0,Investment Banking,Reject
+2490,Female,False,3.22,Humanities,White,680.0,6.0,Consulting,Admit
+4870,Male,False,3.36,Humanities,Asian,710.0,6.0,Financial Services,Admit
+139,Female,False,3.31,STEM,Asian,600.0,5.0,Investment Banking,Admit
+3162,Male,False,3.33,Humanities,White,710.0,6.0,Real Estate,Admit
+339,Male,True,3.2,Business,,650.0,5.0,Consulting,Reject
+3072,Male,True,3.26,STEM,,650.0,4.0,Technology,Reject
+4949,Female,False,3.39,Humanities,Black,710.0,4.0,Consulting,Admit
+549,Male,False,3.22,STEM,Black,700.0,4.0,Real Estate,Admit
+4118,Male,False,3.2,STEM,Other,670.0,5.0,Technology,Reject
+1062,Male,False,3.33,Humanities,White,690.0,4.0,Other,Admit
+1963,Female,True,3.16,Humanities,,610.0,6.0,Technology,Reject
+5820,Male,False,3.21,STEM,Hispanic,610.0,3.0,Consulting,Reject
+1667,Male,False,3.09,Humanities,White,610.0,5.0,Consulting,Reject
+2241,Male,False,3.21,Business,White,650.0,6.0,Other,Reject
+1766,Male,False,3.25,Humanities,White,640.0,4.0,Consulting,Reject
+18,Male,False,3.23,Humanities,Black,700.0,4.0,Health Care,Admit
+6088,Male,True,3.34,Humanities,,680.0,5.0,Technology,Reject
+6082,Male,False,3.16,STEM,White,620.0,3.0,Consulting,Reject
+2591,Male,False,3.56,STEM,Black,670.0,6.0,Technology,Admit
+650,Male,False,3.39,Humanities,Asian,690.0,6.0,Investment Banking,Admit
+3069,Female,False,3.48,Business,White,580.0,5.0,Investment Management,Reject
+1127,Male,False,3.26,Humanities,Asian,670.0,5.0,Other,Admit
+3402,Female,False,2.87,Humanities,White,570.0,5.0,PE/VC,Reject
+3495,Male,False,3.51,Humanities,White,700.0,6.0,Consulting,Admit
+1758,Male,True,3.21,Business,,640.0,5.0,Investment Management,Reject
+2910,Male,True,3.32,Business,,660.0,5.0,Nonprofit/Gov,Reject
+4792,Male,False,3.28,Business,Black,690.0,5.0,Consulting,Admit
+1823,Male,True,3.35,Humanities,,610.0,5.0,Health Care,Reject
+2701,Male,False,3.28,STEM,White,700.0,4.0,Other,Admit
+74,Female,True,2.89,Humanities,,670.0,5.0,Consulting,Admit
+3224,Male,False,3.33,Business,Black,690.0,4.0,PE/VC,Admit
+1850,Female,False,3.38,STEM,White,730.0,6.0,Technology,Admit
+1391,Male,True,3.08,Humanities,,580.0,6.0,Consulting,Reject
+5454,Female,False,3.26,Business,White,720.0,6.0,Financial Services,Admit
+4474,Male,True,3.5,Humanities,,740.0,5.0,Investment Management,Admit
+3975,Female,True,3.32,STEM,,660.0,4.0,Consulting,Admit
+1059,Female,False,3.52,STEM,Black,720.0,4.0,Health Care,Admit
+2368,Female,False,3.43,Business,Asian,720.0,6.0,Consulting,Admit
+999,Male,False,3.55,STEM,Hispanic,780.0,5.0,Investment Banking,Admit
+3682,Male,False,3.28,Business,Black,700.0,5.0,Technology,Admit
+5370,Female,True,3.54,Humanities,,780.0,5.0,Investment Banking,Admit
+3993,Male,False,3.6,STEM,Black,780.0,6.0,Consulting,Admit
+1505,Male,False,3.52,Humanities,Other,710.0,6.0,PE/VC,Admit
+5567,Male,False,3.38,Business,Asian,680.0,6.0,Consulting,Admit
+860,Male,True,3.26,Humanities,,660.0,5.0,Consulting,Reject
+59,Male,True,3.01,Humanities,,660.0,6.0,Consulting,Reject
+4928,Male,False,3.41,Humanities,Asian,670.0,6.0,Financial Services,Admit
+1271,Female,False,3.14,Business,White,610.0,5.0,CPG,Reject
+3270,Male,False,3.3,Humanities,White,650.0,4.0,Other,Reject
+1986,Male,False,3.25,Humanities,Asian,580.0,7.0,Consulting,Reject
+4903,Female,False,3.36,Humanities,Asian,710.0,6.0,Nonprofit/Gov,Admit
+1461,Male,False,3.17,STEM,Black,570.0,6.0,Financial Services,Reject
+4914,Female,False,3.41,Humanities,Asian,680.0,6.0,Nonprofit/Gov,Admit
+4371,Male,False,3.48,Humanities,White,630.0,5.0,Nonprofit/Gov,Reject
+183,Male,False,3.34,Humanities,White,700.0,5.0,Consulting,Admit
+4566,Male,False,3.27,STEM,Hispanic,680.0,6.0,Nonprofit/Gov,Admit
+3029,Female,False,3.43,STEM,Asian,680.0,5.0,Investment Management,Admit
+5684,Female,False,3.39,STEM,Asian,670.0,6.0,Real Estate,Reject
+2593,Male,False,3.2,Humanities,White,590.0,7.0,Consulting,Reject
+3894,Female,True,3.17,Business,,580.0,4.0,Real Estate,Reject
+2469,Female,True,3.33,STEM,,680.0,4.0,Technology,Reject
+319,Female,False,3.32,Humanities,White,630.0,5.0,Consulting,Admit
+4452,Male,False,3.25,Humanities,White,670.0,6.0,Nonprofit/Gov,Admit
+3553,Male,False,3.26,Humanities,White,680.0,5.0,Consulting,Admit
+3539,Male,False,3.54,STEM,Hispanic,740.0,5.0,Health Care,Admit
+3050,Male,False,3.25,Business,Asian,670.0,4.0,Technology,Admit
+6118,Male,False,3.45,STEM,Other,750.0,6.0,Health Care,Admit
+4757,Male,False,3.41,STEM,Black,740.0,4.0,PE/VC,Admit
+1687,Female,False,3.43,STEM,Black,660.0,6.0,Financial Services,Admit
+5734,Female,True,3.51,Humanities,,720.0,6.0,Consulting,Reject
+1994,Male,True,3.2,Humanities,,640.0,4.0,PE/VC,Reject
+6017,Female,False,3.41,Humanities,White,670.0,3.0,Consulting,Reject
+2864,Female,False,3.18,STEM,Black,650.0,5.0,Other,Reject
+5013,Female,False,3.22,Humanities,White,600.0,4.0,Consulting,Reject
+5508,Male,False,3.48,STEM,Asian,680.0,5.0,Consulting,Admit
+3341,Male,True,3.34,Business,,750.0,6.0,Financial Services,Admit
+3067,Female,False,3.29,Humanities,Other,680.0,6.0,Investment Banking,Admit
+2352,Female,True,2.92,Business,,620.0,3.0,Investment Banking,Reject
+424,Male,False,3.22,Business,White,650.0,4.0,Investment Banking,Reject
+453,Male,True,3.11,Business,,570.0,4.0,Technology,Reject
+2792,Male,False,3.25,Business,Black,660.0,3.0,Consulting,Reject
+1856,Male,False,3.39,STEM,Hispanic,670.0,6.0,Other,Reject
+2296,Female,False,3.34,STEM,Black,680.0,6.0,PE/VC,Admit
+408,Female,False,3.06,Business,White,610.0,6.0,Nonprofit/Gov,Admit
+70,Male,False,3.41,Humanities,White,690.0,6.0,Technology,Admit
+5476,Male,False,3.22,Humanities,White,660.0,6.0,Technology,Reject
+2609,Female,False,3.28,Business,Asian,720.0,6.0,Consulting,Admit
+208,Female,True,3.26,Business,,630.0,6.0,Consulting,Admit
+4427,Male,True,3.39,Business,,650.0,4.0,Nonprofit/Gov,Reject
+4729,Female,False,3.48,STEM,Hispanic,700.0,4.0,Technology,Admit
+2078,Male,True,3.13,Humanities,,640.0,4.0,Consulting,Reject
+5030,Male,False,3.14,Business,Asian,570.0,5.0,PE/VC,Reject
+490,Male,False,3.11,STEM,White,640.0,5.0,Nonprofit/Gov,Reject
+4498,Male,False,3.31,STEM,Other,680.0,5.0,Other,Admit
+5240,Male,False,3.31,STEM,Hispanic,660.0,5.0,PE/VC,Admit
+535,Female,False,3.35,Humanities,White,720.0,5.0,Investment Banking,Admit
+1710,Male,False,3.31,Business,Black,750.0,5.0,Investment Banking,Admit
+4086,Male,False,3.35,Business,Asian,670.0,3.0,Other,Reject
+1654,Male,False,3.23,Humanities,Other,700.0,5.0,Nonprofit/Gov,Admit
+2505,Female,False,3.2,STEM,White,660.0,7.0,Technology,Reject
+4106,Female,False,3.16,Business,Other,570.0,5.0,Financial Services,Reject
+5532,Male,False,3.24,Business,Asian,700.0,6.0,Technology,Admit
+6066,Male,False,3.4,Humanities,Black,760.0,5.0,Technology,Admit
+1567,Male,True,3.2,STEM,,590.0,4.0,Nonprofit/Gov,Reject
+572,Male,False,3.23,Business,White,630.0,4.0,Consulting,Reject
+5472,Male,False,3.08,Business,White,600.0,7.0,PE/VC,Reject
+6166,Female,False,3.27,Humanities,Asian,720.0,5.0,Nonprofit/Gov,Admit
+4770,Female,False,3.27,STEM,Asian,700.0,5.0,Consulting,Admit
+5654,Male,False,3.43,STEM,Asian,720.0,5.0,Investment Management,Admit
+1195,Male,True,3.4,Business,,650.0,4.0,Nonprofit/Gov,Reject
+4893,Male,True,3.15,Humanities,,600.0,3.0,Investment Banking,Reject
+6049,Male,False,3.45,Humanities,Black,660.0,5.0,Consulting,Reject
+4697,Male,False,3.22,Humanities,Hispanic,760.0,6.0,Technology,Admit
+6174,Female,False,3.58,Humanities,Black,690.0,4.0,Consulting,Admit
+3620,Male,True,3.5,Business,,660.0,3.0,Health Care,Admit
+2732,Male,False,3.21,STEM,Asian,680.0,6.0,Consulting,Admit
+584,Male,False,3.35,Business,White,660.0,3.0,Consulting,Admit
+2686,Female,True,3.39,STEM,,710.0,5.0,Investment Banking,Admit
+2553,Male,False,3.04,Humanities,Black,570.0,4.0,Consulting,Reject
+4504,Male,True,3.39,Humanities,,750.0,4.0,Health Care,Admit
+2667,Male,False,3.15,Humanities,Asian,590.0,6.0,Consulting,Reject
+1255,Male,True,3.22,Business,,620.0,5.0,Consulting,Reject
+4743,Male,False,3.39,STEM,Asian,700.0,5.0,Other,Admit
+4145,Male,False,3.21,STEM,Asian,670.0,5.0,Technology,Admit
+2328,Male,False,3.45,Humanities,Black,620.0,5.0,PE/VC,Reject
+4137,Female,False,3.31,STEM,Hispanic,680.0,6.0,Financial Services,Admit
+4551,Male,False,3.38,Business,Hispanic,680.0,5.0,Consulting,Admit
+5938,Male,False,3.36,Humanities,Asian,680.0,5.0,PE/VC,Admit
+5377,Male,False,3.32,Humanities,White,630.0,4.0,Other,Reject
+3296,Male,False,3.56,Humanities,Hispanic,740.0,5.0,Consulting,Admit
+345,Female,False,2.96,Humanities,White,580.0,7.0,Financial Services,Admit
+2858,Male,False,3.25,STEM,Black,650.0,4.0,PE/VC,Reject
+3153,Male,False,3.45,Humanities,Hispanic,730.0,5.0,Other,Admit
+2624,Male,False,3.5,STEM,Black,730.0,6.0,Consulting,Admit
+1355,Male,True,3.27,Humanities,,610.0,6.0,Financial Services,Reject
+5732,Male,False,3.06,Humanities,Asian,660.0,5.0,Investment Banking,Reject
+669,Male,False,3.41,Business,Black,710.0,6.0,Health Care,Admit
+170,Female,False,3.23,Business,Black,680.0,6.0,Health Care,Admit
+3217,Female,True,3.15,Business,,630.0,3.0,CPG,Reject
+1147,Female,False,3.39,STEM,Asian,700.0,4.0,Investment Banking,Admit
+4933,Male,False,3.2,STEM,Hispanic,630.0,4.0,Financial Services,Reject
+5406,Female,False,3.04,STEM,Asian,570.0,5.0,Technology,Reject
+1503,Female,True,3.16,Business,,620.0,3.0,Nonprofit/Gov,Reject
+1149,Male,True,3.4,STEM,,750.0,4.0,Nonprofit/Gov,Admit
+5427,Male,False,3.65,Business,White,780.0,5.0,PE/VC,Admit
+5950,Male,False,3.15,STEM,Other,650.0,6.0,PE/VC,Reject
+569,Male,False,3.41,Business,White,660.0,4.0,Other,Reject
+2076,Male,False,3.27,STEM,Asian,680.0,6.0,Consulting,Admit
+4047,Female,True,3.36,Business,,600.0,6.0,Investment Banking,Reject
+5129,Male,False,3.3,Humanities,White,720.0,5.0,PE/VC,Admit
+3900,Female,False,3.12,Humanities,Asian,660.0,6.0,PE/VC,Reject
+3239,Female,True,3.59,Business,,770.0,6.0,Consulting,Admit
+1093,Male,False,2.93,Humanities,Asian,570.0,6.0,Consulting,Reject
+3905,Female,False,3.14,Humanities,White,590.0,6.0,Real Estate,Reject
+3517,Male,False,3.0,Business,Black,650.0,6.0,Technology,Reject
+65,Female,False,3.39,Humanities,White,680.0,5.0,Investment Banking,Admit
+5898,Male,True,3.11,Humanities,,590.0,6.0,PE/VC,Reject
+2664,Male,False,3.26,Business,Black,660.0,5.0,PE/VC,Reject
+2030,Male,True,3.32,STEM,,700.0,4.0,Technology,Reject
+3747,Female,True,3.22,Business,,700.0,4.0,Investment Management,Admit
+1229,Female,False,3.22,Business,White,590.0,5.0,Consulting,Reject
+4365,Male,False,3.34,Humanities,White,710.0,6.0,Financial Services,Admit
+2796,Male,False,3.17,Humanities,White,610.0,5.0,Health Care,Reject
+1277,Male,True,3.28,Business,,640.0,5.0,PE/VC,Reject
+2964,Female,False,3.28,Humanities,Black,650.0,6.0,PE/VC,Reject
+2410,Female,True,3.45,Humanities,,690.0,5.0,PE/VC,Admit
+2674,Female,False,3.26,STEM,Asian,700.0,4.0,Technology,Admit
+1199,Male,False,3.35,Humanities,Black,670.0,5.0,Energy,Admit
+6051,Male,False,3.42,Humanities,White,670.0,5.0,Investment Banking,Admit
+4150,Male,False,3.38,Business,Black,640.0,6.0,Consulting,Reject
+3054,Male,False,3.35,Humanities,White,690.0,4.0,Investment Management,Admit
+2173,Male,True,3.32,Business,,660.0,5.0,Nonprofit/Gov,Admit
+276,Female,False,3.05,Humanities,Asian,630.0,5.0,Consulting,Admit
+1241,Female,False,3.23,Humanities,Hispanic,710.0,5.0,Nonprofit/Gov,Admit
+4334,Female,True,3.14,Humanities,,610.0,4.0,Financial Services,Reject
+3240,Male,False,3.39,Humanities,White,660.0,4.0,Consulting,Reject
+207,Male,False,3.45,Humanities,Other,700.0,6.0,Consulting,Admit
+2919,Female,True,3.24,STEM,,610.0,4.0,Nonprofit/Gov,Reject
+2742,Male,False,3.38,Business,White,700.0,5.0,Consulting,Admit
+2489,Female,False,3.12,STEM,White,670.0,7.0,Consulting,Reject
+5503,Male,True,3.29,Humanities,,650.0,7.0,PE/VC,Reject
+22,Female,False,3.64,Humanities,Black,710.0,6.0,Financial Services,Admit
+4878,Male,False,2.93,STEM,White,570.0,5.0,Technology,Reject
+747,Female,True,3.29,Humanities,,710.0,4.0,Investment Banking,Admit
+4148,Female,True,3.49,Humanities,,780.0,5.0,Consulting,Admit
+4658,Male,False,3.39,Business,White,710.0,5.0,Nonprofit/Gov,Admit
+5755,Female,False,3.34,Humanities,White,700.0,6.0,Consulting,Admit
+744,Male,False,3.35,STEM,White,650.0,5.0,Consulting,Reject
+4575,Female,False,2.99,Business,White,570.0,4.0,Consulting,Reject
+4012,Male,False,2.99,Humanities,Hispanic,620.0,6.0,CPG,Reject
+1794,Male,False,3.37,Humanities,White,640.0,6.0,PE/VC,Reject
+3448,Female,False,3.05,Humanities,Black,570.0,6.0,Nonprofit/Gov,Reject
+2944,Female,False,3.11,Humanities,Asian,720.0,7.0,CPG,Reject
+4192,Male,False,3.09,Humanities,Other,630.0,6.0,Other,Reject
+3159,Female,False,3.34,Humanities,Black,710.0,6.0,Retail,Admit
+1420,Male,False,3.23,STEM,Asian,610.0,6.0,Consulting,Reject
+3342,Female,True,3.54,STEM,,770.0,5.0,Consulting,Admit
+1646,Male,False,3.47,Humanities,Black,740.0,6.0,Consulting,Admit
+4416,Male,False,3.3,STEM,Black,630.0,6.0,CPG,Reject
+4853,Male,False,3.0,STEM,Asian,590.0,5.0,Consulting,Reject
+928,Female,False,3.42,STEM,Hispanic,780.0,6.0,Consulting,Admit
+1722,Male,False,3.32,Humanities,Black,700.0,5.0,Financial Services,Admit
+5349,Male,False,3.22,Business,White,700.0,6.0,Technology,Admit
+3904,Female,False,3.28,Humanities,Black,750.0,5.0,Other,Admit
+2131,Female,False,3.15,Humanities,White,570.0,4.0,PE/VC,Reject
+2088,Female,False,3.32,STEM,Asian,650.0,6.0,Consulting,Reject
+1884,Female,True,3.27,STEM,,610.0,4.0,PE/VC,Reject
+2058,Female,False,3.08,STEM,Hispanic,620.0,5.0,Nonprofit/Gov,Reject
+1911,Male,True,3.34,Business,,720.0,4.0,Consulting,Reject
+2263,Male,False,3.13,STEM,Asian,610.0,4.0,Other,Reject
+995,Female,False,3.46,Business,White,710.0,5.0,PE/VC,Admit
+3476,Male,True,3.16,Humanities,,680.0,5.0,Consulting,Reject
+5184,Female,False,3.41,STEM,Black,680.0,5.0,Consulting,Admit
+4750,Male,False,3.26,Humanities,Black,640.0,5.0,Consulting,Reject
+1895,Male,True,3.33,Business,,680.0,4.0,Financial Services,Admit
+3893,Female,False,3.36,STEM,Asian,670.0,6.0,PE/VC,Reject
+4747,Male,False,3.23,Humanities,Asian,660.0,6.0,Investment Management,Reject
+902,Male,True,3.21,STEM,,620.0,4.0,PE/VC,Reject
+2947,Male,True,3.19,STEM,,710.0,5.0,Nonprofit/Gov,Reject
+4799,Male,False,3.33,STEM,Black,710.0,6.0,Other,Admit
+2138,Male,False,3.2,Humanities,White,670.0,4.0,PE/VC,Reject
+3646,Male,False,3.36,STEM,Black,740.0,5.0,Financial Services,Admit
+4245,Female,False,3.1,Business,Black,590.0,5.0,Consulting,Reject
+6057,Female,True,3.25,Business,,650.0,7.0,Consulting,Reject
+3881,Male,False,3.54,Business,White,780.0,5.0,Energy,Admit
+4259,Female,False,3.35,STEM,Black,710.0,5.0,Health Care,Admit
+3114,Female,False,3.06,Business,Black,580.0,5.0,CPG,Reject
+3814,Male,False,3.24,Business,Asian,710.0,5.0,PE/VC,Admit
+1114,Male,True,3.42,Business,,680.0,7.0,Real Estate,Reject
+366,Female,False,3.27,Business,White,660.0,4.0,Consulting,Admit
+1894,Female,True,3.16,STEM,,670.0,4.0,Health Care,Reject
+2018,Male,False,3.44,Business,Black,690.0,6.0,Technology,Admit
+5842,Male,False,3.46,Humanities,Black,690.0,5.0,Investment Banking,Admit
+2576,Male,False,3.21,Business,Asian,750.0,6.0,Nonprofit/Gov,Admit
+4749,Male,False,3.51,Business,Black,780.0,4.0,Consulting,Admit
+3343,Male,False,3.42,Humanities,Hispanic,740.0,4.0,Financial Services,Admit
+1601,Female,False,3.33,STEM,Hispanic,700.0,4.0,Nonprofit/Gov,Admit
+1938,Female,False,3.5,STEM,Black,700.0,5.0,Consulting,Admit
+4455,Male,True,3.46,Business,,770.0,6.0,Energy,Admit
+4359,Male,False,3.34,Humanities,Hispanic,710.0,5.0,Consulting,Admit
+1714,Male,False,3.32,STEM,Black,740.0,5.0,PE/VC,Admit
+2229,Male,False,3.61,Business,White,680.0,4.0,PE/VC,Admit
+2941,Male,False,3.37,STEM,White,610.0,6.0,Investment Banking,Reject
+1662,Male,False,3.15,Humanities,White,570.0,4.0,Health Care,Reject
+3892,Male,False,3.27,Business,Black,710.0,6.0,Financial Services,Admit
+5035,Female,True,3.06,Humanities,,600.0,4.0,Other,Reject
+4485,Male,False,3.3,Humanities,Other,730.0,4.0,Other,Admit
+1751,Male,False,3.41,STEM,Other,650.0,6.0,PE/VC,Reject
+284,Female,False,2.97,Humanities,Asian,590.0,4.0,Nonprofit/Gov,Admit
+2702,Male,False,3.23,STEM,Asian,710.0,4.0,PE/VC,Admit
+2031,Female,False,3.02,Business,Asian,620.0,5.0,Consulting,Reject
+4079,Male,False,3.23,Humanities,Black,600.0,6.0,Consulting,Reject
+4216,Female,False,3.51,STEM,Hispanic,690.0,3.0,Nonprofit/Gov,Admit
+759,Male,False,3.31,Business,White,630.0,3.0,Consulting,Reject
+3070,Female,False,3.66,Business,White,760.0,5.0,Consulting,Admit
+289,Male,False,3.42,STEM,Asian,750.0,3.0,Media/Entertainment,Admit
+2313,Female,False,3.26,Humanities,White,690.0,6.0,PE/VC,Admit
+1800,Male,False,3.44,Humanities,White,700.0,7.0,PE/VC,Reject
+145,Male,False,2.95,Business,Asian,590.0,5.0,Investment Management,Reject
+4601,Female,False,3.11,Business,Black,630.0,4.0,CPG,Reject
+2238,Female,False,3.64,Humanities,Other,780.0,5.0,Consulting,Admit
+1042,Male,False,3.3,STEM,Asian,690.0,5.0,Investment Banking,Admit
+676,Male,False,3.22,STEM,Hispanic,690.0,3.0,Investment Management,Admit
+95,Female,False,3.05,Humanities,White,600.0,5.0,Other,Admit
+3799,Male,False,3.24,Humanities,Black,680.0,5.0,PE/VC,Admit
+3254,Female,False,3.33,STEM,Hispanic,680.0,5.0,Investment Banking,Admit
+2819,Male,False,3.5,STEM,White,680.0,5.0,Financial Services,Admit
+4775,Male,False,3.46,Humanities,White,720.0,5.0,PE/VC,Admit
+4384,Male,False,3.37,STEM,Asian,710.0,5.0,Nonprofit/Gov,Admit
+7,Female,False,2.93,STEM,Other,590.0,3.0,Technology,Admit
+4902,Female,True,2.65,Humanities,,570.0,6.0,Investment Banking,Reject
+3994,Male,False,3.15,Humanities,Black,620.0,7.0,Technology,Reject
+608,Male,False,3.4,Humanities,Hispanic,660.0,5.0,Technology,Reject
+6159,Male,False,3.26,Business,Black,650.0,4.0,Technology,Reject
+4194,Female,True,3.41,Humanities,,670.0,6.0,Real Estate,Admit
+3091,Male,False,3.35,Business,White,720.0,6.0,Investment Banking,Admit
+2434,Male,False,3.4,Business,White,780.0,4.0,Health Care,Admit
+4779,Male,False,3.08,STEM,Other,570.0,6.0,Consulting,Reject
+4964,Female,True,3.1,Humanities,,690.0,6.0,Investment Banking,Reject
+5673,Female,False,3.32,Business,Asian,650.0,5.0,Investment Management,Reject
+1675,Male,True,3.29,STEM,,640.0,5.0,Technology,Reject
+3765,Male,True,3.13,Business,,610.0,6.0,Investment Banking,Reject
+4478,Male,False,3.44,Business,Black,710.0,5.0,PE/VC,Admit
+1997,Male,False,3.59,STEM,White,700.0,6.0,Other,Admit
+104,Female,True,3.34,Business,,650.0,5.0,Financial Services,Admit
+3167,Female,False,3.53,STEM,White,690.0,6.0,CPG,Admit
+1685,Female,False,3.24,STEM,Asian,630.0,6.0,PE/VC,Reject
+1958,Male,True,3.32,Humanities,,700.0,6.0,Investment Banking,Reject
+3078,Female,False,3.21,STEM,Black,700.0,4.0,Technology,Admit
+4349,Female,True,3.44,STEM,,730.0,5.0,Financial Services,Admit
+4546,Male,False,3.29,Business,White,670.0,5.0,Nonprofit/Gov,Admit
+5696,Male,False,3.21,Business,White,580.0,7.0,Other,Reject
+3838,Female,False,3.35,Humanities,Black,660.0,5.0,PE/VC,Reject
+3704,Female,False,3.42,STEM,Black,690.0,5.0,Investment Banking,Admit
+2069,Male,False,3.31,Humanities,Asian,610.0,5.0,Consulting,Reject
+1157,Male,True,3.32,Humanities,,710.0,6.0,Nonprofit/Gov,Admit
+5833,Female,False,3.26,Humanities,White,570.0,5.0,PE/VC,Reject
+2476,Male,True,3.38,Humanities,,680.0,6.0,Investment Banking,Reject
+34,Female,False,3.53,STEM,White,710.0,5.0,Consulting,Admit
+2447,Female,False,3.5,Business,Asian,700.0,6.0,Financial Services,Admit
+63,Female,True,3.0,STEM,,640.0,3.0,Financial Services,Admit
+3499,Female,False,3.18,Humanities,White,580.0,4.0,PE/VC,Reject
+1778,Female,False,3.51,Humanities,Black,700.0,5.0,Other,Admit
+711,Male,False,3.02,STEM,Asian,640.0,4.0,Retail,Reject
+3483,Male,False,3.38,STEM,White,680.0,4.0,Nonprofit/Gov,Admit
+4304,Female,True,2.93,Business,,600.0,6.0,Consulting,Reject
+2901,Female,True,3.32,Humanities,,600.0,7.0,Other,Reject
+1842,Male,False,3.4,Business,White,720.0,6.0,Other,Admit
+5026,Female,False,3.35,Humanities,Asian,610.0,4.0,PE/VC,Reject
+4843,Male,False,3.26,Humanities,Asian,650.0,4.0,Investment Management,Reject
+622,Female,False,3.4,Business,Hispanic,780.0,5.0,Technology,Admit
+2884,Female,False,3.39,STEM,White,720.0,6.0,Investment Banking,Admit
+5613,Male,False,3.38,Humanities,White,660.0,5.0,Consulting,Admit
+850,Female,False,3.19,Humanities,Asian,610.0,6.0,Consulting,Reject
+368,Male,False,3.27,Humanities,Black,690.0,6.0,Other,Admit
+2849,Male,False,3.46,Business,White,670.0,6.0,Consulting,Reject
+2204,Male,False,3.47,Business,Asian,670.0,5.0,Nonprofit/Gov,Admit
+980,Male,False,3.2,STEM,Asian,690.0,4.0,PE/VC,Reject
+5340,Female,False,3.41,Humanities,White,780.0,3.0,Consulting,Admit
+1987,Female,True,3.33,Humanities,,690.0,4.0,Financial Services,Admit
+164,Male,True,3.03,STEM,,570.0,5.0,Consulting,Reject
+2344,Male,True,3.05,Humanities,,660.0,6.0,Health Care,Reject
+724,Male,True,3.19,Humanities,,630.0,5.0,Health Care,Reject
+1621,Female,False,3.18,Business,Hispanic,670.0,5.0,Financial Services,Reject
+308,Female,False,3.34,Humanities,Asian,760.0,4.0,PE/VC,Admit
+4242,Male,False,3.12,STEM,White,690.0,6.0,Nonprofit/Gov,Reject
+3135,Female,True,3.07,Humanities,,660.0,6.0,Other,Reject
+3760,Male,False,3.28,Business,Asian,660.0,6.0,Investment Banking,Admit
+951,Male,False,3.37,Business,White,580.0,5.0,Financial Services,Reject
+465,Female,False,3.06,STEM,White,590.0,6.0,Consulting,Admit
+4449,Male,True,3.32,Humanities,,710.0,4.0,Financial Services,Admit
+3800,Male,True,3.21,STEM,,670.0,4.0,Technology,Admit
+2557,Female,False,3.34,Business,Black,680.0,6.0,Consulting,Admit
+2125,Female,False,3.3,STEM,Hispanic,700.0,6.0,Retail,Admit
+434,Male,True,3.54,Business,,690.0,4.0,PE/VC,Admit
+809,Male,False,3.33,Humanities,Black,680.0,4.0,Investment Banking,Admit
+865,Female,True,3.23,Humanities,,650.0,6.0,Nonprofit/Gov,Reject
+3786,Male,False,3.05,Business,Black,660.0,5.0,Consulting,Reject
+4130,Male,False,3.46,Humanities,Asian,730.0,6.0,Investment Banking,Admit
+3683,Male,True,3.28,STEM,,590.0,6.0,PE/VC,Reject
+4127,Male,True,2.88,Humanities,,570.0,5.0,Consulting,Reject
+32,Male,False,3.19,Humanities,White,580.0,5.0,PE/VC,Reject
+4153,Female,True,3.32,Humanities,,660.0,5.0,Investment Banking,Admit
+184,Male,True,3.29,Humanities,,660.0,6.0,Energy,Reject
+5793,Male,False,3.11,Humanities,White,580.0,5.0,Technology,Reject
+4881,Female,False,3.29,STEM,White,690.0,5.0,Nonprofit/Gov,Admit
+28,Male,False,3.39,STEM,Other,730.0,4.0,Other,Admit
+3531,Male,False,3.15,Humanities,Asian,640.0,5.0,Other,Reject
+1879,Male,False,3.24,Business,Asian,680.0,5.0,Consulting,Admit
+2329,Male,False,3.35,STEM,Asian,750.0,4.0,Investment Banking,Admit
+2763,Female,False,3.28,Humanities,Asian,630.0,4.0,Nonprofit/Gov,Reject
+4888,Female,True,3.03,Humanities,,580.0,4.0,Health Care,Reject
+5995,Female,False,3.27,STEM,Asian,660.0,4.0,Consulting,Admit
+3655,Female,False,3.28,Business,White,680.0,6.0,Consulting,Admit
+4958,Male,False,3.26,Business,White,630.0,4.0,PE/VC,Reject
+2952,Male,False,3.49,Humanities,White,730.0,5.0,PE/VC,Admit
+556,Female,True,3.23,Business,,680.0,4.0,Investment Banking,Admit
+4848,Male,False,3.38,STEM,Other,670.0,6.0,Consulting,Reject
+47,Male,True,3.13,Humanities,,610.0,5.0,PE/VC,Reject
+4464,Male,True,3.12,Humanities,,600.0,6.0,Consulting,Reject
+5077,Female,False,3.08,STEM,Black,590.0,6.0,Nonprofit/Gov,Reject
+5260,Male,False,3.23,Humanities,Asian,620.0,5.0,Investment Banking,Reject
+2247,Male,True,3.31,Humanities,,670.0,5.0,Other,Reject
+350,Male,False,3.17,STEM,Hispanic,700.0,5.0,Consulting,Reject
+4051,Male,False,3.39,Humanities,White,780.0,6.0,Nonprofit/Gov,Admit
+1504,Female,False,3.42,STEM,White,740.0,5.0,Nonprofit/Gov,Admit
+3634,Male,False,3.21,Humanities,Hispanic,690.0,5.0,PE/VC,Admit
+4348,Female,False,3.26,STEM,Hispanic,670.0,6.0,PE/VC,Reject
+3257,Male,True,3.15,Business,,640.0,3.0,CPG,Reject
+2251,Male,False,3.28,Business,Asian,740.0,5.0,Consulting,Admit
+3374,Female,False,3.12,Humanities,Black,680.0,4.0,Real Estate,Reject
+4774,Female,False,3.33,Business,Asian,700.0,4.0,Financial Services,Admit
+4510,Male,False,3.27,Humanities,Asian,720.0,5.0,Nonprofit/Gov,Admit
+5653,Male,False,3.44,Business,White,730.0,5.0,Health Care,Admit
+4788,Female,True,3.17,Business,,620.0,7.0,Nonprofit/Gov,Reject
+6107,Female,False,3.66,Business,White,690.0,5.0,Nonprofit/Gov,Admit
+4431,Male,True,3.32,STEM,,610.0,5.0,Consulting,Reject
+5135,Male,False,3.35,Humanities,Hispanic,750.0,4.0,Consulting,Admit
+5215,Male,False,3.35,Humanities,Asian,610.0,6.0,Real Estate,Reject
+4123,Male,False,3.42,Business,Hispanic,660.0,6.0,Other,Reject
+383,Female,False,3.1,Business,Asian,610.0,5.0,Nonprofit/Gov,Admit
+3175,Male,False,3.34,Humanities,White,650.0,4.0,Consulting,Reject
+3644,Male,True,3.55,STEM,,750.0,6.0,Health Care,Admit
+1030,Male,False,3.24,STEM,Asian,630.0,5.0,Technology,Reject
+3255,Female,False,3.27,Business,Hispanic,720.0,5.0,PE/VC,Admit
+4723,Male,False,3.2,Humanities,Black,640.0,4.0,Other,Reject
+264,Male,False,3.12,Humanities,Hispanic,620.0,4.0,PE/VC,Reject
+2446,Male,True,3.26,Business,,700.0,3.0,Nonprofit/Gov,Reject
+224,Female,False,3.19,Business,Asian,630.0,5.0,Investment Banking,Admit
+693,Male,True,3.26,Business,,650.0,4.0,Technology,Reject
+3538,Male,False,3.37,Business,White,620.0,5.0,Financial Services,Reject
+648,Female,True,3.12,Humanities,,690.0,6.0,PE/VC,Admit
+240,Female,False,3.27,Humanities,Black,680.0,5.0,Health Care,Admit
+5771,Male,True,3.3,Humanities,,670.0,5.0,PE/VC,Admit
+5768,Male,False,3.51,Business,White,740.0,4.0,CPG,Admit
+5763,Male,False,3.2,STEM,Black,730.0,6.0,Consulting,Reject
+2038,Female,False,3.38,STEM,White,660.0,5.0,Financial Services,Admit
+2207,Male,False,3.3,STEM,White,720.0,6.0,Nonprofit/Gov,Admit
+3920,Male,True,3.12,Humanities,,620.0,5.0,Other,Reject
+5593,Male,False,3.29,STEM,White,640.0,4.0,Investment Banking,Reject
+1478,Female,False,3.54,STEM,Other,590.0,5.0,Financial Services,Reject
+1168,Male,False,3.47,STEM,Black,700.0,5.0,Nonprofit/Gov,Admit
+4497,Male,True,3.31,Humanities,,680.0,5.0,Other,Admit
+5838,Female,True,3.11,Humanities,,630.0,5.0,Consulting,Reject
+3989,Female,True,3.32,STEM,,660.0,3.0,Consulting,Reject
+1284,Female,True,3.28,STEM,,610.0,5.0,Health Care,Reject
+3676,Male,False,3.25,Business,Asian,630.0,4.0,Nonprofit/Gov,Reject
+1428,Female,False,3.21,Business,White,700.0,6.0,Technology,Admit
+2475,Female,True,3.55,Business,,720.0,4.0,Nonprofit/Gov,Reject
+5254,Male,False,3.38,Humanities,Asian,690.0,4.0,PE/VC,Admit
+2262,Male,True,3.14,Business,,640.0,5.0,Consulting,Reject
+3271,Female,False,3.32,STEM,Asian,690.0,4.0,Nonprofit/Gov,Admit
+4134,Male,False,3.37,STEM,Asian,610.0,6.0,Financial Services,Reject
+2198,Male,True,3.42,Humanities,,690.0,5.0,Health Care,Admit
+275,Male,True,3.3,STEM,,650.0,5.0,Technology,Reject
+2387,Male,False,3.15,Business,White,590.0,3.0,Other,Reject
+1825,Male,False,3.25,Humanities,White,610.0,4.0,Other,Reject
+665,Male,True,3.32,STEM,,710.0,5.0,Financial Services,Admit
+1313,Female,True,3.31,Humanities,,690.0,6.0,PE/VC,Reject
+5744,Male,False,3.29,Business,Asian,680.0,4.0,Technology,Admit
+1214,Female,False,3.18,Humanities,Black,600.0,5.0,Nonprofit/Gov,Reject
+343,Male,True,3.28,Business,,660.0,4.0,Technology,Reject
+5727,Male,False,3.16,Business,Asian,640.0,5.0,Retail,Reject
+2645,Female,True,3.19,Business,,630.0,5.0,Other,Reject
+2254,Male,False,3.35,Business,Asian,780.0,5.0,Financial Services,Admit
+5192,Male,False,3.26,STEM,Other,650.0,4.0,Health Care,Reject
+1749,Male,False,3.19,STEM,Hispanic,680.0,5.0,PE/VC,Reject
+2073,Female,False,3.14,STEM,White,570.0,7.0,PE/VC,Reject
+376,Female,False,3.47,Business,Black,640.0,6.0,PE/VC,Reject
+1606,Male,False,3.23,STEM,Black,740.0,5.0,Investment Banking,Admit
+4182,Male,False,3.04,STEM,White,570.0,6.0,Consulting,Reject
+987,Male,False,3.21,Business,Hispanic,570.0,5.0,Nonprofit/Gov,Reject
+352,Female,True,3.09,Humanities,,660.0,6.0,Financial Services,Admit
+6127,Female,True,3.68,Business,,780.0,5.0,Investment Banking,Admit
+3274,Male,False,3.17,STEM,Asian,630.0,4.0,Consulting,Reject
+5445,Female,False,3.33,Humanities,Asian,720.0,5.0,Financial Services,Admit
+403,Male,True,3.22,Humanities,,640.0,5.0,Other,Reject
+3629,Female,True,3.16,STEM,,580.0,7.0,Other,Reject
+2006,Male,False,3.18,STEM,White,620.0,7.0,Consulting,Reject
+2334,Male,False,3.36,Business,Black,690.0,6.0,CPG,Admit
+3651,Male,False,3.17,STEM,Hispanic,630.0,6.0,Nonprofit/Gov,Reject
+3863,Male,False,3.22,Humanities,Black,650.0,5.0,Technology,Reject
+445,Female,False,3.18,Humanities,White,570.0,5.0,Investment Management,Admit
+4477,Male,False,3.52,Business,White,680.0,4.0,Consulting,Admit
+2137,Male,False,3.53,Humanities,White,740.0,5.0,PE/VC,Admit
+3913,Male,False,3.4,Humanities,Asian,680.0,7.0,CPG,Reject
+4002,Female,False,3.33,Humanities,Asian,690.0,8.0,Consulting,Reject
+1572,Male,True,3.24,Humanities,,670.0,5.0,Health Care,Reject
+478,Male,False,3.44,Business,White,740.0,4.0,Technology,Admit
+3283,Female,True,3.01,Business,,660.0,6.0,Financial Services,Reject
+782,Male,False,3.49,STEM,Black,690.0,6.0,Investment Banking,Admit
+2789,Female,False,3.36,Humanities,Hispanic,710.0,4.0,Technology,Admit
+1158,Male,False,3.32,Business,Asian,770.0,5.0,Health Care,Admit
+297,Female,True,3.34,Humanities,,570.0,5.0,Consulting,Admit
+487,Male,False,3.54,Humanities,Hispanic,700.0,4.0,Media/Entertainment,Admit
+3086,Male,False,3.22,Business,White,680.0,5.0,PE/VC,Admit
+2835,Male,True,3.27,Humanities,,670.0,4.0,Health Care,Reject
+5748,Male,False,3.24,Business,Hispanic,710.0,5.0,Technology,Admit
+2397,Male,False,3.06,Business,Asian,590.0,4.0,Consulting,Reject
+4600,Female,False,3.21,STEM,Asian,570.0,6.0,Nonprofit/Gov,Reject
+393,Male,True,3.37,Business,,680.0,5.0,Health Care,Reject
+3995,Female,True,3.37,Business,,620.0,4.0,Consulting,Reject
+5660,Male,True,3.24,Business,,570.0,5.0,Other,Reject
+4492,Male,True,3.4,Business,,670.0,4.0,Financial Services,Admit
+5631,Male,True,3.26,STEM,,600.0,5.0,Consulting,Reject
+1212,Male,True,3.24,Humanities,,710.0,6.0,Health Care,Reject
+2331,Female,False,3.19,STEM,Other,660.0,7.0,Health Care,Reject
+3168,Male,True,3.39,STEM,,680.0,5.0,Health Care,Admit
+2540,Male,True,3.28,STEM,,570.0,7.0,Investment Banking,Reject
+1776,Male,False,3.21,Humanities,Black,670.0,5.0,Consulting,Reject
+2255,Male,False,3.21,Humanities,Black,690.0,5.0,Media/Entertainment,Admit
+2,Male,False,3.28,Humanities,Black,680.0,5.0,Investment Management,Admit
+481,Male,True,3.3,STEM,,600.0,2.0,PE/VC,Reject
+2550,Female,False,3.37,Humanities,White,690.0,4.0,PE/VC,Admit
+5700,Male,True,3.25,Humanities,,630.0,4.0,Investment Banking,Reject
+5110,Male,False,3.34,Business,Asian,730.0,5.0,Consulting,Admit
+694,Male,True,2.96,Humanities,,590.0,5.0,Other,Reject
+2729,Male,False,3.31,STEM,Black,660.0,5.0,Health Care,Reject
+6071,Female,True,3.24,STEM,,680.0,6.0,Investment Banking,Admit
+2192,Male,True,3.28,STEM,,680.0,6.0,Nonprofit/Gov,Reject
+4441,Male,False,3.45,Business,Hispanic,770.0,5.0,Financial Services,Admit
+3016,Male,False,3.13,Humanities,Asian,630.0,5.0,Investment Management,Reject
+2473,Male,False,3.24,Business,Black,650.0,4.0,PE/VC,Reject
+2074,Male,True,2.84,STEM,,640.0,7.0,Investment Banking,Reject
+2356,Male,False,3.53,Business,White,670.0,6.0,Investment Management,Admit
+2442,Female,False,3.4,Humanities,White,690.0,5.0,Financial Services,Admit
+4929,Male,False,3.49,Business,Hispanic,690.0,4.0,Nonprofit/Gov,Admit
+868,Male,False,3.52,STEM,Asian,710.0,5.0,Media/Entertainment,Admit
+2285,Male,False,3.55,Humanities,Hispanic,710.0,4.0,Technology,Admit
+5728,Female,False,3.33,Humanities,Black,680.0,6.0,Health Care,Admit
+5869,Female,True,3.55,Humanities,,740.0,6.0,Financial Services,Admit
+2592,Female,False,3.35,Humanities,White,680.0,4.0,CPG,Admit
+5044,Female,False,3.22,Business,Asian,710.0,4.0,PE/VC,Admit
+949,Female,False,2.95,STEM,Asian,570.0,5.0,Investment Banking,Reject
+3706,Female,False,3.29,STEM,Asian,710.0,5.0,Nonprofit/Gov,Admit
+2065,Male,True,3.18,Business,,640.0,6.0,Consulting,Reject
+1120,Male,True,3.07,STEM,,660.0,5.0,Investment Banking,Reject
+5166,Female,False,3.41,Humanities,Asian,730.0,5.0,Technology,Admit
+5585,Male,False,3.22,Business,Black,730.0,6.0,Technology,Admit
+5610,Male,False,3.35,STEM,Black,690.0,4.0,Financial Services,Admit
+1658,Male,False,3.3,Business,Hispanic,660.0,4.0,Other,Reject
+5954,Male,False,3.39,STEM,Hispanic,680.0,5.0,Retail,Admit
+653,Male,True,3.29,STEM,,620.0,4.0,Consulting,Reject
+6110,Female,True,3.42,Humanities,,660.0,7.0,Consulting,Admit
+5641,Male,True,3.4,Business,,740.0,5.0,Consulting,Reject
+5373,Female,False,3.23,Business,Black,660.0,6.0,Consulting,Admit
+4502,Male,False,3.02,Humanities,White,630.0,4.0,Investment Banking,Reject
+1706,Male,False,3.31,Humanities,White,580.0,6.0,Investment Management,Reject
+4085,Female,True,3.18,Business,,570.0,4.0,PE/VC,Reject
+4083,Male,True,3.57,Humanities,,720.0,7.0,Financial Services,Admit
+2939,Male,False,3.24,STEM,Other,690.0,5.0,Technology,Admit
+5154,Male,False,3.42,Business,Black,650.0,5.0,Real Estate,Reject
+1677,Female,True,3.12,STEM,,610.0,5.0,Retail,Reject
+4539,Male,False,3.23,Humanities,Asian,600.0,4.0,Health Care,Reject
+475,Female,False,3.18,STEM,Hispanic,680.0,7.0,Consulting,Reject
+2966,Male,False,3.2,Humanities,White,600.0,4.0,Financial Services,Reject
+5968,Male,False,3.24,Business,Black,600.0,4.0,Technology,Reject
+6001,Male,False,3.24,Humanities,Black,610.0,5.0,Nonprofit/Gov,Reject
+4624,Male,False,3.32,Business,Black,750.0,5.0,Nonprofit/Gov,Admit
+2997,Female,False,3.18,STEM,Hispanic,700.0,5.0,Investment Banking,Reject
+4129,Female,False,3.25,Business,Asian,690.0,5.0,Consulting,Admit
+1858,Male,False,3.65,Humanities,Asian,760.0,4.0,PE/VC,Admit
+2951,Male,False,3.12,Business,Hispanic,570.0,5.0,Investment Banking,Reject
+5292,Male,False,3.25,Business,Hispanic,610.0,5.0,CPG,Reject
+2394,Male,False,3.08,STEM,White,570.0,6.0,Investment Management,Reject
+4911,Male,True,3.28,Business,,690.0,6.0,Financial Services,Reject
+5015,Female,True,3.32,Business,,650.0,6.0,Technology,Reject
+3260,Male,False,3.36,Business,White,680.0,3.0,PE/VC,Reject
+218,Female,False,3.02,Humanities,Asian,570.0,4.0,Consulting,Admit
+3943,Male,False,3.39,Humanities,White,680.0,4.0,Investment Banking,Admit
+1965,Male,False,3.33,Humanities,Asian,670.0,5.0,Financial Services,Admit
+2225,Male,False,3.28,Business,Black,610.0,6.0,PE/VC,Reject
+3212,Female,False,3.44,Business,Asian,700.0,5.0,Investment Banking,Admit
+5918,Female,False,3.45,STEM,White,690.0,6.0,Consulting,Admit
+2659,Male,False,2.9,STEM,White,680.0,4.0,Technology,Reject
+5059,Female,False,3.19,Humanities,Other,640.0,4.0,Financial Services,Reject
+4018,Male,False,3.63,Humanities,Asian,760.0,3.0,Consulting,Admit
+507,Female,False,3.33,STEM,White,660.0,5.0,Technology,Admit
+1139,Male,False,3.36,Humanities,Hispanic,690.0,5.0,Consulting,Admit
+3514,Male,True,3.09,STEM,,730.0,5.0,Media/Entertainment,Reject
+3227,Female,True,3.39,Business,,660.0,5.0,Investment Management,Admit
+1153,Male,False,3.38,Humanities,White,680.0,5.0,Investment Banking,Admit
+1539,Male,False,3.13,Humanities,Asian,630.0,4.0,Nonprofit/Gov,Reject
+312,Male,False,3.17,Humanities,Hispanic,670.0,2.0,Investment Banking,Reject
+3970,Female,False,3.4,Business,White,700.0,6.0,Consulting,Admit
+5670,Female,False,3.22,STEM,Black,660.0,4.0,Investment Banking,Reject
+5919,Male,False,3.44,STEM,White,680.0,5.0,Consulting,Admit
+1073,Male,True,3.19,STEM,,630.0,5.0,PE/VC,Reject
+3656,Male,False,3.21,STEM,Asian,680.0,4.0,Consulting,Admit
+3697,Male,False,3.18,Humanities,Black,630.0,5.0,Energy,Reject
+3965,Male,False,3.21,Humanities,White,610.0,6.0,PE/VC,Reject
+1311,Male,True,3.17,Business,,610.0,5.0,Consulting,Reject
+1672,Male,True,3.33,Business,,650.0,5.0,Consulting,Reject
+315,Male,False,3.33,Business,White,580.0,5.0,Consulting,Reject
+2993,Female,False,3.32,Business,Black,690.0,6.0,PE/VC,Admit
+5488,Female,True,2.86,STEM,,570.0,5.0,CPG,Reject
+3250,Male,True,3.2,Business,,690.0,4.0,Consulting,Reject
+1668,Male,False,3.45,Humanities,White,660.0,5.0,Financial Services,Admit
+2860,Male,False,3.41,Humanities,White,670.0,5.0,Investment Banking,Admit
+306,Female,False,3.24,Humanities,Hispanic,660.0,6.0,Consulting,Reject
+484,Female,False,3.27,Business,Other,580.0,5.0,Financial Services,Admit
+3839,Male,False,3.24,STEM,White,630.0,5.0,Investment Management,Reject
+4604,Male,False,3.31,Humanities,White,570.0,4.0,Technology,Reject
+4874,Male,True,3.29,Humanities,,650.0,5.0,Consulting,Reject
+3724,Female,False,3.04,STEM,Black,640.0,5.0,Health Care,Reject
+1079,Female,True,3.57,STEM,,680.0,6.0,Other,Admit
+3641,Female,True,3.18,Humanities,,610.0,5.0,Media/Entertainment,Reject
+1268,Male,False,3.25,STEM,White,680.0,5.0,Investment Management,Admit
+1234,Male,True,3.06,Business,,630.0,5.0,Technology,Reject
+1132,Female,True,3.58,Humanities,,720.0,5.0,Media/Entertainment,Admit
+568,Male,False,3.15,Humanities,Black,570.0,4.0,Investment Management,Reject
+6090,Male,False,3.5,STEM,White,700.0,3.0,Consulting,Admit
+4518,Male,False,3.51,Humanities,White,740.0,6.0,Investment Banking,Admit
+5942,Male,False,3.64,Business,White,740.0,6.0,Financial Services,Admit
+3268,Male,True,3.19,STEM,,680.0,3.0,Nonprofit/Gov,Reject
+423,Male,False,3.39,Business,Asian,710.0,3.0,PE/VC,Reject
+4487,Male,False,3.47,STEM,Black,710.0,4.0,PE/VC,Admit
+5439,Male,False,3.24,Humanities,White,710.0,5.0,Consulting,Admit
+4247,Male,False,3.38,Business,White,590.0,3.0,PE/VC,Reject
+151,Male,False,3.37,Business,Asian,710.0,5.0,Technology,Admit
+5562,Male,True,3.24,Humanities,,650.0,5.0,Technology,Reject
+4619,Female,False,3.51,Business,Other,710.0,4.0,Real Estate,Admit
+1620,Male,False,3.31,Business,White,660.0,6.0,PE/VC,Admit
+1084,Male,False,3.36,STEM,Asian,700.0,5.0,PE/VC,Admit
+3867,Male,True,3.34,Humanities,,590.0,5.0,Nonprofit/Gov,Reject
+2775,Male,True,3.4,STEM,,680.0,6.0,PE/VC,Admit
+2177,Male,False,3.14,Humanities,Black,620.0,5.0,Investment Banking,Reject
+2917,Male,False,3.33,Humanities,Black,690.0,5.0,Consulting,Admit
+4191,Female,True,3.39,Humanities,,740.0,5.0,Investment Banking,Admit
+3256,Female,True,3.31,Business,,670.0,6.0,Investment Banking,Admit
+932,Female,False,3.31,Business,White,660.0,4.0,PE/VC,Admit
+4537,Male,False,3.1,Business,Black,620.0,6.0,Consulting,Reject
+5642,Female,False,3.05,Humanities,Asian,570.0,6.0,PE/VC,Reject
+3922,Male,False,3.22,Business,Black,680.0,6.0,Investment Management,Admit
+5014,Male,False,3.25,Humanities,Other,710.0,6.0,Consulting,Admit
+1443,Male,False,3.24,STEM,White,690.0,4.0,Consulting,Admit
+3030,Male,True,3.22,Humanities,,680.0,5.0,Health Care,Admit
+3141,Female,False,3.22,Business,White,600.0,7.0,Technology,Reject
+3812,Male,False,3.34,STEM,Hispanic,730.0,5.0,PE/VC,Admit
+4193,Female,True,3.11,Business,,640.0,4.0,Health Care,Reject
+485,Female,True,3.2,STEM,,610.0,5.0,Real Estate,Admit
+385,Male,False,3.43,Humanities,Hispanic,660.0,4.0,CPG,Admit
+136,Female,False,3.06,Business,Black,650.0,5.0,Consulting,Reject
+118,Female,False,3.29,Humanities,Black,610.0,4.0,Consulting,Reject
+1853,Male,False,3.01,Humanities,White,670.0,3.0,Other,Reject
+2574,Female,False,3.37,Humanities,Hispanic,690.0,6.0,Consulting,Admit
+5967,Female,False,3.22,Humanities,Asian,660.0,5.0,Consulting,Admit
+4398,Female,False,3.44,STEM,Asian,700.0,6.0,Consulting,Admit
+5222,Female,False,3.18,STEM,White,640.0,4.0,Consulting,Reject
+3949,Female,False,3.5,Humanities,Asian,720.0,5.0,Financial Services,Admit
+20,Male,True,3.09,Business,,670.0,8.0,Consulting,Reject
+2130,Male,True,3.18,Business,,640.0,5.0,Financial Services,Reject
+5685,Male,False,3.33,Business,Asian,660.0,6.0,Nonprofit/Gov,Reject
+61,Female,False,3.27,Business,White,670.0,5.0,Consulting,Admit
+2829,Male,False,3.3,STEM,Hispanic,690.0,6.0,Consulting,Admit
+3176,Male,False,3.17,STEM,White,650.0,4.0,Nonprofit/Gov,Reject
+5868,Male,False,3.46,Business,Other,730.0,4.0,PE/VC,Admit
+4760,Male,False,3.17,Business,Hispanic,620.0,6.0,Consulting,Reject
+5540,Female,True,3.36,STEM,,760.0,5.0,Financial Services,Admit
+2959,Male,False,3.22,Humanities,Hispanic,610.0,6.0,Investment Banking,Reject
+5421,Female,False,3.52,STEM,White,680.0,5.0,PE/VC,Admit
+5590,Male,False,3.14,Business,White,640.0,4.0,Investment Banking,Reject
+2158,Male,False,3.29,STEM,White,610.0,7.0,Consulting,Reject
+1440,Female,False,3.2,Humanities,Black,580.0,4.0,Investment Management,Reject
+5667,Female,True,3.14,Business,,620.0,6.0,PE/VC,Reject
+607,Female,True,3.0,Business,,630.0,3.0,Consulting,Admit
+3203,Male,True,3.4,Humanities,,660.0,7.0,Nonprofit/Gov,Reject
+2044,Male,True,3.16,Humanities,,570.0,4.0,Consulting,Reject
+2108,Male,False,3.31,STEM,White,680.0,7.0,Technology,Admit
+5635,Male,False,3.18,STEM,Asian,580.0,3.0,Consulting,Reject
+5130,Male,False,3.44,STEM,Black,770.0,5.0,Investment Banking,Admit
+4716,Female,False,3.08,Humanities,Asian,610.0,5.0,PE/VC,Reject
+4095,Male,True,3.28,Business,,600.0,6.0,Investment Banking,Reject
+2068,Female,False,3.33,Humanities,Asian,610.0,4.0,PE/VC,Reject
+2282,Female,False,3.22,Humanities,White,700.0,4.0,Nonprofit/Gov,Admit
+6108,Male,False,3.26,Humanities,White,680.0,5.0,Nonprofit/Gov,Admit
+3389,Male,False,3.11,STEM,Asian,630.0,5.0,Health Care,Reject
+4974,Female,False,3.59,Humanities,White,750.0,3.0,Consulting,Admit
+4752,Male,False,3.12,STEM,Hispanic,580.0,5.0,Other,Reject
+1957,Male,False,3.25,Humanities,White,660.0,5.0,Financial Services,Admit
+2605,Female,False,3.24,Business,White,640.0,4.0,Nonprofit/Gov,Reject
+3193,Male,False,3.1,Humanities,Asian,580.0,5.0,Other,Reject
+3150,Male,True,3.07,Business,,570.0,5.0,PE/VC,Reject
+460,Male,False,3.4,Business,Asian,680.0,5.0,Consulting,Admit
+524,Male,True,3.16,STEM,,660.0,4.0,Technology,Reject
+3722,Female,False,3.36,Business,White,750.0,5.0,Investment Banking,Admit
+6116,Female,False,3.15,STEM,Black,610.0,5.0,Consulting,Reject
+3610,Male,True,3.33,Humanities,,650.0,5.0,Investment Management,Reject
+5078,Female,True,3.16,Business,,620.0,6.0,Nonprofit/Gov,Reject
+4219,Female,False,3.31,STEM,White,720.0,4.0,Consulting,Admit
+1513,Female,False,3.43,STEM,Asian,700.0,3.0,PE/VC,Admit
+5694,Male,False,3.17,Humanities,Black,630.0,6.0,Consulting,Reject
+2723,Male,False,3.28,STEM,Other,690.0,6.0,Other,Admit
+1745,Female,False,2.82,Humanities,Black,630.0,5.0,CPG,Reject
+39,Female,False,3.3,Humanities,Asian,740.0,6.0,Investment Banking,Admit
+1454,Male,True,3.58,Business,,730.0,6.0,Other,Admit
+4634,Female,False,3.23,STEM,Asian,690.0,4.0,PE/VC,Admit
+5461,Male,False,3.14,Humanities,White,620.0,5.0,Consulting,Reject
+3640,Female,False,3.25,STEM,Asian,710.0,5.0,PE/VC,Admit
+4761,Male,False,3.3,Humanities,Asian,710.0,4.0,Financial Services,Admit
+1200,Female,False,3.18,STEM,Asian,650.0,6.0,Nonprofit/Gov,Reject
+2295,Female,False,3.3,Humanities,Asian,670.0,4.0,Real Estate,Reject
+6047,Male,False,3.41,STEM,White,710.0,5.0,Technology,Admit
+5617,Male,False,3.0,STEM,Black,590.0,4.0,Investment Management,Reject
+2802,Male,True,3.3,STEM,,710.0,6.0,PE/VC,Admit
+6015,Female,False,3.31,Business,White,670.0,6.0,Investment Banking,Reject
+316,Female,False,3.29,Humanities,Asian,700.0,4.0,Investment Management,Admit
+1294,Male,True,2.93,Humanities,,610.0,7.0,Consulting,Reject
+157,Male,True,3.42,STEM,,630.0,6.0,Financial Services,Reject
+5899,Female,True,3.31,Humanities,,660.0,5.0,Consulting,Admit
+912,Male,True,3.41,STEM,,710.0,6.0,Nonprofit/Gov,Admit
+4861,Female,False,3.4,Humanities,White,690.0,5.0,Real Estate,Admit
+1499,Female,False,3.32,Business,White,690.0,5.0,Other,Admit
+4797,Male,False,3.16,Business,Hispanic,640.0,4.0,Consulting,Reject
+1641,Male,False,2.9,Business,Hispanic,570.0,6.0,Other,Reject
+4275,Male,False,3.25,Humanities,Other,720.0,4.0,Investment Banking,Admit
+4402,Male,False,3.31,Business,Asian,740.0,6.0,Financial Services,Admit
+5122,Female,False,3.38,Business,White,740.0,5.0,Consulting,Admit
+3185,Female,False,3.23,Humanities,Other,670.0,6.0,Consulting,Admit
