@@ -68,7 +68,7 @@ Edit
 jupyter notebook
 Run project1.ipynb
 
-##📈 Example Snippet
+## 📈 Example Snippet
 python
 Copy
 Edit
@@ -78,7 +78,8 @@ import numpy as np
 # Load dataset
 data = pd.read_csv("MBA1.csv")
 print(data.head())
-##🎯 Key Features
+---
+## 🎯 Key Features
 📊 End-to-end data analysis workflow
 
 🧹 Data cleaning and preprocessing
@@ -90,19 +91,19 @@ print(data.head())
 ✅ Model evaluation and accuracy scoring
 
 🔍 Insights from admission-related factors
-
-##🤖 Future Improvements
+---
+## 🤖 Future Improvements
 Add support for multiple ML models (Logistic Regression, Random Forest)
 
 Deploy as a Streamlit web app
 
 Interactive visualizations
-
-##👤 About the Author
+---
+##  👤 About the Author
 Rohit Anand
 📍 AI/ML Intern | Data Science Enthusiast
 🔗 GitHub • LinkedIn
-
+---
 ##📄 License
 Licensed under the MIT License – feel free to use and adapt!
 
